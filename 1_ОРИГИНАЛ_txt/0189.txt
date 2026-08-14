@@ -1,0 +1,79 @@
+[15975] "Sure hope we can stomp them out. People from the Outside are watching, and if we don't deal with them, it could come back to bite us."
+[15976] "I bet those guys must be getting anxious."
+[15977] "We just gotta pray that sparks don't start flying around here. As you were."
+[15978] "Yes, sir!"
+[15979] "This is a sign of Mr. Yorozu's benevolence, an achievement quite comparable to a miracle.
+[15980] We could all learn a lesson from this, and―"
+[15981] "Oh... What's this...?"
+[15982] "Haah, fahhh... I-I dunno... Some kind of gate...? It's wide open..."
+[15983] "It's... hmm... pretty dark in there.
+[15984] I can't see a thing."
+[15985] "Well, we haven't seen any staircases yet...
+[15986] so maybe there's one though there."
+[15987] "Possibly..."
+[15988] "What should we do?"
+[15989] "...We go in."
+[15990] "Yeah. I dunno what's through there, but we can worry about that after we're in!"
+[15991] "O-Okay, let's go! Uhh, but let's proceed with extreme caution..."
+[15992] "...It's so big... but there's nothing in here..."
+[15993] "I don't sense anything moving in here, either...
+[15994] At least, not at the moment."
+[15995] "No... There's gotta be something in here..."
+[15996] "Kuma... There's someone over there..."
+[15997] "Ahh, welcome! I've been waiting for you.
+[15998] I hope you enjoyed the grand tour of our headquarters."
+[15999] "Asougi...!"
+[16000] "So you were here all along, were you, Hisamitsu? Grandma's orders, huh?"
+[16001] "...I hate to see you justifying them, Kazutaka.
+[16002] But I have to admit, I'm not all that surprised."
+[16003] "Right... Y'know, I realized something.
+[16004] Humans ain't that great at pushing themselves."
+[16005] "I don't understand that at all. Is it really that enjoyable to lead those kids around?"
+[16006] "I made a place I enjoyed being in.
+[16007] That's the healthy way to be alive!"
+[16008] "Well, I believe it's more appropriate for humans to inherit the accomplishments of our ancestors and pass them on to the next generation."
+[16009] "Stick to that idea too hard and it just causes trouble. At some point, you're using our ancestors like a handy excuse."
+[16010] "That's might be where our opinions differ.
+[16011] Is it so wrong to adapt to changing times?"
+[16012] "I'm not sayin' it's wrong.
+[16013] I'm sayin' I don't like it, hear?"
+[16014] "I see... Well, it seems to me that you're back to your former self, aren't you?"
+[16015] "The thought of smashing in that big, arrogant face of yours was just too appealing to resist."
+[16016] "It's harder to create than to destroy, you know?
+[16017] I was rather hoping that you'd come back to us..."
+[16018] "It's nice to finally meet one of you.
+[16019] An Asougi who talks like an Asougi."
+[16020] "Hmm? Ahh, um... You must be the child of...
+[16021] What was that family's name again?
+[16022] Mibu, was it?"
+[16023] "Sorry, my grandmother would know more about you, but I just don't know the details."
+[16024] "So it would seem... I can't imagine that your ilk would care to remember all the people you trample like trash."
+[16025] "...But if you don't know, that's perfectly fine.
+[16026] You can die with the sins of your family!"
+[16027] "Oooh, how scary..."
+[16028] "So... this is your other job, is it, Mistress?"
+[16029] "That's right... It is my duty to do whatever is ordered of me by Mr. Hisamitsu."
+[16030] "It always has been.
+[16031] Ever since the beginning."
+[16032] "...!"
+[16033] "While I'm grateful that you've saved me from attending that tedious ceremony, I can't have you wreaking havoc in our HQ. It's time to end this."
+[16034] "You ready to fight, then?"
+[16035] "That's right. Well, my apparatus is, to be specific."
+[16036] "Huh? What's that?"
+[16037] "Izumi?"
+[16038] "Yes."
+[16039] "Why is Mistress climbing up that wall...?
+[16040] H-Huh...?"
+[16041] "Huh? T-That wall just...?!"
+[16042] "That's not a wall... That's... It's a big..."
+[16043] "It's so big, you didn't even notice, did you?
+[16044] My Original is no ordinary apparatus."
+[16045] "W-W-W-W-W-W-W-What...?!"
+[16046] "What is that thiiiiiiiiiiiiiing?!"
+[16047] "Allow me introduce you to Original. All the robots you've seen around the city are more compact and eco-friendly models of this."
+[16048] "D-Does that thing... move?!"
+[16049] "Of course. It's being piloted."
+[16050] "Initiating Original."
+[16051] "Ahh, Mistress is―"
+[16052] "Gehh! It's really moving!"
+[16053] "Well... You know, I've been wanting to see it in action."

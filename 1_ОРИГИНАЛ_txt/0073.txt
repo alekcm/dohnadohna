@@ -1,0 +1,77 @@
+[6290] "We've already decided ta retreat, so turn your ass around and let's get outta here!
+[6291] Run!"
+[6292] "Y-Yes, sir...!"
+[6293] (No matter where we go, they've all got assault rifles now...!)
+[6294] "Hmm?! Found one!"
+[6295] "Argh! I ain't interested in bein' bum buddies with ya!"
+[6296] "Huh...? How pathetic. Is that really the Shinonome clan?! Hehe. Heheheheheh!"
+[6297] "..."
+[6298] "Huh? What's the matter, Kuma?
+[6299] You look even sourer than usual."
+[6300] "It's Asougi's new gear..."
+[6301] "Ahh... You said Mistress can't help us?"
+[6302] "...Yeah. You have to wonder what's changed."
+[6304] "It's been stun guns and nightsticks all this time, and now suddenly it's fuckin' assault rifles..."
+[6305] "I did some investigating, and it seems all the guards throughout the city have been supplied with the same new equipment."
+[6306] "Guess hunting in the usual spots is going to be even harder now..."
+[6307] "Why would they hand such dangerous firearms to guards run by a private company...?"
+[6308] "Seriously, when's it gonna sink in?
+[6309] Asougi is batshit!"
+[6310] "I... I know."
+[6311] "We're past the point of getting by with bulletproof armor. One stray bullet can even blast through walls..."
+[6312] "Keh... It's insanity. What is this, America?!"
+[6313] "What if we stole their weapons?"
+[6314] "I'd like to give that a try, too, but we haven't had a chance do it yet..."
+[6315] "It's a pain in the ass... but I guess we just gotta dodge harder while we wallop 'em."
+[6316] "He's right. We don't necessarily have to change our tactics."
+[6317] "Sure, let's all rely on our superpowers...
+[6318] You call 'knuckle down and dodge bullets' a strategy?!"
+[6319] "Oh, that's unlike you. I didn't know you were such a chicken."
+[6320] "Huuh?! I ain't a chicken! I'll show you!"
+[6321] "It's not much of a plan. Unfortunately, it's the only option we have right now..."
+[6322] "Yo! Sorry to impose."
+[6323] "Waah! F-Flattt...!"
+[6324] "Jooooker! Long time, no seee!
+[6325] Have you been a good little boy?"
+[6326] "Uhh... y-yes..."
+[6327] "Ahaah! You're so cute... Hey,
+[6328] why don't you and I go talk over there?"
+[6329] "Waah! H-Hang on...!"
+[6330] "Yeah, you're imposin', all right...
+[6331] Still alive, are ya?"
+[6332] "Hate to disappoint ya, but I'm still standing.
+[6333] 'Course, it was touch 'n' go for a while there..."
+[6334] "So, you've returned, have you?
+[6335] Next time, I won't take my eyes off you."
+[6336] "Kikuchiyo, huh? Guess the word that the Shinonome booted you was true."
+[6337] "...Yes."
+[6338] "It sounded like a load of horseshit to me when I heard that you'd been adopted by Nayuta, but I guess that was true, too."
+[6339] "Well... there's a reason for that..."
+[6340] (Huh? Did she just look at me...?)
+[6341] "Well? Whaddaya want? If you wanna chat over tea, then go bug someone else."
+[6342] "Well, small talk's all a part of diplomacy...
+[6343] Anyway, I had something I wanted to discuss with a fellow clan... About Asougi, of course."
+[6344] "You mean about their new gear?"
+[6345] "Yep. Before it was always rubber bullets, but now they've busted out the damn live ammo!
+[6346] You guys must be struggling with it too, right?!"
+[6347] "Betcha went crying to Mistress, too, but she couldn't help ya, and then you were too spooked to go hunting... right?"
+[6348] "Huh?! Are you here to start a fight, asshole?!"
+[6349] "...Flattt must be in real trouble, huh?"
+[6350] "...Huh?"
+[6351] "I hate to break it to you, but our morale is fine.
+[6352] We've got so many hotheads, like our leader, we don't know what to do with ourselves."
+[6353] "...Why are you looking at me?"
+[6354] "...No reason."
+[6355] "In this situation, if we can face down Asougi and the other clans can't move, what we have is a monopoly. We don't need to negotiate."
+[6356] "...But Flattt's not quite so lucky at the moment.
+[6357] That's why you want to get your hooks in us...
+[6358] and use us to shore things up. Is that right?"
+[6359] "What a cheeky way of lookin' at things."
+[6360] "Pushing the other party into getting to the point is the foundation of diplomacy."
+[6361] "Hmph, fine! I wanted to talk about gear.
+[6362] I know a way to get ahold of the same gear that they're using."
+[6363] "Huh, and how's that?"
+[6364] "I'll only tell ya if you're willing to help us with somethin'."
+[6365] "What is it?"
+[6366] "Well, we're gettin' kinda low on members...
+[6367] mostly 'cause a certain clan snatched a certain sniper of ours..."

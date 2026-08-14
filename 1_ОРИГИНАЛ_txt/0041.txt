@@ -1,0 +1,96 @@
+[3449] "Ru-ru-ru-ru! I'm picking up a signal!
+[3450] They're close!"
+[3451] "I saw it! This time, I saw it clearly!
+[3452] They're up there!"
+[3453] "On that gantry crane...?"
+[3454] "Arriiiiight! Let's climb, climb, climb!"
+[3455] "Let's make them pay. We're not going to show this sniper aaany mercy."
+[3456] "I don't see any Flattt thugs around...
+[3457] You'd think this'd be the point they'd wanna protect the most..."
+[3458] "Yeah, I noticed that too. Maybe they're not working together...? Or maybe they think of this sniper as expendable."
+[3459] "If they wanted to keep their whereabouts hidden, they would've tried to do something to make them harder to locate..."
+[3460] "You think they just sent their sniper out to die?
+[3461] Then I guess this'll all be over soon. Now..."
+[3462] "Huh?! Is that them?"
+[3463] "Aha! There's so many people climbing up the crane!"
+[3464] "...One, two, three... Lots!
+[3465] Which one first...?"
+[3466] "...Okay, then! I'm gonna go bang-bang."
+[3467] "All right! Ready... Bang!"
+[3468] "Get down...!"
+[3469] "Aaaaaaaaah!"
+[3470] "Gyaah!"
+[3471] "W-What?! Joker and Antenna, too?!"
+[3472] "Medico! We need first aid!
+[3473] Take cover in that blind spot!"
+[3474] "Y-Yes, right away!"
+[3475] (Huh?! They shot two people at once?!
+[3476] I only heard one gunshot...! But wait.
+[3477] I only heard one shot the first time, too...)
+[3478] (The bullet didn't ricochet, did it...? But how could you even aim for that in the first place...?!)
+[3479] "Tch...! We're not getting anywhere.
+[3480] Out of my way! I'll―"
+[3481] "Wait, something's not r―"
+[3482] "What...?!"
+[3483] "...Ghh-hah...!"
+[3484] "Ghh...! H-Hey, you―!"
+[3485] "Kuma...!"
+[3486] "No, Kuma...!"
+[3487] (...Where did they shoot from...?)
+[3488] "Ahh! Hey...!"
+[3489] "Zappa...! Kuma fell! He's been―!"
+[3490] "What...?!"
+[3491] "Aww, that guy got in the way and made me miss."
+[3492] "You! You're the one who shot him!"
+[3493] "Ahh! You found me!"
+[3494] "It's just some kid...?! Anyway, we're gonna―"
+[3495] "Mm-hm, I got it. See ya!"
+[3496] "What?! S-She just jumped off! Seriously?!"
+[3497] "What can I say? She may've had a cute face, but that's no ordinary girl."
+[3498] "That wasn't just unordinary. That was inhuman! How high up are we, even...?
+[3499] Oh."
+[3500] "The way she used the crane hook was smart, and she moves pretty good in that dress."
+[3501] "Anyway, look. We gotta find Kuma...!"
+[3502] "..."
+[3503] "...Ooooof..."
+[3504] "Ghh... I-I thought I was dead..."
+[3505] "I guess I hit the crane enough on the way down that the ground went easy on me...?"
+[3506] "...Crap!"
+[3507] "Hey, find anyone?"
+[3508] "Nope, but I heard some pretty mean gunfire.
+[3509] There's gotta be somebody around there."
+[3510] "Then let's go look for a corpse to kick."
+[3511] "..."
+[3512] "Okay, they're gone... First things first...
+[3513] I need to find somewhere safe..."
+[3514] "Haah, haah... Maybe around here..."
+[3515] (Dammit... There's more Flattt thugs around than I thought... They're roaming the area while their sniper takes the heat from us...)
+[3516] "...I still have some bullets left, but not many...
+[3517] I hope I can hold out until I manage to regroup with the others..."
+[3518] "Ooh, I found somebody."
+[3519] "Shit...!"
+[3520] "And he's all by himself!
+[3521] All right, let's squash him...!"
+[3522] "Disappear, churl!"
+[3523] "Ahh-gahh..."
+[3524] "Kikuchiyo...!"
+[3525] "You came all the way here by yourself?
+[3526] You just made it take longer for me to find you."
+[3527] "...Did you, uh, rescue me just now?"
+[3528] "...N-No, that was by total coincidence.
+[3529] I came looking for you because I had something I needed to ask you."
+[3530] "Something to ask me?"
+[3531] "That's right. Why did you...
+[3532] protect me from that bullet?"
+[3533] "...That's what you caught up to me to ask?"
+[3534] "If you had died before I got the chance, it would have weighed on me to never know the answer. That is all."
+[3535] "No real reason. I guess you could put it down to another 'total coincidence,' like you said."
+[3536] "...How dare you mock me."
+[3537] "Seriously though, I didn't have a reason.
+[3538] Looking back, it feels illogical to me, too...
+[3539] so please don't reach for your katana."
+[3540] "Hmph. What a waste of effort."
+[3541] "Sorry about that."
+[3542] "...How are your wounds?"
+[3543] "They're fine... Well, not really, but I did some quick first aid. I won't be dying just yet."
+[3544] "You mean those loose bandages?"

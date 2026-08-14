@@ -1,0 +1,75 @@
+[32007] "Just... think of it like hanging out. Have you ever eaten cake before? You ever been to a theme park?"
+[32008] "...You all act as though I come from the Sengoku period..."
+[32009] "So you're not interested, then?"
+[32010] "I-I never said I wasn't interested...!
+[32011] I'll go. Of course I'll go."
+[32012] "Then it's a date. Anyway, it's getting kinda cold up here..."
+[32013] "I can leave whenever."
+[32014] "In that case, how about we get going, then?"
+[32015] "And I know it's laughable coming from me, but let's just go out like an ordinary couple."
+[32016] "...Okay."
+[32017] "Ahh, but..."
+[32018] "Hmm? What's wrong?"
+[32019] "Well... I'm perfectly happy with just being normal... but not only that... I..."
+[32020] "How do I put this...? I'm not opposed to...
+[32021] being abnormal, or doing unusual things, either... as long as it's with you..."
+[32022] "...Hmm?"
+[32023] "Ahh, I mean, I'm not saying you have to...
+[32024] Only if you, don't mind. But..."
+[32025] (What happened on the ship...
+[32026] is really weighing on her...)
+[32027] "Hmm. You and I have already done a lot together. Are you still worried about that?"
+[32028] "No, I don't mind anymore. But I can't anticipate how you think."
+[32029] "I feel as though I have to worry about what you might have in store for me... That's what I think."
+[32030] "Well, I guess..."
+[32031] "But sometimes you end up tormenting me in ways I could never imagine."
+[32032] "Ngh..."
+[32033] "If you're hiding your true intentions from me...
+[32034] I would probably be oblivious to it, so..."
+[32035] "Look..."
+[32036] "Ahh..."
+[32037] "Nngh...?! Nnh-chhh..."
+[32038] (Huh? Did he, just, kiss me...?)
+[32039] "...Does that clear things up for you?"
+[32040] "Mm... Y-Yeah..."
+[32041] "Look. Proving my true feelings to you is much, much harder than keeping your wheels spinning with true-sounding lies."
+[32042] "Mgh... S-So you think I'm some sort of paranoid woman, do you?"
+[32043] "It's not that I think you're paranoid.
+[32044] It's more that you're surprisingly timid, but I didn't want to say that to your face."
+[32045] "How dare you say that to my face!"
+[32046] (...But she's right... I guess I've got...
+[32047] a bit of a nasty streak...)
+[32048] "...?"
+[32049] (...Well, whatever. If she's happy being with me like this...)
+[32050] "What's wrong? If we've made up our minds, then let's get going. We're running out of time, aren't we?"
+[32051] "...Yeah, you're right. We can't keep living carefree like this forever..."
+[32052] "Yeah, so let's have fun while we can. We have to put it all on the line to take down Asougi, so before then, I wanna experience everything I can."
+[32053] "Everything, huh? We're going to have to stay up all night to do that."
+[32054] "...You idiot. I-I'm not just talking about that."
+[32055] "I know... Shall we get going, then?"
+[32056] "Yeah, let's hurry. Don't slow me down!"
+[32057] "All right, you've got it from here."
+[32058] "Leaving all the decision-making to me again?
+[32059] Dammit... Well, I'll give it a shot."
+[32060] "Ahahah! It's 'cause I know you're a reliable guy! How'd you like to be leader from now on?"
+[32061] "Pass. I can't imagine any good coming out of having you as my subordinate."
+[32062] "Hmm, really? I reckon we could make it work.
+[32063] Anyway, I'm counting on ya!"
+[32064] "I swear... This happens every single time.
+[32065] I'm always getting bullshit foisted on me..."
+[32066] "..."
+[32067] "Kuma, Kuma! Got a sec? I need your help!"
+[32068] "Kirakira? What's the matter?"
+[32069] "I broke a nail... This is a disaster...!"
+[32070] "Oh dear, poor you. Don't go slitting your wrists over it."
+[32071] "It's not just that! It happened during our last hunt! This is a work-related injury!"
+[32072] "Sorry, but our clan doesn't comply with the Labor Standards Act."
+[32073] "What?! But I spend money on clothes and stuff too, and my budget is really tight right now!"
+[32074] "I'm gonna need a few things to fix it myself.
+[32075] And I wanna dazzle it up some more..."
+[32076] "It'd be one thing if you needed money for your hunting gear, but it's not gonna kill you to leave that nail alone..."
+[32077] "Ahh."
+[32078] "Heyyy, pleeeease, Papa! I promise to make it up to you tonight♪" "...I see. We'll go out hunting somewhere hard, and you'll lead an extra-dangerous charge?"
+[32079] "Nooooo! Don't run off!"
+[32080] "Goddammit... All right, all right. This one time.
+[32081] It's coming out of our hunting fund, so you better bring me the receipts."

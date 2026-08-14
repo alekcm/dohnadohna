@@ -1,0 +1,84 @@
+[15476] "Gyaaah!"
+[15477] "Khh! That sniper...! Be careful!
+[15478] They're aiming for our flashlights!"
+[15479] "Grrrhhhh...! Can't see shit... If we try to move, we're just gonna get shot..."
+[15480] "Hey, go grab the infrared goggles!
+[15481] And careful making light!
+[15482] No guns, ready your stun batons!"
+[15483] "Y-Yes, sir!"
+[15484] "If we fail to fulfill Mr. Kazutaka's direct order to capture them, who knows how we'll be punished...?"
+[15485] "All right, proceed with caution. We don't know where they're aiming at us from..."
+[15486] "Phew! We managed to escape!"
+[15487] "Heh! Those dumbasses! Hope they stay in there being stupid forever!"
+[15488] "They're so spooked, thinking that ALyCE is sniping them... We got 'em good!"
+[15489] "Did you lock up?"
+[15490] "You bet! It'll only buy us a little time, but it should be enough to let us make our escape."
+[15491] "All right... It's a good thing we put in those electric locks."
+[15492] "B-But just as we're about to invade their headquarters, they just so happen to invade our base, as well..."
+[15493] "Maybe they always knew where we were."
+[15494] "I dunno... but I was pretty shocked...!"
+[15495] "Keh! Who cares about that?!
+[15496] Today's still Attack Day anyway, right? Let's get moving!"
+[15497] "Yeah, you're right. We need to hit Asougi HQ before they catch up to us!"
+[15498] "O-Okay!"
+[15499] "...I can't help but feel they were going easy on us. It didn't feel like it was life or death back there."
+[15500] "Yeah, I feel the same way, but we don't have time to analyze it. We're already diverging from our plan."
+[15501] "It's Animal Alley from here, isn't it?"
+[15502] "Yeah, and no matter who or what we run into, we've gonna smash right through them...
+[15503] Let's move."
+[15504] "Wait!"
+[15505] "Waah-wawah! W-What's wrong?!
+[15506] Are we going the wrong way?!"
+[15507] "No, but... look."
+[15508] "Ahh..."
+[15509] "It's one of those robots...
+[15510] And there's so many guards..."
+[15511] "We took too long to get going... and they're deviating off their regular route."
+[15512] "So what are we gonna do?
+[15513] We can't just stand here!"
+[15514] "Yeah, you're right, but..."
+[15515] "Is it time for bang-bang?"
+[15516] "No. I'd really like to avoid getting into a fight with that many guards..."
+[15517] "But is there any other way around?
+[15518] There's Asougi wherever we go!"
+[15519] "..."
+[15520] "Yo, what're you lot doing out here roaming the streets?"
+[15521] "Shinazu...?! The Shinonome clan...?"
+[15522] "You taking that pistol with you on a picnic?
+[15523] I hear there's a big festival on tonight."
+[15524] "H-Huh? The devil-men?!
+[15525] Are we about to get attacked?!"
+[15526] "..."
+[15527] (Tch! This is bad...! What do we do...?!)
+[15528] "You idiot! Why would Anti-Aso clans go killin' each other when there's Asougi ta kill?"
+[15529] "Huh?"
+[15530] "There's a helluva lotta guys over there.
+[15531] We ain't got much goin' on, and we could use the exercise."
+[15532] "...Shinazu?"
+[15533] "Ahh, I wouldn't mind usin' a train to charge into 'em like you guys did. Figure they think we're crazy enough ta try the same trick twice?"
+[15534] "Huh? Huh...? Are you saying you'll help us?
+[15535] ...Are you a sweetheart on the inside?"
+[15536] "You stupid? Our enemy's been Asougi from the beginnin'!"
+[15537] "You guys do what you like! Not that I know what a buncha kids can do without their leader around..."
+[15538] "Let's do this, guys!"
+[15539] "Yes, sir! Men, draw your blades!"
+[15540] "Shinazu!"
+[15541] "Gh..."
+[15542] "Once everything has calmed down, I'm taking back the Shinonome clan.
+[15543] I don't care what you think."
+[15544] "..."
+[15545] "I'll do what I want to do and what I need to, and I'm prepared to cross blades with you if I have to."
+[15546] "...Hah! I'd like ta see you try."
+[15547] "Now... let's keep going. They're going to carve open a path for us."
+[15548] "...Nayuta's rubbed off on you, too, hasn't it?"
+[15549] "That's your fault... All of you."
+[15550] "Looks like you can't die here, can you, Shinazu?"
+[15551] "...You dumbass. Since when am I killable?
+[15552] Who the hell do ya think I am...?"
+[15553] "Anti-Aso identified! Battle positions!"
+[15554] "I'm Shinazu the Invincible!
+[15555] Now chaaaaaaaarge!"
+[15556] "Ahh, not again!"
+[15557] "Arrrghh! Just how many of these guards are there?!"
+[15558] "There's nothing we can do about it. We're just gonna have to make our way through!
+[15559] Try to blend in with the pedestrians, and―"

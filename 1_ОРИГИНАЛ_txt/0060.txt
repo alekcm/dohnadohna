@@ -1,0 +1,92 @@
+[5126] "Who's next? Who?
+[5127] I'm ready to bang-bang!"
+[5128] "Is that all they've got?
+[5129] They need to train harder."
+[5130] (H-Hmm... Wow, they're superhuman...
+[5131] I-I gotta keep up somehow!)
+[5132] "Impressive."
+[5133] "This is nothing."
+[5134] "By the way... did you change your combat uniform?"
+[5135] "Y-Yes, seeing as I'm no longer part of the Shinonome clan.
+[5136] That Kirakira girl made it."
+[5137] "She did? Fine by me."
+[5138] "..."
+[5139] "...?"
+[5140] "S-So... don't you have any opinion?
+[5141] D-Do you like it or not...?"
+[5142] "Um...? I've got no problem with it.
+[5143] Nayuta doesn't have a dress code."
+[5144] "Khh... I-I see... Hmph."
+[5145] "Whaddaya think? I think I did a good job with all the ideas she had!"
+[5146] "...Did she have many?"
+[5147] "W-Well...! W-When in Rome... right?!"
+[5148] "I-I feel uncomfortable about this, too, you know?! You all wear such gaudy outfits... so..."
+[5149] "...S-So I thought... I should, too..."
+[5150] "...It's not like I'm in charge of uniform inspections. Anyway, it's nice that you're making an effort to fit in."
+[5151] "Ngh... Ghh, dammit! You confusing idiot!"
+[5152] "Uh-oh..."
+[5153] "She always seems so pissed off..."
+[5154] "Anyway... I can't tell who's a member of that independent group..."
+[5155] "Don't worry about it. They're all Asougi livestock anyhow. Let's keep our eyes peeled for some sexy, sexy ladies!"
+[5156] "I-I've gotta keep up somehow... I just gotta..."
+[5157] "Damn those punks...!"
+[5158] "Close the shutters of all the stores!
+[5159] Stop them from intruding any further!"
+[5160] "Wahahaha! Useless, useless, useless!"
+[5161] "T-They're all opening up again?!"
+[5162] "It's strip poker, and the strip mall's losin'!
+[5163] Now it's time to hack 'n' slash!"
+[5164] "A-A-Anti... Asougi, again?
+[5165] W-What are they doing here...?"
+[5166] "..."
+[5167] "Y-Y-Y-You...?! Why...?!"
+[5168] "I'll pretend I didn't see you. Get out of this city as quickly as you can."
+[5169] "Y-You'll what...? Y-You...!
+[5170] You're with the Anti-Aso?!"
+[5171] "..."
+[5172] "W-What the hell did you come here for?!
+[5173] T-T-To destroy my business?!
+[5174] How could you be so bitter...?!"
+[5175] "I didn't think you'd still be sucking up to the Anti-Aso...! I offered to pick you up because I thought you were all alone!"
+[5176] "I can't understand little shits like you, at all...! All you do is ruin my life...!"
+[5177] "I'm... I'm here of my own free will.
+[5178] I'll do anything for my Nayuta friends...
+[5179] for the place where I belong."
+[5180] "...!"
+[5181] "...And this profitable little job you're doing here, it's a real nuisance for... my friends."
+[5182] "If you and your friends keep doing this, oblivious to what's going on around you, the other clans are going to hunt you down."
+[5183] "And when that happens...
+[5184] you won't get off so lightly."
+[5185] "...Hgkh...!"
+[5186] "Now I'll say this one more time: leave this city immediately. Because next time, you're going to think Reach were generous in comparison."
+[5187] "...F-Fine..."
+[5188] "You satisfied now?"
+[5189] "...I told you to go on ahead."
+[5190] "I had to reload my pistol and just so happened to hang back for a bit."
+[5191] "Oh... Okay, let's go."
+[5192] "You got it."
+[5193] "Damn those punks... thinkin' they can come here and do whatever they like...!"
+[5194] "Can't we stop them?"
+[5195] "It's impossible at the moment...!
+[5196] They're armed with guns and swords, and they've even taken down our security...!"
+[5197] "I guess we've got no other choice...
+[5198] Time to bring out the big guns!
+[5199] Everybody else, stand back!"
+[5200] "Phew! It's all over!"
+[5201] "Haah... Phew... T-That was a close one..."
+[5202] "...Are you all right, Joker?"
+[5203] "Ahh, yeah, I'm totally fi―iii-owowow..."
+[5204] "You don't seem fine at all!"
+[5205] "Don't try to push yourself, Joker.
+[5206] You're not helping anyone by jumping into the line of fire."
+[5207] "Ahh, r-right..."
+[5208] "Did I do good, Big Brother?
+[5209] I didn't miss any bang-bangs!"
+[5210] "Yeah. Honestly, I'm impressed that you landed every shot, even aiming for the hands and feet."
+[5211] "You just can't shoot for shit, Kuma!"
+[5212] "You can't compare me and ALyCE."
+[5213] "Eheheh, I want a reward! Pat me, pat me!"
+[5214] "Well, uh... if that's all you want..."
+[5215] "Pff! You look so embarrassed!"
+[5216] "...Shut up."
+[5217] "ALyCE is the only one you treat with any semblance of humanity, isn't she, Kuma?"

@@ -1,0 +1,95 @@
+[493] "It's the logical choice. This thing makes it easy to silence those goons."
+[494] "It would if you could hit anything.
+[495] Perfect for an impotent shooter like you."
+[496] "Oh, shut up. I can land shots if I shoot from close enough."
+[497] "From aaaall the way up in there?"
+[498] "Wait, what?"
+[499] "So, that's... 'logic,' huh."
+[500] "...You all right, Zappa?
+[501] You sounded serious for once."
+[502] "Oop, haha! Is that how I came off?"
+[503] "Nah. We're here, so let's have fun with it.
+[504] Nothin' beats a good time, that's all I'm sayin'."
+[505] "The only person who thinks charging in there empty-handed sounds fun is you, Zappa."
+[506] "I'll be fine! That's how I roll!"
+[507] "..."
+[508] "By the way, you said you were gonna scope the place out for us, didn't you?"
+[509] "Yeah, I checked it out just before.
+[510] The whole place is lined with guards."
+[511] "I knew it. There was no way that place was gonna be light on security."
+[512] "It might be hard, but that's what makes it worthwhile! You guys all ready?"
+[513] "Yeah."
+[514] "You bet!"
+[515] "Ready when you are."
+[516] "Yokay! I'm thirsty for blood tonight!"
+[517] "All right! They're Asougi, so don't hold back.
+[518] You see something you want―pick it up!
+[519] Someone tries to stop you―knock 'em down!"
+[520] "Now let's move! Time to paint the place red!"
+[521] "Umm, is there some kind of emergency?
+[522] I'd really like to get back to my desk..."
+[523] "We've found signs of an Anti-Aso break-in.
+[524] We need you to evacuate right away through the emergency exit."
+[525] "Anti-Aso...?! Then I really need to grab the important files on my desk!"
+[526] "We'll take care of them.
+[527] Please follow procedure, ma'am, and evacuate immediately."
+[528] "O-Okay..."
+[529] "Hmm... Not bad."
+[530] "What's not bad, Kuma? Ahh, you're not looking at that lady over there, are you?
+[531] You dirty boy♪" "Yeah, she's got a nice face and figure.
+[532] We could put her to good use."
+[533] "Huh?!"
+[534] "She looks like she'd have broad appeal.
+[535] It would be worth capturing her."
+[536] "Mm-hm. It would. She'd definitely sell."
+[537] "O-Oh, you're talking about hustling her..."
+[538] "Then should we take 'em on?"
+[539] "Yeah. Just be careful."
+[540] "O-Okay, I understand.
+[541] I'll go escape with the others."
+[542] "...Huh?"
+[543] "Then allow me to escort you. This way."
+[544] "Hello there, Anti-Aso Taxis at your service!
+[545] We'll escort you outta here!"
+[546] "Aahh! Aaaaaaaah!"
+[547] "A-Anti-Aso?! Y-You're under arrest!"
+[548] "Make sure to defeat the guards before attacking the girl! Don't mess this up!"
+[549] "All right, how'd we do?"
+[550] "Good. We secured the talent."
+[551] "All right! Then let's keep moving!"
+[552] "Mmm, yokay♪" "I'm just getting warmed up! Next time, I'm gonna deal the first attack and take 'em all out!"
+[553] "Not so fast. This is as far as we go this time."
+[555] "Huuuh?"
+[556] "What's wrong, Kuma? You all tuckered out?
+[557] Don't wimp out on us, you big baby."
+[558] "That's not it. We might've caught them off guard this time, but this place is still heavily guarded."
+[559] "Now that they know we're here, they're gonna hit back hard.
+[560] We'd be better off pulling out for now."
+[561] "Oh, c'mon. The night's still young!"
+[562] "It'll only get harder to dona-dona from here.
+[563] It just wouldn't be logical. We should get out of here before they spot u―"
+[564] "Too late."
+[565] "Too late?"
+[566] "Backup's already arrived. Look."
+[567] "Crap..."
+[568] "O-O-Oh crap, oh crap, oh crap!
+[569] There's a crapload of them!"
+[570] "Yeah, this is... bad. This is seriously bad!"
+[571] "So we were too slow...!"
+[572] "Now things are really getting interesting!
+[573] Should we take 'em on?"
+[574] "Are you kidding? There's no way.
+[575] And the longer we stand here realizing that, the less likely we'll be able to escape."
+[576] "Aww, can't we beat 'em up just a little bit?
+[577] Just a teensy little trial pounding!
+[578] Money back guaranteed!"
+[579] "Seriously, if we hang around here any longer, we're screwed."
+[580] "Ugh... If ya say so. Guess the fun ends here for tonight."
+[581] "All right, everybody make a break for it!
+[582] I'll be your back-up, so just move, move, move!"
+[583] "Click 'Scram' in the bottom-right corner."
+[584] "Crap... We screwed up.
+[585] We should have hit the talent last."
+[586] "There's a real trick to this, huh?
+[587] It's kinda hard!"
+[588] "Welp, stuff happens. There's always next time!"

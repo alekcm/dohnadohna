@@ -1,0 +1,78 @@
+[4082] "U-Umm... If you could, please try to shoot them in the arms or legs..."
+[4083] "That's a toughie, Big Sister Medico."
+[4084] "It's better that way.
+[4085] I know you can do it, ALyCE."
+[4086] "Mm-hm, no problem!"
+[4087] (I don't want to make her fight...
+[4088] but she'll be a big help, that's for sure.
+[4089] I guess I'll try not to think about it.)
+[4090] "I checked the doors.
+[4091] Our hideout is all locked up!"
+[4092] "All riiiight! We've got our newest member with us, so how about we get hunting?!"
+[4093] (...)
+[4094] (...It's raining.)
+[4095] "Something feels strange."
+[4096] (My wounds have healed, and although we failed to take their general's head, we still managed to defeat the enemy.)
+[4097] (The battle is over, and yet the events of that night... still linger in my mind.)
+[4098] (Or, more specifically... that guy...)
+[4099] (When we first crossed paths, he was only an enemy... In fact, I didn't even register him as a threat.)
+[4100] "Since then, I have fought against him...
+[4101] and he brought me to my knees, but withheld the final blow. I was furious."
+[4102] "But ever since..."
+[4103] (Why do I feel this way...?)
+[4104] "Because of... Kuma?"
+[4105] "...Ack?!"
+[4106] (What... What's wrong with me?!
+[4107] Why am I acting like such a fool?!)
+[4108] (We just happened to combine our forces.
+[4109] Perhaps he saved me once or twice...)
+[4110] "..."
+[4111] "W-Well, he didn't just seem to be...
+[4112] all talk..."
+[4113] "..."
+[4114] "H-Hang on, hang on, hang on! So what?!"
+[4115] "This feeling... Mmm, it must just be my competitive streak. I don't want to be outdone by him..."
+[4116] "...Yes. That must be it.
+[4117] Good, glad that's settled."
+[4118] "Hmm? You in here, Madam?"
+[4119] "Shinazu? Have you already recovered?"
+[4120] "Yes. Well, it wasn't anything too serious."
+[4121] "Instructor, you mustn't downplay your condition. Your wounds are still open, are they not?"
+[4122] "You idiot. I like a little breeze on my insides!"
+[4123] "...Shinazu? You tell me to take care of myself, but you make exceptions in your own case?"
+[4124] "No, I'm fine. We've still got business to do, so I can't afford to rest."
+[4125] "Thanks to you, Madam, Flattt's quieted down, but those Nayuta kids'll be making trouble in the meantime."
+[4126] "Ah... Nayuta...? Right..."
+[4127] "What about you, Madam? You heading out?"
+[4128] "Oh, yes... It seems that the rain has stopped, so I was thinking of taking a bit of a stroll."
+[4129] "Take care out there."
+[4130] "...Is it all right for her to be wandering around by herself?"
+[4131] "She don't want a scowlin' old man like me trying ta follow her around the whole time."
+[4132] "I... suppose. In Miss Kikuchiyo's case, any attacker would be in more danger than her."
+[4133] "You recover all our men who got gunned down by the snipers?"
+[4134] "Yes, sir. They're badly hurt...
+[4135] but we found a doctor in a hurry."
+[4136] "That'll do."
+[4137] "Now then, it's time for this old man ta take care of the dirty business."
+[4138] "Yes, sir."
+[4139] "Oh, hey! What are you doing around here at this time of day?"
+[4140] "Ahh, hey. The wharf's off limits at the moment."
+[4141] "Apparently none of the cargo scheduled to arrive today will be coming in, so we all got the afternoon off."
+[4142] "Ahh... Lucky you."
+[4143] "Yeah, we've been really busy at the moment, so I was thinking of taking it easy for a bit and then heading back home."
+[4144] "...In that case, want to head someplace where you can really let off some steam?"
+[4145] "...Huh? Where's that?
+[4146] You mean like a bathhouse?"
+[4147] "No, no... This city's too clean for its own good."
+[4148] "You know... A place where you can have fun with girls..."
+[4149] "...Huh...?! D-Do places like that... exist?"
+[4150] "Of course, if you know where to look.
+[4151] Shops that'll satisfy your needs, where you don't need self-restraint or contraception."
+[4152] "A-A-Are there really places like that...
+[4153] in this city? Wait, but isn't that...?"
+[4154] "Yeah, if they were found out, they'd obviously be in some serious shit. These places are run by people who defy the powers that be."
+[4155] "I-I heard that girls who get Temp Work are forced to do that kinda stuff..."
+[4156] "Nope... In a way, they're even worse off than the people stuck with Temp Work. These girls are on an even lower rung of society."
+[4157] "Huh...? Y-You sure... t-they're safe?
+[4158] I won't catch something, will I...?"
+[4159] "Go and see for yourself.

@@ -1,0 +1,79 @@
+[3021] "I-I... agree. It would be cruel to just leave him behind..."
+[3022] "What do I think? I don't mind either way, but if he joined, I guess that would put me in the old guard comparatively! Hihaha!"
+[3023] "You only just joined us too! Actually...
+[3024] Wait, did you ever even join...?"
+[3025] "You got a problem with it, Torataro?"
+[3026] "Geh, this is completely unfair.
+[3027] If I say no, I'd be the only one!"
+[3028] "..."
+[3029] "...Well, whatever. It's not like I can't live with it, and no way in hell am I arguing with Zappa."
+[3030] "Okay, it's settled, then.
+[3031] Welcome to the clan."
+[3032] "Huh...? Ahh, okay! T-Thank you for taking me with you."
+[3033] "Kuma, this was your idea.
+[3034] You're in charge of dealin' with him."
+[3035] "I know that... Not that you ever take care of the new members, anyway, Zappa."
+[3036] "Ahahah! Well, you're not wrong there."
+[3037] "...Sorry. This might not've been the most logical choice."
+[3038] "Don't sweat it."
+[3039] "Ru-ru-ru-ru! The guards are coming!
+[3040] They've called for backup to protect the treasure.
+[3041] They'll reach the main hallway in seven minutes."
+[3042] "H-Huh? How do you know that...?"
+[3043] "All right, time to scram!
+[3044] Let's make a break for it!"
+[3045] "We're going now. Can you run?"
+[3046] "Y-Yes! But, uhh, by the way... what exactly do you guys do... at the place we're going to?"
+[3047] "Bad things."
+[3048] "Huh...?"
+[3049] "Yeah, really, really bad things. Nyeheh!"
+[3050] "H-Huuuuuhhh?!"
+[3051] Meanwhile, at Asougi Headquarters...
+[3052] "Here are the current statistics. As for how many citizens have been designated for Temp Work, the figures are in line with our projections."
+[3053] "Now, on to the next item on the agenda.
+[3054] The finances of Asougi Logistics are finally seeing an upturn this month."
+[3055] "Hmm... Ahh, that's where we laid off 10% of the staff, isn't it? Is that where the uptick came from?"
+[3056] "Yes, that is indeed the case. We had a surplus of staff, and this is the result of a cutback on unnecessary expenses."
+[3057] "See, these are the kind of decisions I want them to make themselves. Cut the salaries of the executives while you're at it."
+[3058] "Certainly, I'll pass that on."
+[3059] "Oh, and make some kind of announcement to go with it, as well. It can't hurt to brush up the company's image."
+[3060] "Right. Now... I have also received a report from Asougi's Chemical Science Lab."
+[3061] "The ACSL? What's going on there, again?"
+[3062] "That was the lab holding the body donor...
+[3063] You know the one. It seems it was attacked by Anti-Aso groups..."
+[3064] "...They didn't run off with it, by any chance?"
+[3065] "Er... Yes, sir. I-It would seem that they did..."
+[3066] "The report?"
+[3067] "C-Certainly, I have it right here...!"
+[3068] "Ahh... Hmm... I see, so multiple groups attacked at once..."
+[3069] "We are currently in the midst of investigating which of the Anti-Aso groups stole the donor.
+[3070] If necessary, we could―!"
+[3071] "Huh? Ahh, no, that's fine. We already did everything that needed to be done with it?"
+[3072] "Yes, we have already retrieved the data, but―"
+[3073] "Then it's fine, just let it go. It's not worth the trouble. The donor's value was only as a carrier of certain antibodies."
+[3074] "B-But that's―"
+[3075] "Besides, that's that old fart Seishiro's lab, isn't it? Not my problem."
+[3076] "Ahh, w-well... uhh..."
+[3077] "Come on, it might've been lame, but you still need to laugh.
+[3078] Your boss just made a joke."
+[3079] "Huh? Ahh, d-do forgive me...
+[3080] Ahaha... Haha..."
+[3081] "Anyway, it's honestly not such a big deal.
+[3082] Our goal was just to collect the data."
+[3083] "And even if the Anti-Aso do try and use it...
+[3084] I highly doubt that they'll accomplish much."
+[3085] "Right..."
+[3086] "But I'm more interested in this...
+[3087] Our 'apparatus prototype.'
+[3088] It was active, wasn't it?"
+[3089] "Ahh... y-yes. I believe the adjustments have already been taken care of..."
+[3090] "Now that's far more interesting.
+[3091] Send me the data later, would you?"
+[3092] "Understood. Then, as for the Anti-Aso...?"
+[3093] "I said it was fine, didn't I? Who's going to cover the cost of dealing with that trash?
+[3094] Forget it. Next."
+[3095] "Ah! R-Right! Next on the agenda is..."
+[3096] "Shit!"
+[3097] "We were forced to retreat empty-handed...!
+[3098] Nayuta's interfering with our hustling, and the Shinonome clan with our hunting...!"
+[3099] "Mmm... We're in trouble, aren't we?"

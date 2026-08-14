@@ -1,0 +1,68 @@
+[12163] "Don't you mean 'make ME worry'?"
+[12164] "...I-I don't know what you're talking about!"
+[12165] "That face is priceless."
+[12166] "Sorry for taking so long. Thanks for waiting."
+[12167] "You've got a ton of work to do piled up."
+[12168] "All right. I'll get right on that."
+[12169] "Okay! Now, all we need is to find Antenna, and then Nayuta will be back in full form..."
+[12170] "So she still isn't back yet. And she's not at home, and not anywhere obvious?"
+[12171] "We tried all the places she'd most likely be...
+[12172] arcades, busy streets, manga cafes..."
+[12173] "There's also a chance she's wandering around completely directionless..."
+[12174] "Yeah, she knows how to hack the Asopo servers, so she could basically get infinite money if she wanted."
+[12175] "It's hard to narrow down her whereabouts...
+[12176] We have to guess what her objective is..."
+[12177] "Lately, there are not only more cleaning robots on the streets, but also this cleaning task force."
+[12178] "Yeah, they've been arresting anyone they catch causing any kind of trouble. If that's what's happened to her, we're screwed..."
+[12179] "She's upset because she feels responsible for what happened, so I doubt she's causing any trouble that would get her arrested."
+[12180] "She feels useless... and blames herself for Kuma getting shot and everybody getting injured."
+[12181] "...How could she think she's useless...?"
+[12182] "...Let's check the College of Engineering."
+[12183] "Huh? T-The college...?"
+[12184] "Yeah. The gate that Antenna wasn't able to unlock was part of the GEBER system that Professor Aoyagi designed."
+[12185] "Oh yeah, I forgot about that.
+[12186] What was that, again? A security system?"
+[12187] "I think it's technically an encryption program, but I don't know much about it, myself..."
+[12188] "...Wait a sec? We handed that over to Mistress, right...?"
+[12189] "Yeah, but now it's being implemented at various Asougi establishments."
+[12190] "...What's going on here?"
+[12191] "Let's not worry about that right now.
+[12192] There could've been a copy, and there's all kinds of ways it might've potentially leaked."
+[12193] "...Ahh, well... Fair enough..."
+[12194] "So you think, because Antenna couldn't crack the encryption... she went back there?"
+[12195] "I can't say for sure, but there's a chance she went there searching for some kind of a key."
+[12196] "There's more than a zero-percent chance...
+[12197] that she tried hunting there by herself."
+[12198] "You think she'd do something that insane?!"
+[12199] "...Antenna prides herself on her expertise.
+[12200] She's careful and she's sharp, but..."
+[12201] "So... should we try our luck at the college?"
+[12202] "It's just a guess, but it's still a logical move.
+[12203] Even if our search comes up short, we can still force Aoyagi to tell us how to crack GEBER."
+[12204] "Sounds like we know our next move.
+[12205] All right, let's get this moving!"
+[12206] "Ahh... That reminds me, Professor Aoyagi and Antenna... seemed to know each other, didn't they?"
+[12207] "Yeah, but it didn't seem like they were on very good terms... Honestly, he was acting like a total creep..."
+[12208] "...In that case, we had better hurry."
+[12209] "So anyway, who's this lady? Where'd ya meet her? You got a picture of her? Show me, dude!"
+[12210] "...What are you talking about?"
+[12211] "..."
+[12212] "Uhh, Mishima... I heard the alarm ring, but―"
+[12213] "Lemme guess. The far warehouse?"
+[12214] "T-That's right, the empty one...
+[12215] What do you think it could be?"
+[12216] "Well, they installed that new system in there.
+[12217] Maybe they haven't ironed out all the kinks and it's acting up."
+[12218] "Who knows...? It doesn't seem like there's anything going on over there..."
+[12219] "Could be some asshole screwing around with us.
+[12220] The Anti-Aso have been pretty active lately."
+[12221] "But there's nothing in there..."
+[12222] "Well, one of us is gonna have to check it out. Rock, paper―"
+[12223] "―scissors. Aaahh... Off I go."
+[12224] "Grab me a coffee on your way back."
+[12225] "...I... I really am useless..."
+[12226] "Uhh... Is this everything we needed to pick up?"
+[12227] "Yes, that should be everything. I'm worried that Kuma hasn't fully recovered..."
+[12228] (But his wounds were neatly stitched...
+[12229] I wonder where he received such professional medical treatment...)
+[12230] "Yeah, but he'd never admit to that, would he? Even though he's always like, 'keep in close contact, everyone.'"

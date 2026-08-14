@@ -1,0 +1,81 @@
+[1714] "Please... let me join your clan!"
+[1715] "Looks like there's still some visitors around, but I guess that works for us."
+[1716] "...Yorozu's carpet? Yorozu's chair?
+[1717] Talk about a lame exhibition."
+[1718] "They got over half this museum filled with memorabilia. Even if we swiped this junk, we wouldn't be able to sell it anywhere."
+[1719] "The only things in this place worth anything are the female visitors. Let's appraise them, instead."
+[1720] "Murasaki was right about the security here.
+[1721] It's really lacking, at least at the moment."
+[1722] "Well, we'll see if we've got a trap on our hands.
+[1723] If it's a trap, I'm hopin' for a fun one."
+[1724] "You're back to your usual self, I see.
+[1725] I thought you were actually angry for once."
+[1726] "Yeah, I'm mad about them hurting our friend, but y'know... This is different."
+[1727] "It is?"
+[1728] "'Course it is!"
+[1729] "You really amaze me sometimes, Zappa..."
+[1730] "I do? Why stop at sometimes, go ahead and be impressed all the time! Ahahah!"
+[1731] "Most of the time you're impressively irresponsible."
+[1732] "Okay, sorry to keep you waiting!"
+[1733] "We're ready."
+[1734] "...Where's the other girl?"
+[1735] "She's all ready to go, too!
+[1736] Yokay, yokay, c'mon over here!"
+[1737] "...?!"
+[1738] "U-Uhh... Do I really have to...?"
+[1739] "...Uhh, were your glasses just a fashion statement?"
+[1740] "N-No, but I do have contact lenses..."
+[1741] "Isn't she stylish? Whenever we do something, it's gotta be cute and flashy♪" "I-I'd much prefer to wear my usual clothes...!
+[1742] This is... so embarrassing..."
+[1743] "But if you went hunting without a disguise, you know you couldn't go out in public ever again?"
+[1744] "I couldn't...? Oh, r-right, I see what you mean..."
+[1745] "The design emphasizes your figure.
+[1746] That way, anyone who does see you won't be concentrating on your face."
+[1747] "Most people will just think you're a costume-wearing weirdo..."
+[1748] "Ah-aaaaaaah... D-Don't say that..."
+[1749] "Mm-hm! That's a modified nurse's outfit with all the bells and whistles I could fit!
+[1750] Which was quite a few, for such short notice!"
+[1751] "A-About that! This isn't a hospital, so why'd you make me a nurse?!"
+[1752] (Wait... There's a nurse's uniform in there...?)
+[1753] "Because you're a nurse, aren't you?"
+[1754] "No, I just go to nursing school.
+[1755] It's not my job..."
+[1756] "Medico! Mediiiiiiiiiiiico!
+[1757] Finally, Nayuta's got a medic!"
+[1758] "What do you think, Zappa?"
+[1759] "Mmm, I like it. Your name is Medico, starting now!"
+[1760] "Huh? Huh? Huuuuhh? B-But I'm not a doctor, or a nurse, or qualified to do medicine..."
+[1761] "But you'd probably have difficulty fighting enemies head-on like we do, so you're better off taking a support role while we're hunting."
+[1762] "Ngh... Well... I mean, you might be right about that, but..."
+[1763] "Still not happy? Well, we could go back to calling you Plain Girl, if ya want... Four-Eyes could be another option..."
+[1764] "I don't want to be called those, either...
+[1765] But how do you know my nicknames?
+[1766] You guessed both of them..."
+[1767] (Ouch, poor her...)
+[1768] "Well, if those're already stale, Medico it is!"
+[1770] "Sigh... O-Okay..."
+[1771] "But are you sure you want to do this?
+[1772] We're not so much up to your ethical standards..."
+[1773] "...Right, but... you've shown me that...
+[1774] there's something very wrong with this city."
+[1775] "I don't know what's happened to my father...
+[1776] And I won't be able to find out on my own..."
+[1777] "I want to uncover the truth for myself.
+[1778] If there's even the slightest chance of finding my father, then..."
+[1779] "..."
+[1780] "A-Ahh, umm, sorry... I know it's a selfish reason... but..."
+[1781] "There's nothing wrong with that.
+[1782] We've all got our own reasons."
+[1783] "Yeah. As a member of Nayuta, you can do whatever you want."
+[1784] "Yeah, that's right! We don't care what your motives are! We just wanna kick Asougi ass and have fun doing it!"
+[1785] "Don't get too carried away now."
+[1786] "Anyway, we owe you one. Just keep in mind that we're always in danger. Stay sharp."
+[1787] "Ahh... O-Okay...!"
+[1788] "C'mon, boys. Time to get a move on.
+[1789] We're on standby... so go!"
+[1790] "All righty..."
+[1791] "Okay, I'm ready!"
+[1792] "I'm ready, too."
+[1793] "Okay, now that we've got our new girl with us, let the hunting begin!"
+[1794] "O-Okay!"
+[1795] "Look out, there's a gas leak! Mwahahahaha!"

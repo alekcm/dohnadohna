@@ -1,0 +1,88 @@
+[14530] "Oh, it's one of those cleaning bots...
+[14531] I'm not up to anything, robot.
+[14532] Now get outta my sight."
+[14533] "For a cleaner city..."
+[14534] "...It's hard to do anything in this city with those murder bots roaming the streets."
+[14535] (If a perfect plan fell from the sky, and I had the means to execute it smoothly, then I wouldn't be so lost right now... Of course I'd go for it.)
+[14536] (But that's not how the world works. They're too strong. There's no gaps in their defense. If we charge at them, we'll just get ourselves killed.)
+[14537] (...And how am I supposed to believe...
+[14538] that they've even kept Zappa alive?)
+[14539] (Why would they? To get info on Nayuta?
+[14540] Asougi aren't that merciful, and he isn't necessary to them. It's illogical.)
+[14541] "Then... then what am I supposed to do?
+[14542] I'm at a total loss here..."
+[14543] "Ahh! There you are!"
+[14544] "Kirakira...?"
+[14545] "You never came back, so everybody's been worried. The atmosphere at the hideout isn't right without you."
+[14546] "...Oh."
+[14547] "..."
+[14548] "..."
+[14549] "You're pretty down, aren't you?"
+[14550] "Hmph. If you know any reason to cheer up, I'm all ears."
+[14551] "Uhh, okay, how about I let you touch my body for exactly three minutes? How's that?"
+[14552] "...Knock it off with the jokes."
+[14553] "Hmm. Three minutes not enough?
+[14554] Just think about all the things you could do in three minutes."
+[14555] "That's not what I mean."
+[14556] "Tch. Blase about that, huh?
+[14557] No sense of scarcity for you anymore?"
+[14558] "No, I'm telling you not to sell yourself so cheap."
+[14559] "But you're upset right now.
+[14560] I'm sad that Zappa's gone, too, you know?"
+[14561] "But there's no way we can just charge in from the front, and we can't use the subway anymore, either... We're out of options."
+[14562] "Oh, really?"
+[14563] "...What, do you have an idea?"
+[14564] "I don't, but have you tried asking Antenna?
+[14565] Or Torataro? Or Medico? Or Joker?"
+[14566] "...Well..."
+[14567] "I agree with Torataro. You make a good leader while Zappa's not around."
+[14568] "But that doesn't mean we want to dump everything on you and make you do it yourself. We'll all work hard together."
+[14569] "And... I still owe you for when you helped me, too."
+[14570] "..."
+[14571] "If we want to save our friend, we have to work together as friends... Even though I'm afraid, I'm not gonna give up."
+[14572] "But... I mean... we can't do it without you, Kuma..."
+[14573] "...You guys pass the buck to me too much."
+[14574] "Hey! Ahh, I-I mean, sometimes, but that's not what I―!"
+[14575] "...But you're right, yeah... I get it."
+[14576] "Now's not the time to be depressed, huh?"
+[14577] "Kuma... Mmm!"
+[14578] "All right. You feeling reinvigorated?
+[14579] Then let's head―"
+[14580] "Huh...?"
+[14581] "Kyaaah! Huh? W-What're you doing?!"
+[14582] "...Three minutes. Just give me three minutes...
+[14583] and then I'll come back with you."
+[14584] "Ahh, u-uhh... O-Okay... Okay."
+[14585] "...Thanks."
+[14586] "Ah... hah, ahh... ggh... Man, hunting on my own is rough..."
+[14587] "!"
+[14588] "Kyaah!"
+[14589] "...Who's there?"
+[14590] "I-It's me!"
+[14591] "Medico...?"
+[14592] "Please... come back to the hideout.
+[14593] Everybody's worried about you."
+[14594] "...Coming back... isn't going to magically make everything better."
+[14595] "..."
+[14596] "Just go, Medico... Not to Nayuta.
+[14597] Go back home."
+[14598] "Oh...! Kuma..."
+[14599] "There's nothing more you can do here.
+[14600] Just forget about your father."
+[14601] "What...?! W-We've only been defeated once, right? Up until then, we've been successful every time..."
+[14602] "But there's no way for us to break this stalemate. It's... It's impossible..."
+[14603] "T-That's not true! If we think hard, then surely...!"
+[14604] "..."
+[14605] "You're just shocked and confused right now. If you just calm down, and think things over carefully..."
+[14606] "...Shut up."
+[14607] "Huh...?"
+[14608] "I said shut up! It's impossible!
+[14609] You can dream all you like, but we can't do anything!"
+[14610] "Hmph...!"
+[14611] "Ahh..."
+[14612] (...Wait... What am... I saying...?)
+[14613] "...Really? So you're just going to give up... are you, Kuma?"
+[14614] "...Hrk... Uhh, wait..."
+[14615] "Fine then. The rest of Nayuta will keep on trying without you."
+[14616] "I'll, try to find a way on my own. I'll do whatever it takes to... to achieve my goal."
+[14617] "...Do you have a plan?"

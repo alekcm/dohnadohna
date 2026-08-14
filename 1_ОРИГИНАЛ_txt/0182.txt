@@ -1,0 +1,96 @@
+[15380] "Yeah, seems like it."
+[15381] "Arright! Looks like we got a route...
+[15382] Hey, what're you doin'?"
+[15383] "Hmm...? Oh, I was just doing some searching and investigating..."
+[15384] "Those basically mean the same thing..."
+[15385] "Okay, we've got our plan. Now all we need to do is―"
+[15386] "...Hmm?"
+[15387] (A message from Mistress...? 'Come to the shop.')
+[15388] "..."
+[15389] "Kuma? What's the matter?"
+[15390] "Oh, I was just thinking we might need to stock up on supplies for our raid... You wanna come?"
+[15391] "Ngh?! ...S-Sure, I'll go..."
+[15392] "It's not often that you invite people to go with you, Kuma..."
+[15393] "I could use the backup, just in case."
+[15394] "Oh... uhh, welcome!"
+[15395] "...Hey. I got your message."
+[15396] "R-Right... Right. Are you... feeling better?"
+[15397] "Yeah... No problems, really...
+[15398] Hmm? Is that... a bruise?"
+[15399] "O-Oh, this...? I was working earlier, and accidentally knocked into something, ahaha..."
+[15400] "Right..."
+[15401] "You worried about me?"
+[15402] "...A little."
+[15403] "Really?! ...T-Thanks... Ahaha..."
+[15404] "..."
+[15405] (Hey... Why do things seem so awkward between you two? Did you do something with the weapons dealer...?)
+[15406] (...That's not what this is.)
+[15407] (What did you pause like that for?
+[15408] Why did you even bring me here?)
+[15409] (Just in case... As backup. I'm serious.)
+[15410] (About that! The weapons dealer is our enemy, isn't she?!)
+[15411] (...Look, it'd be stupid for us to attack her.
+[15412] Just be a good girl and sit tight for me.)
+[15413] (Hmph...)
+[15414] "...Is something the matter?"
+[15415] "Oh, no, it's nothing important.
+[15416] So did you need something?"
+[15417] "Ahh, well, you know how things have been getting kinda crazy lately. I've been thinking if it gets much worse... I might close up shop."
+[15418] "I've also been pretty busy with...
+[15419] my other job, also."
+[15420] "What a coincidence. We've been getting pretty busy, too."
+[15421] "Really? You going hunting somewhere?"
+[15422] "Nah. It's hard to find new places to hunt with the state the city is in at the moment.
+[15423] It's something else."
+[15424] "But I was thinking, I might not be able to come back here for a while..."
+[15425] "I see. Well, until then, feel free to browse."
+[15426] "...Thanks."
+[15427] (They seem casual, but there's something... strange, in the air...)
+[15428] "Everything okay?"
+[15429] "Yeah... Thanks."
+[15430] "Good. It's been a pleasure doing business with you."
+[15431] "Yeah... Be seeing you."
+[15432] "Mmm. See you... later... Bye-bye."
+[15433] "Ahh, here they are now."
+[15434] "Big Brother!"
+[15435] "Guys..."
+[15436] "We're all prepped and ready to go!
+[15437] We can move out at a moment's notice!"
+[15438] "Good. Same here."
+[15439] "Ahh-haah... T-This is it...
+[15440] Asougi Headquarters..."
+[15441] "Once we go, there's no turning back...
+[15442] is there?"
+[15443] "No... You're right. This is it."
+[15444] "...But we have to do this to save Zappa."
+[15445] "And to bring down Asougi.
+[15446] The bowstring is pulled taut."
+[15447] "Kuma, you decide when we launch the attack."
+[15448] (Right... Once I've given the go sign, we have to move forwards. There's no backing out.)
+[15449] (I'd better make sure there's nothing I've got left to do...)
+[15450] "At last, it's the day of the long-awaited Founder's Birthday Ceremony, and there's already an enormous line outside the venue!"
+[15451] "The sun may have set, but the excitement of the citizens is steadily rising! The streets are packed with people!"
+[15452] "The atmosphere here has completely changed!
+[15453] It's like the whole city is united as one―"
+[15454] "Fire! Fire, fire! Shoot every last Anti-Aso!"
+[15455] "Gaaaaaaah! You assholes just shot up our best sofa...!"
+[15456] "Get down, you idiot!"
+[15457] "I won't lose at shooty-bang-bang!"
+[15458] "Guaah!"
+[15459] "Gotcha!"
+[15460] "Khh! No falling back! Attaaack!"
+[15461] "ALyCE, they're firing at you!"
+[15462] "Ah-ahh!"
+[15463] "Damn...! Guess I'll shoot thataways...!"
+[15464] "Kikuchiyo, secure the exit for us!
+[15465] Joker, you go with her!"
+[15466] "Understood!"
+[15467] "O-Okay!"
+[15468] "Kuma! We've closed all the curtains, including the ones upstairs..."
+[15469] "We're all ready."
+[15470] "Okay. Antenna!"
+[15471] "Aye, aye!"
+[15472] "There's those Anti-Aso punks...!
+[15473] Move up! Hit 'em with heavy fire..."
+[15474] "Huh?! They turned out the lights...!"
+[15475] "I'll switch on my flashlight..."

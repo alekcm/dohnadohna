@@ -1,0 +1,94 @@
+[7216] "Well, if you have a better plan, spit it out!
+[7217] Reinforcements are coming!"
+[7218] "You're not helping right now...!
+[7219] Where's ALyCE?!"
+[7220] "S-Somebody's chasing her over there...
+[7221] and they're hot on her tail...!"
+[7222] "Uh-oh! All right, I'm gonna―!"
+[7223] "Y-You can't! We haven't dealt with the other guards yet!"
+[7224] "Torataro, Porno! Give her a hand!"
+[7225] "Goddamn, these pipsqueaks!"
+[7226] "One hand, coming up."
+[7227] "Kirakira, smokescreen!
+[7228] Antenna, distract them!"
+[7229] "Yokay! Fire in the hole!"
+[7230] "Uhh, there's gotta be something around here...
+[7231] Come on, come on... Aha! Here we go!"
+[7232] "I'll charge while they're reeling!"
+[7233] "Me too! I'll do the timing, stay close!"
+[7234] "They're coming! Don't let them get through!"
+[7235] "Haah, haah, haah..."
+[7236] "Kgh... I hope Kuma and the others are all right..."
+[7237] (I managed to escape from the guards and make it here... but where am I...?)
+[7238] "Uhh... Is anybody theeeere? There isn't, is there? I really hope there isn't..."
+[7239] "I don't see... any exit...
+[7240] Where could it be...? Hmm...?"
+[7241] "Ahh, there's a... gun here.
+[7242] I wonder if I can use it..."
+[7243] "Ahh... It's really heavy.
+[7244] Kuma carries his around like it's light."
+[7245] "If I could use this to fight, I'd be able to help...
+[7247] Then I'd be all like, 'Freeze!'"
+[7248] "...Syncing information. Running comparison...
+[7249] Confirmed match for Antibody a277."
+[7250] "Huh? There's something over in the corner..."
+[7251] "Activating. Weaponry set to stun mode."
+[7252] "Huh... Ahh...! Aaaaaaaaaahh!"
+[7253] "Aaaargh, shit! There's too many of them!"
+[7254] "W-We should be all right here... right?
+[7255] Aah, phew..."
+[7256] "Looks like there's devil-men swording it up over there, so I guess the guards went that way."
+[7257] "What about Lu Bu?"
+[7258] "Last glimpse I saw of him, he was chasing Flattt around..."
+[7259] "...Something's coming."
+[7260] "Argh, shit! I'm screwed...!"
+[7261] "Geh. Crap...!"
+[7262] "Ahh, hey guys!"
+[7263] "If you're coming this way, that means...!"
+[7264] "He's here?!"
+[7265] "Who put this final-boss enemy here like some kind of random encounter?!"
+[7266] "Tch! We're in trouble now."
+[7267] "...No, now's our chance. It's now or never.
+[7268] We've got no hope of beating him while we're brawling with the guards at the same time."
+[7269] "I agree. If we just keep running from him, we'll never find our escape."
+[7270] "Arrgh, fine! We got no other choice!"
+[7271] "Can I fight him? I'll go bang-bang!"
+[7272] "Sounds unaninimous to me! Sorry to keep ya waiting, big guy! It's time to take you down!"
+[7273] "You've found your fire...? Interesting!"
+[7274] "Hah! Yeah, they're a bunch of hot-headed hooligans! Well, guess I'll cheer from the sidelines!"
+[7275] "You're helping too, shithead!"
+[7276] "..."
+[7277] "..."
+[7278] "Hmm. Sorry, I'm all out of tricks."
+[7279] "Oh, come on, you halloween freakshow!
+[7280] Fight like you mean it!"
+[7281] "Come!"
+[7282] "Let's do this!"
+[7283] "Ghh-mmh-nnnghhhhh...!"
+[7284] "...Did we defeat him...?"
+[7285] "Wait. Not quite...!"
+[7286] "..."
+[7287] "H-He... got back up...!"
+[7288] "Of course he did."
+[7289] "He's like the monster in a horror game...!
+[7290] What is this guy...?"
+[7291] "A high level of coordination, and varied methods of attack. Far more interesting than conventional soldiers or guards..."
+[7292] "It's the biggest honor in the world to hear you say that, but if that wasn't enough..."
+[7293] "Hey, Kikuchiyo! Do something!
+[7294] You and Shinazu took him down last time, didn't you?!"
+[7295] "We were not able to finish him...
+[7296] Not only that, but he seems even stronger than before."
+[7297] "But of course. The more powerful enemies a warrior fights... the stronger and more refined that warrior becomes."
+[7298] "You... are no different."
+[7299] "...So is that why you fight?
+[7300] Is it to become stronger?"
+[7301] "Of course. Chaos is the furnace that forges the spirit."
+[7302] "I figured that might be it..."
+[7303] "But there's no way you're just wandering, drifting alone on the wind. How could you have gotten so far with nobody watching your back?"
+[7304] "..."
+[7305] "Are you taking orders from someone?
+[7306] ...Someone who's an enemy of Asougi...?"
+[7307] "...It's not enough."
+[7308] "Huh?!"
+[7309] "If you wish to break my silence, continue.
+[7310] Tear it out of me―along with my life!"

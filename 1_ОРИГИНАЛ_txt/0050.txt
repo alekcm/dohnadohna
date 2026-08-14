@@ -1,0 +1,86 @@
+[4252] "Really?"
+[4253] "...Uh, r-really..."
+[4254] (If that's all, then what's she sticking around for...?)
+[4255] "Speaking of which, you went to chase Murasaki, didn't you? How did that go?"
+[4256] "R-Right. Unfortunately, he got away.
+[4257] He's a tenacious fellow."
+[4258] "Oh, I see. Well, they're probably not going to be active for a while, so that's still a big help."
+[4259] "Hmph. Well, now we've wiped the slate of debt clean."
+[4260] "You never owed me anything."
+[4261] "...Mh..."
+[4262] "...?"
+[4263] (Huh? Why are we chatting like this...?
+[4264] No... Why do I feel so...)
+[4265] (Huh... She seems uncomfortable...)
+[4266] (I... have to say something...)
+[4267] (Wait, she's not about to attack me, is she...? Crap, I'm not even armed...)
+[4268] "Ahh, is that you, Kuma?"
+[4269] "...!"
+[4270] "Mistress? You're out shopping today, too?"
+[4271] "You could say that. Ahh, that's right!
+[4272] I have something to talk to you about, so come swing by the shop sometime."
+[4273] "Ahh, so do I, actually.
+[4274] I'm fine talking now, though...?"
+[4275] "No, Kuma. You can't think about other girls while you're in the middle of a date."
+[4276] "...A date?!"
+[4277] "Yeah, with that cute girl there."
+[4278] "What?!"
+[4279] "You can't let your eyes wander, not even to an astoundingly drop-dead gorgeous babe♪ Ahh, how painful it is to be a femme fatale..."
+[4280] "Oh, go check yourself into a psych ward."
+[4281] "...She was making fun of us...!"
+[4282] "Tell me about it... She does this to me every single time. Doesn't she act like that when the Shinonome clan deals with her?"
+[4283] "A d-date? W-What an absurd notion...
+[4284] To think that I, of the Shinonome, would...
+[4285] date Kuma... a Nayuta... That's nonsense."
+[4286] "W-Was she implying that that's how we look?
+[4287] Ridiculous... What a humiliating... joke...
+[4288] Ahh, that could never happen..."
+[4289] "Kikuchiyo...? Earth to Kikuchiyo...?"
+[4290] "Huh?! W-What?!"
+[4291] "...Why'd you leap away like that?"
+[4292] "W-Why wouldn't I?! I have my own matters to attend to, so I'm going! Don't forget t-that we're enemies!"
+[4293] "..."
+[4294] "Ahh... We bought so much stuff!"
+[4295] "Sorry to keep you waiting, Big Brother... Big Brother?"
+[4296] "Ahh, you're done, are you?"
+[4297] "You seem kinda out of it. What's wrong?
+[4298] You get dementia, you bumbling old man?"
+[4299] "I... uh, don't really know what happened..."
+[4300] "Huh?"
+[4301] "New weapons...?"
+[4302] "Yeah, something stronger, like ALyCE's sniper rifle. Anything along those lines?"
+[4303] "We don't deal in weaponry like that here.
+[4304] That would be a breach of city regulations..."
+[4305] "City regulations?"
+[4306] "I―oop... Anyway, it's difficult for me to supply you with new weapons."
+[4307] "You Anti-Aso guys aren't exactly planning on having a war, are you?"
+[4308] "...No, we are."
+[4309] "Huh?"
+[4310] "I mean, with Flattt and the Shinonome, we only really need to keep them off our backs.
+[4311] I'm not looking to start an arms race with them..."
+[4312] "But I'll take whatever firepower I can get.
+[4313] We'll need it to take down Asougi."
+[4314] "...Mh...
+[4315] I see. Well, check back next time.
+[4316] I'll try and get in touch with some contacts..."
+[4317] "Okay, thanks. So what did you wanna talk to me about?"
+[4318] "Oh, right, right.
+[4319] Kuma, do you offer VIP matching?"
+[4320] "Matching?"
+[4321] "Yeah. It's another avenue of hustling.
+[4322] You send talent directly to a client."
+[4323] "I see. For rich clients, you mean?"
+[4324] "These guys have their preferences, so if you want to rake it in from them, you have to send a girl who meets their criteria."
+[4325] "If you just send them any old talent without accounting for their preferences, at worst, you could get hit with a fine for breach of contract."
+[4326] "But if it all goes well, then you could earn more cash than you'll ever see hustling."
+[4327] "Interesting..."
+[4328] "And a little weird, Mistress. You don't usually come with proposals about hustling."
+[4329] "Aaah♪ I've been working hard for you, Kuma!"
+[4330] "Cut the crap. I bet you take a hefty cut on this 'matching' thing, don't you?"
+[4331] "You scratch my back♪ And I scratch yours♪ Isn't 'win-win' such a wonderful phrase?"
+[4332] "...Whatever. I'm in. How long do I have?"
+[4333] "I'll send you the deadline from my end later.
+[4334] Good luck!"
+[4335] "...Phew. I think that went pretty well."
+[4336] "Well done, Kuma! You nailed it!
+[4337] Here's your reward."

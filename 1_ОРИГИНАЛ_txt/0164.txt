@@ -1,0 +1,73 @@
+[13813] "Hang on, hang on. It doesn't matter how fired up we are, we can't just barge in through their front doors."
+[13814] "You're right..."
+[13815] "Well, are there any other places that would make potential targets?"
+[13816] "..."
+[13817] "Unless we change our plan to expose and take down Asougi... then the only place we can really target is their headquarters... but..."
+[13818] "Heheh! You think I've been doin' all this sleuthin' around for nothin'? Safe 'n' secure, that's the Torataro brand!"
+[13819] (I have a bad feeling about this...)
+[13820] "I have a bad feeling about this."
+[13821] "It's a good one! You ready? Check this out."
+[13822] "Is this... a map of the Chuo train line?"
+[13823] "Yep. C19... That's Citizen Plaza Station.
+[13824] Next is C20... Rinsai Bridge. Over here."
+[13825] "Oh... So when you ride the subway, that must be the long gap."
+[13826] "Yeah. Figures it's long, 'cause the truth is...
+[13827] there's another station here, between 'em."
+[13828] "Huh...? A-Another station...?"
+[13829] "A ghost station that goes directly to Asougi HQ... Guess you'd call it C19.5."
+[13830] "Huh, how typical of the upper class.
+[13831] And how inconvenient for the common people who have to take that route."
+[13832] "Actually, there ain't any lines that stop there.
+[13833] It doesn't exist as a stop on the network."
+[13834] "I was wondering what you and ALyCE split off to do. Did you find it?"
+[13835] "Rumors've been swirling about it for years, people sayin' they saw major execs hopping on this tiny, empty train car to go there."
+[13836] "...Is it really in operation?"
+[13837] "Apparently the lights were on. Accordin' to ALyCE, she says she saw important-looking people going in and out."
+[13838] "Yep! That's what I saw!"
+[13839] "...Only ALyCE?"
+[13840] "Were you sleeping, Torataro?"
+[13841] "Huh? You're telling me you can see people at the station while we're speeding past in a train moving at full speed?!"
+[13842] "I really saw them. There was a man with a stripy necktie walking in the station."
+[13843] "Oh, I see. Those cheetah eyes..."
+[13844] "So what do you think about breakin' in from there, huh?! Whaddaya say?"
+[13845] "We... couldn't walk there, could we.
+[13846] There'd be trains running on the tracks..."
+[13847] "Antenna, whaddaya think about a trainjacking?"
+[13848] "Sounds fun!"
+[13849] "T-Trainjacking...?! Seriously?"
+[13850] "It's kinda far, so let's take the train. With Antenna's skills, we'd be able to turn it into a direct line straight there! Whaddaya think?"
+[13851] "Ooh, sounds good to me!
+[13852] That seems like fun!"
+[13853] "Our odds of success would be much higher than if we stormed in from the front."
+[13854] "...Yeah, but we'd have to be quick."
+[13855] "Hmm?"
+[13856] "Once we've jacked the train, they'll know exactly where we're headed. There's only one track that train's going down, after all."
+[13857] "So we need to get there before they find out."
+[13858] "If they do, we'll just bust right through 'em? You against that?"
+[13859] "...No, I think it's a good plan.
+[13860] We don't have any other choice."
+[13861] "How 'bout it, Zappa?!"
+[13862] "...HQ, huh? So it's finally come to this, has it...?"
+[13863] "Zappa?"
+[13864] "Yeah, you bet I'm down for it! Charging into a race against time sounds pretty exciting to me! Let's do this!"
+[13865] "Arright! Let's blast 'em with the craziest fireworks they've ever seen!"
+[13866] "Mm. Then let's goooo."
+[13867] "Oh yeah! Let's go all out!"
+[13868] "I swear... I will find my father..."
+[13869] "Hmm-hmm-hmm-nah-hmm!
+[13870] Now things are really getting interesting!"
+[13871] "I guess... it all ends here, huh...?"
+[13872] "Yaaay, a big festival! I'm gonna bang-bang as best I can!"
+[13873] "Is this my chance... to finally fulfill the Mibu's dearest wish... and settle the score?"
+[13874] "If we screw this up, it's over...
+[13875] We can't mess this up."
+[13876] "The train will be arriving shortly.
+[13877] Please stand behind the yellow line..."
+[13878] "Okay... This is it, right?"
+[13879] "Yep, this is the train we decided on...
+[13880] As long as we charge straight towards our destination, there shouldn't be any problem."
+[13881] "It was quite hard to find a scheduled train that wouldn't interfere with other trains, wasn't it?"
+[13882] "Mmmmmm... I'm sleepy..."
+[13883] "Yeah, this is, like, the first train of the day...
+[13884] Yaaaawn... Are you doing all right, Porno?"
+[13885] "My regular all-nighters have paid off at last. I'm totally fine."

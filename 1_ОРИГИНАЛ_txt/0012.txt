@@ -1,0 +1,92 @@
+[907] "Hey, Ericchi! What're you doing out here?
+[908] You coming to school?"
+[909] "Oh, hi Ma―I mean, uh, hi!"
+[910] "It's Kirakira. I told you to call me that, remember?"
+[911] "Indeed, you did!"
+[912] "...You know this girl, Kirakira?"
+[913] "Yeah, she's my classmate. Technically.
+[914] She barely ever shows up."
+[915] "What, your classmate's... little sister?
+[916] You don't have any siblings, right...?"
+[917] "What? You trying to say I'm little?
+[918] Your boyfriend's really rude!"
+[919] "Oh no, she called you my boyfriend!
+[920] What are you going to do about that, Kuma?"
+[921] "Nothing."
+[922] "Excuse my rude boyfriend... What are you doing around here? Same thing as usual?"
+[923] "Yep, I'm searching the waves, watching out for any interesting signals nearby!"
+[924] "...Huh? What do you mean, waves?"
+[925] "The waves are the waves. Radio waves!
+[926] They're flying all throughout the city."
+[927] "...And what do you do when you've found one?"
+[928] "I decrypt the signal and then analyze it!"
+[929] "You analyze it, huh...?"
+[930] "Yep! To put it simply, the waves consist of charged particles and wave formations."
+[931] "Their properties change depending on how you treat each of those aspects. If you consider what they share in common with light―"
+[932] "..."
+[933] "Isn't it fascinating...?"
+[934] "...Sorry, you lost me."
+[935] "Ahaha! Your boyfriend is rude, but I like him.
+[936] Most people would be making fun of me by now!"
+[937] "Look, I'm not her boyfriend."
+[938] "Ahh, school's about to start.
+[939] You coming, Ericchi?"
+[940] "Nope! I'm going whichever way the signal is strongest. That's why they call me Antenna."
+[941] "Aha, is that right? See you around, Antenna!"
+[942] "Yep!"
+[943] "..."
+[944] "Well, guess we'd better get going. Y'know, compared to the others, we look like a couple of serious students, don't we?"
+[945] "I mean, I suppose we might look that way..."
+[946] "But after school, we're the bad kids.
+[947] Actually, I guess we're pretty serious when it comes to that, too!"
+[948] "Arright! We're in.
+[949] Heheh, their security's still garbage."
+[950] "I know, right? You'd think a big hospital like this would be a bit more careful!"
+[951] "Well, it ain't like this is where the Asougi elites go. There's only so much they can do about security."
+[952] "Just don't underestimate them, okay?
+[953] Remember, we've got a job to do, so..."
+[954] "Yeah! Let's barge in and grab as many pills as we can find! Let's hunt in sty―!"
+[955] "...Don't get too carried away, is what I'm trying to say here."
+[956] "Warning him is a waste of breath."
+[957] "All right, we got the pills. Now―"
+[958] "Heheh, that was a piece of cake!
+[959] Ain't nobody who can stop me!"
+[960] "Torataro, stop."
+[961] "Gyablrk!"
+[962] "I-I'll stop... You don't gotta...
+[963] aim for the 'nads..."
+[964] "Shh!"
+[965] "Ggghh... All you had to do was ask, and I woulda stopped..."
+[966] "There must be some mistake!"
+[967] "Is that... a girl's voice?"
+[968] "It's coming from down the hall."
+[969] "There's no way I misheard. I know my father, Hiroshi Taisouji, came here!"
+[970] "Well, the director of this hospital says he's never heard of him. He doesn't remember any reporters coming by, either."
+[971] "Please, just let me speak with the director!
+[972] If I could just talk to him, I'm sure―"
+[973] "Sorry, that's not happening.
+[974] You don't have an appointment, do you?"
+[975] "No, I don't... I tried to get in touch, but no one would put me through..."
+[976] "And you don't have a referral from higher up, right? Then you're outta luck. Go home."
+[977] "Higher... than the director?"
+[978] "Like somebody from HQ.
+[979] The director's a busy man."
+[980] "Headquarters...? Umm... Which company's?"
+[981] "Huh? What do you mean, which company...?
+[982] Oh, are you not from here?"
+[983] "T-That's right..."
+[984] "Hey, we've got a patrol schedule to stick to.
+[985] How long are you planning on chatting with her?"
+[986] (Huh? I-Is that... a gun?!)
+[987] "Aahh!"
+[988] "The warning shots end here, lady.
+[989] Now go home. These rubber bullets hurt."
+[990] "Umm... u-umm... umm..."
+[991] (W-Who are these people?
+[992] Why are these guards carrying... g-guns...?!)
+[993] "Or would it be quicker if we knocked you out with the stun rod?
+[994] ...Huh?"
+[995] "Ahh, crap!"
+[996] "Torataro, you're too close!"
+[997] "What are you lot doing...? Hey!
+[998] You're those Anti-Aso brats!"

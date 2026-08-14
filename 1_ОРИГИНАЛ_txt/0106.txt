@@ -1,0 +1,96 @@
+[9132] "Nnngh, they just keep coming!
+[9133] They're sending so many emergency transmissions that my brain is fuming!"
+[9134] "Should we move? If we cut through the crowd, it'll be hard for them to shoot at us."
+[9135] "...That's a good idea. Let's move!"
+[9136] "What's the status of the evacuation?!"
+[9137] "We've... yet to reach 50%! And the class performing the theatrical play is still going..."
+[9138] "W-What?! Explain yourselves!"
+[9139] "We've announced the evacuation, but...
+[9140] when we try to tell people in undisrupted areas to evacuate, they just say, 'Go deal with it!'"
+[9141] "Tch...! Damn those stuck-up little prisses..."
+[9142] "But there don't seem to be many Anti-Aso.
+[9143] Rather than forcing the students to evacuate―"
+[9144] "You want to section off the area under attack?
+[9145] Then we might be able to drive the Anti-Aso into a corner..."
+[9146] "We've already restricted their movements.
+[9147] If we call for backup and surround the area they're in..."
+[9148] "Okay, let's―"
+[9149] "Huh...? Wait, is that...?!"
+[9150] "Agh... gah! Gyaaaaaaaaaaahhh!"
+[9151] "We've reached the clock tower.
+[9152] There aren't many guards here yet."
+[9153] "Speaking of which, YAMMy, what are you doing here today? You just come 'cause you're bored?"
+[9154] "I sensed trouble here... Or rather, I had a feeling that somebody would be targeting you and ALyCE, so I came to check, but..."
+[9155] "But what?"
+[9156] "...But I might already be too late."
+[9157] "Huh...?"
+[9158] "Ghh-gwaah―W-Who are these people...?!"
+[9159] "Hih-hiiiiih...!"
+[9160] "Kyaaah. There's meeeen."
+[9161] "Huh?! Whoa, whoa, whoa! What are they doing here?! I think the devil-men are at the wrong festival!"
+[9162] "The Shinonome clan...?! Wait, but why are they carrying those weapons...?!"
+[9163] "Hide!"
+[9164] "W-W-W-What are they carrying...?
+[9165] T-They look like big machine guns...?!"
+[9166] "Are those gatling guns?!"
+[9167] "Those are miniguns. They seem to be the weapon of choice for the new Shinonome clan."
+[9168] "What?! W-What do you mean...?
+[9169] Was this Shinazu's decision...?!"
+[9170] "What the hell?! What are we gonna do?!"
+[9171] "We outrange their heavy weaponry.
+[9172] Are you ready, ALyCE?"
+[9173] "Okay!"
+[9174] "We'll pick them off two at a time, like always.
+[9175] Let's show their machinery a little magic."
+[9176] "Okay! Where should we aim?"
+[9177] "...Huh?"
+[9178] "Big Brother Kuma and Big Sister Medico always tell me to aim for their hands and feet. How about this time?"
+[9179] "...Hmm..."
+[9180] "Let's go for their hands.
+[9181] Their weapons are okay, too."
+[9182] "Okaaaay! You ask for hard stuff too now, YAMMy."
+[9183] "We'll fire on my count. Fire on zero.
+[9184] Three, two...!"
+[9185] "Wasn't the target around here?"
+[9186] "I dunno. Just keep your eyes p―"
+[9187] "...Zero!"
+[9188] "Huh? Is that―"
+[9189] "Gahh...!"
+[9190] "Next, this way!"
+[9191] "What?! Where are they coming fr―"
+[9192] "...Agh...!"
+[9193] "Okay, other side!"
+[9194] "Ghh! E-Enemy snipers! We're taking fire...!"
+[9195] "Gahoh...!"
+[9196] "W-We're losing two men to each gunshot...?!
+[9197] H-How could this b―!"
+[9198] "This is bad! Retreat!"
+[9199] "Eheheh! Perfect!"
+[9200] "...Hmph."
+[9201] "Incredible... It's like you were dancing..."
+[9202] "Hmm, I think I understand how Murasaki must have felt back at the wharf."
+[9203] "And I thought ALyCE was amazing by herself!
+[9204] You two can cause some real mayhem!"
+[9205] "...But I don't understand... What are they doing carrying such weapons...?"
+[9206] "It seems they're being led by a new boss.
+[9207] They asked for my help with a mission, but I refused."
+[9208] "A new boss...?"
+[9209] "They seemed rather infatuated with me and ALyCE."
+[9210] "U-Umm... Should we keep moving?
+[9211] The Shinonome clan reinforcements might be coming..."
+[9212] "O-Oh, you're right. Let's break through."
+[9213] "Hyaah-hah-haah! What-what-what...?!
+[9214] What's going on? W-What do I do...?"
+[9215] "I-I heard there were Anti-Aso, and it was really true...?! I thought they were kidding...!"
+[9216] "Ahh―Everybody seems like they've escaped, but I still haven't got a reply from Kiku...
+[9217] Ahh, what do I dooo...?"
+[9218] "Aaah! Aaaaaaaaaahhh?!"
+[9219] "Kgh...!"
+[9220] "Hih-ahh―N-No way! A sword...?!
+[9221] N-No! S-Stay back..."
+[9222] "..."
+[9223] "...Don't take the back entrance. Follow the main road to the front gate."
+[9224] "...Huh?"
+[9225] "Run. Don't stop for even a second."
+[9226] "...Wah!"
+[9227] "..."

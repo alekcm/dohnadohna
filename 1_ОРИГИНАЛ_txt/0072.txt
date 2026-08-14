@@ -1,0 +1,91 @@
+[6199] "I'm not sure I'd call it that... Wait, what are you doing here, ALyCE?"
+[6200] "Hmm. You seemed really blue, Big Brother."
+[6201] "No, I'm fine..."
+[6202] "Oh yeah! YAMMy always told me that when I feel sad, I should get somebody I care about to give me a biiiiiiiig hug."
+[6203] "...I said I'm fine..."
+[6204] "Here! Squeeeeze..."
+[6205] "Hrk...!"
+[6206] "Eheheh! Cheer up, cheer up!"
+[6207] "..."
+[6208] "Do you feel better now?"
+[6209] "Goddammit... I swear no one in our clan knows how to listen..."
+[6210] "Eheheh!"
+[6211] "Ahh, look at you two getting along.
+[6212] Who's that girl? You two squeezing in a date before work?"
+[6213] "I'm ALyCE!"
+[6214] "She's a new member in our group."
+[6215] "Ahh, the infamous sniper girl, huh...?"
+[6216] "She's really squeezing you tight, Kuma.
+[6217] You sure you're okay with that?"
+[6218] "It depends on the person."
+[6219] "Yesss! Lemme get in on the actio―"
+[6220] "I said it depends on the person."
+[6221] "Khh! That's one indirect brush-off...
+[6222] Do you have a thing for younger girls, Kuma...?"
+[6223] "...Let's just say I do so you can stop bothering me."
+[6224] "Is this a shop? What kind of shop is it?"
+[6225] "I suppose it's what you'd call a general store.
+[6226] I make and sell things that everybody wants."
+[6227] "You make things...? Oh, then can you make my watch go again? It stopped moving."
+[6228] "...You mean that pocketwatch you wear isn't just decoration?"
+[6229] "Sure, I'll have it fixed in no time!
+[6230] It'll cost you―"
+[6231] "I'll cover it."
+[6232] "My, my, how generous.
+[6233] Is that how close you two are?"
+[6234] "Well, I guess you could say I'm... paying her back for something she did for me earlier."
+[6235] "Paying me back?"
+[6236] "Anyway, how expensive is this going to be?
+[6237] You're not going to make me cough up too much pocket money, are you...?"
+[6238] "Aha! Don't worry, it's nothing that exorbitant!
+[6239] Just give me a moment to fix it up for you."
+[6240] "Okaaay!"
+[6241] "Ahh, you can wait in the kiddy corner over there, if you'd like?"
+[6242] "Wooow! There's so many toys!
+[6243] Ooh, there's building blocks!
+[6244] I'm gonna make a castle!"
+[6245] "...You know, I've got some real questions about how this place is laid out..."
+[6246] "I try! Now, if you don't mind talking while I work on this watch, you can tell me what you came here for."
+[6247] "Sure, that's probably most efficient.
+[6248] What I wanted to ask you about was―"
+[6249] "―What do you mean, you don't have any?"
+[6250] "Mmm, sorry, but I mean exactly that.
+[6251] I just don't have the materials on hand."
+[6252] "But what if we gather the materials for you while we're out hunting? We should be able to find that stuff if we look around."
+[6253] "Ah, no can do. Even if you find me materials, I don't have the right equipment to do those modifications."
+[6254] "So there's no way for you to upgrade our weapons any higher?"
+[6255] "No more than what I already offer, I'm afraid."
+[6256] "And you can't make us new ones, either?"
+[6257] "I'm afraid not."
+[6258] "..."
+[6259] "...If you fight with any more firepower, it won't just be a dangerous game anymore.
+[6260] It'll be a bloodbath."
+[6261] "Well, when the other guys are trying to kill us, what good is self-restraint?"
+[6262] "Besides... we were always prepared for that.
+[6263] We may not have set out to kill anyone...
+[6264] but we've never been playing around."
+[6265] "..."
+[6266] "..."
+[6267] "Sigh... You never back down, do you?
+[6268] That's one of your good points, but..."
+[6269] "I mean, if you can't, I understand, but if you know any way we could upgrade our weapons past this point, I'm willing to pay."
+[6270] "Okay, I understand. By the way, I got another VIP request in. Think you could help me out?"
+[6271] "Another matching order, huh?"
+[6272] "That way, you'll be able to get by without needing to put yourself in danger."
+[6273] "Well, we need money no matter what...
+[6274] so sure, I'll help."
+[6275] "Good, I'm counting on you...
+[6276] There, all done. ALyCE?"
+[6277] "Comiiiiing!"
+[6278] "There. I fixed it all up for you!"
+[6279] "Ahh, it's moving again! And ticking, too!
+[6280] Thank you!"
+[6281] "My pleasure."
+[6282] "...Okay, let's get going, ALyCE."
+[6283] "Mm-hm."
+[6284] "...Take care now."
+[6285] "Thanks for the concern."
+[6286] "Found them! They're over here!"
+[6287] "Khh... ngh. Koooahh!"
+[6288] "You idiot! Don't engage them! Fall back!"
+[6289] "Ghh! But we didn't even earn anything tonight...!"

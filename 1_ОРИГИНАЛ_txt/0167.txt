@@ -1,0 +1,96 @@
+[14065] Hanekawa. Get back inside the train, you maniacs. You're scaring me."
+[14066] "Oh, that's Citizen Plaza! We just passed it now, which means..."
+[14067] "Next'd be Rinsai Bridge...
+[14068] but C19.5 should be before it!"
+[14069] "If the stop's directly beneath their headquarters, then I have a general idea of its location. Just a little further!"
+[14070] "Ahhh, so we're arriving at last!
+[14071] That was a real struggle!"
+[14072] "Yeah, but as soon as we arrive, that's when the real battle begins. You can rest now while there's time, but don't let your guard down."
+[14073] "Yeah, yeah, I know."
+[14074] "Big Sister Medico, I'm thirsty."
+[14075] "Ahh, right. Let's all have some tea before―"
+[14076] "Ahh."
+[14077] "Huh?"
+[14078] "Ghh...!"
+[14079] "Ahh... Huh? Aah! Aaaaaaaahh!"
+[14080] "Guards?! How did they get in here...?!"
+[14081] "Huh?! Have they been hiding on the train this whole time?!"
+[14082] "Anti-Aso identified. Initiating takedown!"
+[14083] "Khh...!"
+[14084] "Shit, these guys are relentless...!
+[14085] How are there still more of 'em?!"
+[14086] "W-We've nearly arrived at our destination! Just hang in there...!"
+[14087] "Ughhhh!"
+[14088] "Ugh, stop trying to hide!"
+[14089] "I've got you...!"
+[14090] "Gaah...!"
+[14091] "Don't get too close. Fall back!"
+[14092] "Argh, they're tough... What's with them?!"
+[14093] (Their skills make up for their numbers...!
+[14094] But they're barely using their guns. It doesn't seem like they're trying to suppress us...)
+[14095] "Anyway, up the speed, up the speed!
+[14096] Let's roll in like an avalanche!"
+[14097] "Full steam ahead!"
+[14098] "Antenna! Please get to our destination as quickly as possible...!"
+[14099] "I'm already decelerating! If my guess is correct, we should be―"
+[14100] "...There it is!"
+[14101] "We've arrived...! Asougi Headquarters...!"
+[14102] "Arright! Let's go!"
+[14103] "Onto the platform! I'll go up ahead and see what the situation's like...!"
+[14104] "Oh, I'm terribly sorry."
+[14105] "Geh...!"
+[14106] "An ambush...?! We're too late...?!"
+[14107] "Waah... There's heaps of people."
+[14108] (Khh...! There are so many of them...
+[14109] This is bad. They've surrounded us with a large group...!)
+[14110] "T-That man...! I recognize him...! I believe he's the vice chairman of the Founder's Birthday Ceremony... Asougi's―"
+[14111] "...Then he's a member of the founding family...?!"
+[14112] "That's right. I'm Hisamitsu Yamamoto."
+[14113] "He's so hot... but it's the only face I want to see less than Torataro's right now..."
+[14114] "...What do you gotta compare me to him for?"
+[14115] "Sorry, but I can't let you kids play in here.
+[14116] Otherwise, my grandmother's going to growl at me again. You understand, don't you?"
+[14117] "..."
+[14118] "...What's he talking about?"
+[14119] "...No idea."
+[14120] "Well, I suppose I could offer you the right to surrender. Although you've already done quite a―"
+[14121] "Kuma! Time to scram!"
+[14122] "But Zappa...?!"
+[14123] "It's the most logical choice, ain't it?
+[14124] We're gonna get caught!"
+[14125] "Y-You're right! Run!"
+[14126] "But run which way?!"
+[14127] "Back to the train! Kikuchiyo!
+[14128] Antenna! You're up!"
+[14129] "I guess it's our only choice...!
+[14130] I shall slice through the crowd!"
+[14131] "I still have the train jacked!
+[14132] Let's daaaaash!"
+[14133] "After them!"
+[14134] "Yes, sir!"
+[14135] "They're coming back, are they...?!"
+[14136] "Rgh! Out of our way!"
+[14137] "Ghh-uooh...!"
+[14138] "I've cleared out the inside of the train.
+[14139] Antenna?"
+[14140] "Preparing to depart!
+[14141] Everybody on board, quick!"
+[14142] "Smokescreen, smokescreen, smokescreen!
+[14143] Eat gas!"
+[14144] "Don't save any for later! Just run!"
+[14145] "Bang, bang, baaaang!"
+[14146] "Hah, khaaah...! There's still guards on the train too...! Goddamn, they're keepin' us busy!"
+[14147] "Haah-haaah...! I-I made it...!"
+[14148] "We made it so far...!"
+[14149] "It doesn't matter. We were too slow."
+[14150] "W-What about Kuma and the others?
+[14151] Are they still on the platform?!"
+[14152] "They are, but stop. If we go out now, it'll only cause more chaos."
+[14153] "If all those guards come swarming onto the train... we'll have nowhere to escape.
+[14154] It will all be over."
+[14155] "Uwaah...!"
+[14156] "Khh...!"
+[14157] "Oooh, I don't have enough bullets!"
+[14158] "Fire the rest that you have and then get out of here! Run back to the train!"
+[14159] "But... Big Brother...!"
+[14160] "I'll find a way..."

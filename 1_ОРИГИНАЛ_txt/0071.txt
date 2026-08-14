@@ -1,0 +1,98 @@
+[6101] "...Both my parents were real shitheads, so I don't really get how you are with your dad."
+[6102] "...Huh?"
+[6103] "Uhh... what I'm trying to say is, ahh...
+[6104] sorry for being a dick. I was too harsh...
+[6105] and, uh, kinda crossed the line."
+[6106] "...Right. Thank you... for coming to rescue me."
+[6107] "Y-Yeah! S-So we're good now, right?"
+[6108] "That's it? You can punish him, if you want!
+[6109] Electrocute his balls? Sew his mouth shut?"
+[6110] "No, you can't! That's literal torture!"
+[6111] "Mhm-mhmhm... Ahahaha!"
+[6112] "It seems you're all right, then."
+[6113] "Ahh. Yes, Kuma."
+[6114] "Next time, talk to us before you run off like that. Even if you're angry at us."
+[6115] "R-Right. Sorry... I'll do that next time."
+[6116] "Please do. You had me worried."
+[6117] "You were... worried about me?"
+[6118] "Is that so strange?"
+[6119] "...No. Thank you."
+[6120] "I need... to get stronger...
+[6121] I―will, become stronger..."
+[6122] "Nghh! Aghaaaah!"
+[6123] "Keep an eye on your remaining ammunition!
+[6124] Eliminate the Anti-Aso as quickly as possible!"
+[6125] "T-They're carrying... real assault rifles?!
+[6126] S-Shiiiiit...!"
+[6127] "We're in real trouble here..."
+[6128] "Crap... These guys ain't screwing around no more...! What the hell happened?!"
+[6129] "Gyaaaaah! M-My leegggg!"
+[6130] "Murasaki, what should we do?"
+[6131] "...Retreat. It'd be pretty boneheaded of us to keep fighting 'em without a plan."
+[6132] "You're right. Everybody, retreat!"
+[6133] "Tch... These guys mean business..."
+[6134] "..."
+[6135] "What's that, Medico?"
+[6136] "Oh, sorry. I was just reading through my father's notebook... Would you like to take a look?"
+[6137] "You don't mind? Sure..."
+[6138] (Ahh, o-oh no. He's so close...)
+[6139] "...There a list of names here.
+[6140] I wonder if I recognize any..."
+[6141] "O-Oh, yes, there is. Do you see any...?"
+[6142] "..."
+[6143] "Ahh, may I take a look, too?"
+[6144] "Ahh, s-sure. Feel free."
+[6145] "Whoa... I found Mahiro Hamahiro."
+[6146] "Who's that? Somebody you know?"
+[6147] "No, um... That's me. My real name is Mahiro Hamahiro."
+[6148] "Huh. That's a pretty weak name."
+[6149] "H-Hey! What makes you say that?!"
+[6150] "You sure it ain't somebody else with the same name?"
+[6151] "No... At least, I don't think so.
+[6152] The birthday is mine too."
+[6153] "...This might be a list of Asougi's body donors."
+[6154] "Huh...?"
+[6155] "I see a name I recognize too.
+[6156] Right here, Amane Nagara."
+[6157] "Amane... Nagara... You know this one...?
+[6158] Ahh, wait, Kuma, is this you...?"
+[6159] "Huh! That's a pretty rare name."
+[6160] "It's not my name. It's my older sister's."
+[6161] "Ba-biiiiiing! You got an older sister?!"
+[6162] "...Had."
+[6163] (Huh? Oh no, is she...?)
+[6164] "What's she look like? Is she hot?
+[6165] Is she a fine woman?!"
+[6166] "I have the picture we used for her funeral, if you want to take a look?"
+[6167] "Huh... F-Funeral? Wait..."
+[6168] "She's dead. She died quite a while ago."
+[6169] "Shit, seriously...?"
+[6170] "..."
+[6171] "Ahh..."
+[6172] "..."
+[6173] "Getting back on topic, it looks like Medico's father was investigating one of Asougi's human experimentation labs, like where we found Joker."
+[6174] "Ah... Y-Yeah... You might be right."
+[6175] "That's about as much as I can surmise at the moment. Sorry, I know it's not much."
+[6176] "Ahh... N-No! Don't apologize..."
+[6177] (If Kuma's sister's name was in the list...
+[6178] that must mean she was a body donor, as well...)
+[6179] (Maybe that's why he saved me...)
+[6180] "Okay, I'm heading out."
+[6181] "Ahh, where to...? Are you hustling tonight?"
+[6182] "Nah, I'm going to Mistress's place. That new gear the guards have is seriously dangerous.
+[6183] We need to protect ourselves."
+[6184] "R-Right... They're firing live rounds now..."
+[6185] "You coming, Torataro?
+[6186] Since you'll just tail me anyway..."
+[6187] "Uh... Nah, I'll pass today."
+[6188] "Suit yourself... You don't need to worry about what you said, by the way.
+[6189] It happened a long time ago."
+[6190] "...Right."
+[6191] "..."
+[6192] (...Maybe I shouldn't have mentioned it.
+[6193] I don't want them all to start walking on eggshells around me...)
+[6194] (Hmm...)
+[6195] (If my sister were still around, I wouldn't be doing any of this right now. I'd be living a clueless, carefree life...)
+[6196] "There, there... There, there..."
+[6197] "..."
+[6198] "Are you having fun now, Big Brother?"

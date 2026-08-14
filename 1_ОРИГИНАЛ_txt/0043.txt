@@ -1,0 +1,89 @@
+[3633] Glad we could reach a consensus."
+[3634] "Grk! W-Why you...! Then what do you call yourself? I doubt it's Nayuta."
+[3635] "Kuma."
+[3636] "...That doesn't sound like your real name.
+[3637] Is it a codename?"
+[3638] "Call it a codename, call it a nickname...
+[3639] Either way, don't worry about it too much."
+[3640] "You use it because you're Anti-Aso, don't you?"
+[3641] "..."
+[3642] "You wouldn't need to hide your real name if you didn't feel guilty for your actions."
+[3643] "We Shinonome have no such reservations.
+[3644] Not even when we do things considered sinful.
+[3645] Not even when we suffer the scorn of our peers."
+[3646] "...That's pretty impressive."
+[3647] "Are you mocking me?"
+[3648] "No, I mean it."
+[3649] "I'm... Kuma, a member of Nayuta. I'm cold and logical... because that's how I have to be, to do what I have to do."
+[3650] "...It's kind of like a mask I put on to get myself in a less half-hearted headspace. That's all."
+[3651] "..."
+[3652] "Besides, you cover your face, don't you?"
+[3653] "This is the way I was taught in training."
+[3654] "...What? To wear a mask?"
+[3655] "No, to not let myself be agitated by everything.
+[3656] My mask helps me realize the ideal."
+[3657] "So you get agitated all you want, and it doesn't count as long as your mask covers it up...?
+[3658] Uh, are you sure that makes sense...?"
+[3659] "Hmph. I don't think I particularly need it, but Shinazu and the others always insist that I do."
+[3660] (I don't know. I'm pretty sure she's flustered right now, under the mask...)
+[3661] "...What?"
+[3662] "Nothing. Their presence here is thinner now."
+[3663] "Let's move. You and I are going to give Murasaki and his sniper one nasty surprise."
+[3664] "Yeah, let's go."
+[3665] "Huh?"
+[3666] "Zappa, your phone's ringing."
+[3667] "Tch! Why does it have to be now...?!
+[3668] Oh, it's Kuma!"
+[3669] "Huh?!"
+[3670] "Really?! He's okay?!"
+[3671] "Yeah, hi! ...Huh? What?"
+[3672] "Yep, that's what we're doing... Uh-huh...?"
+[3673] "All right, sounds good.
+[3674] Yeah, good luck to you, too!"
+[3675] "How's Kuma? Where is he?
+[3676] Spit it out, spit it out."
+[3677] "Wasn't that call way too brief?"
+[3678] "U-Umm... How badly injured is he...?"
+[3679] "Ahh, quit crowdin' me!
+[3680] He's fine for now, at least."
+[3681] "He said he's already on the move, and then hung up on me."
+[3682] "Was that really all he said?"
+[3683] "Nope. He told us to chase after that sniper girl without getting ourselves hurt."
+[3684] "Huh? Umm... That's all?"
+[3685] "Yep, that's all. I mean, it's not gonna be easy, but..."
+[3686] "Nogyaaaaaahh! That was freakin' close!
+[3687] I swear that kid's gonna pay!"
+[3688] "Anyway, we better keep moving, otherwise Torataro here's gonna get himself a third nostril!"
+[3689] "Okay, good."
+[3690] "I just checked up ahead."
+[3691] "Ahh, how's it looking?"
+[3692] "It's just like you said. Most of Murasaki's henchmen are elsewhere around the wharf."
+[3693] "So the far side's unguarded? Then we stick to the plan. Now's our chance."
+[3694] "What's the situation like?"
+[3695] "It's amazing! She's already wiped out most of the Shinonome clan!"
+[3696] "Oohh... Kikuchiyo, too?"
+[3697] "Uhh, I dunno about the girl...
+[3698] Has anyone seen her?"
+[3699] "Nope, no sign of that katana chick.
+[3700] She abandoned her men and went into hiding."
+[3701] "Right, bring her here first when you nab her!
+[3702] We're doing this in order!"
+[3703] "How about Nayuta?"
+[3704] "Yeah, they're still partying hard. Seems like they haven't been able to catch the kid."
+[3705] "She just keeps running and shooting, and she's got us running all over the place too to keep up our perimeter."
+[3706] "Hmm. Honestly, I'd like to band our men together and crush them once and for all..."
+[3707] "But it's risky and nobody wants to get close.
+[3708] Meanwhile Nayuta just keeps on charging in.
+[3709] Honestly, they're dumb as bricks."
+[3710] "Keheheheheheh... Well, just to be on the safe side, I'm gonna make the call for everybody to take action..."
+[3711] "Gyaaaaaaaaaaaaaaahh!"
+[3712] "Wah! Hwyauaaaaah!"
+[3713] "...Huh? What's going on?"
+[3714] "It's bad! Bad, Murasaki! It's the boss girl!
+[3715] From the Shinonome clan! She's headed this way...!"
+[3716] "What did you say...?!"
+[3717] "Ghh! You churls! I will part your heads from your shoulders!"
+[3718] "Gwaah! Y-You biiiiiiitch!"
+[3719] "H-Hey! You idiot, you idiot, you idiot!
+[3720] Hih-hiiiiiiiiihhh!"
+[3721] "Where is the leader of Flattt?

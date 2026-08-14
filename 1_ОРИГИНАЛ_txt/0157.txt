@@ -1,0 +1,75 @@
+[13286] "But we don't know what's out there.
+[13287] It'd be better to search in a group than by yourself."
+[13288] "Ahh, then I'll go, too! I wanted to do some shopping, anyway."
+[13289] "Okaaaay! I'll go, too!"
+[13290] "Ahh, then would you mind if I asked you to pick up the essentials while you're out?"
+[13291] "Yokay!"
+[13292] "Hey, I better not end up holding all the bags!"
+[13293] "Right. I can leave that to everybody, too..."
+[13294] "What about you, Kuma?"
+[13295] "I'll be hustling. We need to earn some more cash."
+[13296] "...Well, I guess I'll wrap it up here.
+[13297] That should do for today, at least."
+[13298] "Hmm? Isn't Joker with you today?"
+[13299] "Huh...? Shion."
+[13300] "You wouldn't be too bad, either, but I don't think you'd react quite as adorably to my teasing as he does..."
+[13301] "...What do you want?"
+[13302] "Just passin' by. We're both on our way back from work, aren't we?"
+[13303] "...I seem to remember being attacked by a certain somebody after work."
+[13304] "Haha! That takes me back."
+[13305] "I was thinking you'd been quiet, lately...
+[13306] You guys are persistent."
+[13307] "Asougi's been getting all excited about their...
+[13308] what was it? Founder's B-Day Party? We've been having a bit of a ceremony of our own!"
+[13309] "Right... When I look at the stream of customers, I get the feeling the citizens have been pretty stressed about the big event."
+[13310] (That's why I was hoping we'd be able to earn a little more...)
+[13311] "Hah! Judging by the look on your face, I'm guessing things haven't been going so well for ya financially."
+[13312] "...Yeah, and judging by yours you've been raking it in big."
+[13313] "Yeah, we've got ourselves a special guest.
+[13314] We haven't been doing too badly."
+[13315] "A special guest, huh? So that's why..."
+[13316] "...You guys still going at it, then?"
+[13317] "..."
+[13318] "Yeah. I think I told you one time?
+[13319] Our morale is so high, it's a problem."
+[13320] "Hmm. Now you're making a face like you're in the lead."
+[13321] "..."
+[13322] "Ahh, well... Catch ya later."
+[13323] "Give my best to Joker!"
+[13324] "Flattt..."
+[13325] "Kuma? What was that about...?"
+[13326] "Oh, hey. I don't know, but it seems like they're up to something. How are Antenna and the others getting along?"
+[13327] "They're still at it.
+[13328] Antenna's been yelling."
+[13329] "I see. Well, let's just keep doing what we can."
+[13330] "You haven't noticed any drop in your skills as you're recovering, have you?"
+[13331] "The only problem is―Hey! Don't you get behind me... And don't keep getting closer!"
+[13332] "It's important to check."
+[13333] "It's dangerous out here. We should be going straight home..."
+[13334] "Hands-free citizen identification!
+[13335] Now with Inner-Asougi!"
+[13336] "Just one microchip in your wrist, and you'll have full access to the wide range of services for citizens, anytime, anywhere!"
+[13337] "This is a groundbreaking new trial. Nowhere else in the country have we seen such a wide-reaching citizen service campaign."
+[13338] "It's state-of-the-art technology! A whole new way of life, ushered in with aplomb that could only be possible here in Asougi City!"
+[13339] "Sign up now and, for a limited time, save 50% off the installation cost! We're also collaborating with ASP to offer special bonus Asougi Points!"
+[13340] "Make your life compatible with the future!"
+[13341] "Ahh, you got an Inner-Asougi?!"
+[13342] "Yeah, the clinic had a campaign running.
+[13343] Here, it looks like this..."
+[13344] "Ahh, that design is so cool!
+[13345] I'm soooo jealous!"
+[13346] "Shouldn't you really be getting one as soon as possible? You're always forgetting your citizen ID."
+[13347] "Nghh! Y-You're right... Okay, I'm gonna sign up right now!"
+[13348] "Huh? But what about that party?"
+[13349] "It's fine, it's fine. It's with Susojima, right?
+[13350] He's way off the main family, it's no big deal."
+[13351] "Hmm... That's a good point...
+[13352] Okay, I'll go with you, then!"
+[13353] "It's also got a GPS installed in it, so if you register somebody's number, you can check where they are anytime!"
+[13354] "Ahh, wow! I'm really suspicious of where my boyfriend's been going lately..."
+[13355] "Ahaha! You should force him to get one installed, then! Then all you have to do is..."
+[13356] "Sighhh..."
+[13357] "Shinazu..."
+[13358] "Hmm...? What is it?"
+[13359] "There's still no sign of the boss...
+[13360] I mean, Tsuina... It seems she's hiding somewhere..."

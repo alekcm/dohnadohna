@@ -1,0 +1,93 @@
+[14804] "And YAMMy, too?"
+[14805] "Yeah, both of you."
+[14806] (If I run away, this this all goes up in smoke.
+[14807] For me, for ALyCE... and for everybody else, too...)
+[14808] (...I lost my chance to run a long time ago...
+[14809] This is no time to be depressed.)
+[14810] "Oh, I see. You wanna be a sister sandwich?"
+[14811] "W-What?! Who put that in your head?!"
+[14812] "YAMMy did."
+[14813] "I think I'm gonna have to have a word with her..."
+[14814] (Come to think of it, I am a little concerned that we haven't heard from her in a while...)
+[14815] "..."
+[14816] "Hmm? What's wrong?"
+[14817] "...Mhmhm! You're back to normal, aren't you?"
+[14818] "...Yeah, seems like it. Thanks, ALyCE."
+[14819] "Yeah! Now, full speed ahead for home!"
+[14820] "There's nothing we can do.
+[14821] I tried to do my work like always..."
+[14822] (...But it's like my mind is totally blank...)
+[14823] (I don't even feel a thing, doing this immoral job I chose to bring down Asougi... Now that's bad.)
+[14824] "..."
+[14825] "...There you are."
+[14826] "Kikuchiyo..."
+[14827] "You'd be in serious danger if you were spotted by the guards on patrol. They're carrying heavy firearms, you know?"
+[14828] "You're right..."
+[14829] "...Let's head back quickly. Otherwise..."
+[14830] "You're going to cut me down where I stand, I'm guessing?"
+[14831] "I wouldn't... say that. I can't say that to you, even as a joke or a threat..."
+[14832] "..."
+[14833] "So please... don't say those things to me, either... Don't tell me you can't do anything."
+[14834] "You... You overestimate me."
+[14835] "Kikuchiyo, I'm not as great as you think I am... I'm not the person you see in me."
+[14836] "Kh―That's it! That's exactly what I don't want to hear coming out of your mouth right now...!"
+[14837] "...Ah..."
+[14838] "I know that this is difficult, and that continuing like usual isn't what you were hoping for! I know it's frustrating that we came so close yet failed!"
+[14839] "...But, you always... do your best..."
+[14840] "You grit your teeth... you help others in need... and you keep moving forward."
+[14841] "..."
+[14842] "I don't want to see you...
+[14843] putting yourself down like this..."
+[14844] (Kikuchiyo... She's crying...)
+[14845] "...I-I'm not crying! A Mibu is never swayed by her emotions!"
+[14846] "...I didn't say anything."
+[14847] "I-I could see it on your face!
+[14848] I know how observant you are...!"
+[14849] "You're only ever calm on the battlefield, aren't you?"
+[14850] "How dare you...! I-I'm not that cold-hearted!"
+[14851] "...I'd be fine if I wasn't with you!"
+[14852] "Well... it's a bit hard for me to respond to that."
+[14853] "...I know that being a leader is a heavy burden.
+[14854] I can't say I fully understand, but I do to some extent."
+[14855] "But... the thing you want to do right now...
+[14856] It isn't stand around here and worry, is it?"
+[14857] "...With... doing what I, want?"
+[14858] "You told me before, didn't you?
+[14859] You do what you what.
+[14860] That's the Nayuta way."
+[14861] "...Right."
+[14862] "I'm stepping into your private business.
+[14863] Much as you've always done with me."
+[14864] "...That wasn't logical, was it?"
+[14865] "You only ever use logic when you're strategizing."
+[14866] "Ghh... Come on, I'm not that bad."
+[14867] "Hmph. That's payback for before."
+[14868] "I... I'm still indebted to you...
+[14869] and right now, what I want to do...
+[14870] is help you."
+[14871] "What about you?"
+[14872] "I..."
+[14873] "..."
+[14874] "...I want to save Zappa...
+[14875] I want to destroy Asougi."
+[14876] "...Good."
+[14877] "And... I don't want to make you cry."
+[14878] "...Huh?"
+[14879] "That's what I realized that just now..."
+[14880] "B-B-B-B-But I wasn't crying!
+[14881] I just told you that! Look!"
+[14882] "Okay, then... I want to make you smile. How's that?"
+[14883] "...W-Well... I'm not...
+[14884] opposed... to that..."
+[14885] "So Mibus are allowed to do that?"
+[14886] "Huh?! No! No! I told you that a Mibu has no feelings! I swear, I'm going to cut you!"
+[14887] "I thought you said you couldn't say that to me, either...!"
+[14888] "I can if it's not a joke or a threat!
+[14889] And I'm dead serious about this!"
+[14890] "Cut it out...! Look, the guards are coming!
+[14891] I take it back, okay!"
+[14892] "Y-Y-Y-You think you can just take that back?! Why you..."
+[14893] "The hell do I have to say?!"
+[14894] "For goodness' sake...
+[14895] You are such a rude man."
+[14896] "...I think you're just easy to piss off.

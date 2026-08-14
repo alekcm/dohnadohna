@@ -1,0 +1,90 @@
+[13975] "Not that many guards made it on board.
+[13976] We can handle them!"
+[13977] "In that case, full speed ahead!"
+[13978] "Ghh! Ghhhhhh...! Nghh! It's hard to take back command... There's more coming!"
+[13979] "Charge!"
+[13980] "Arrgh! Now there's more of them!
+[13981] Can't you at least keep the doors shut?!"
+[13982] "But the doors are set to open when the train comes to a stop! I'm going to have to mess around with it again...!"
+[13983] "Then I guess we're just gonna have to rumble again!"
+[13984] "Grr-grr, piece of junk...!"
+[13985] "All right! We're back on track!"
+[13986] "...We managed to pull through."
+[13987] "But as soon as we reach the next station, we're going to have to..."
+[13988] "Nope. The countermeasure finally worked!
+[13989] This train won't be stopping anymore!"
+[13990] "Ahh, r-really?"
+[13991] "Yep! I threw a dummy together to divert the stop signal... Ahh, I'm exhausted.
+[13992] Kuma, gimme a shoulder rub."
+[13993] "...Well, okay. It's not like there's anything else we need to do."
+[13994] (She makes it sound so easy...
+[13995] but what she did was amazing...
+[13996] Incredible, even...)
+[13997] "How can you get stiff shoulders when you have such a flat chest?"
+[13998] "What do those two things have to do with each other?!"
+[13999] (...When she's joking around like this, she seems like nothing more than a little kid...)
+[14000] "It seems like things have settled down for now... Hmm? What are you doing?"
+[14001] "The star of the show demanded it."
+[14002] "Aaaaahh, that actually feels pretty good... Ahh-ahh...♪" "...We're not even halfway through this mission yet. Don't let your guards down."
+[14003] "But even professionals take breaks when they have time!"
+[14004] "...Hmph."
+[14005] "...Don't worry about it."
+[14006] "Hmph. That's not what I'm worried about...
+[14007] The guards are retaliating much more quickly than I anticipated."
+[14008] "Right. I was expecting them to catch on a little later..."
+[14009] "We knew we'd run into obstacles, but our plan was always to smash right through them, wasn't it?"
+[14010] "Yeah, nothing can stop this train!"
+[14011] "...Right. I was always prepared to attack them head-on if necessary."
+[14012] "This train can't stop on a dime. If they come at us, we'll blast 'em to the end of the line!
+[14013] ...Ahh♪ A little harder there, would you?"
+[14014] "...Don't you think that's quite enough?"
+[14015] "Ahh..."
+[14016] "Ooh, we're passing another train!
+[14017] Ah, that kid looks so surprised! Hiiiiii!"
+[14018] "I can see why they would be surprised...
+[14019] It's an almost-empty train driving at full speed without stopping at any stations..."
+[14020] "Aaah?!"
+[14021] "...What was that?!"
+[14022] "I-It sounds like something's... on the roof?!"
+[14023] "What the?! But this is the subway!
+[14024] How's anything coming at us from above―"
+[14025] "I-It's getting closer...! It's coming towards the front train car!"
+[14026] "Let's investigate. ALyCE!"
+[14027] "Okaaay!"
+[14028] "Y-You're going to investigate...?!
+[14029] Y-You mean you're going up on the roof...?!"
+[14030] "T-This train's still moving!"
+[14031] "That doesn't even faze 'em..."
+[14032] "...Ah...!"
+[14033] "Aaah!"
+[14034] "Splendid... So the guards had not yet slain you."
+[14035] "...You certainly know how to show up at the most inconvenient of times."
+[14036] "How resolute... and how interesting.
+[14037] This train... cannot be stopped now, can it?"
+[14038] "Aha. Now there's no place for either of us to run or hide."
+[14039] "..."
+[14040] "Whoa-uh-oh... Guess we got no choice?
+[14041] Dammit, we're busy right now!"
+[14042] "Our buddy General Chaos here can't seem to wait."
+[14043] "I get the same impression from you, Zappa."
+[14044] "I s'pose... He came all this way to see us.
+[14045] We've gotta try to be good hosts, yeah?"
+[14046] "I suppose... Even though it's the least logical choice."
+[14047] "Ohhh...
+[14048] To battle!"
+[14049] "Teeeeeeaaaah!"
+[14050] "Did that do it...?!"
+[14051] "Ghhmmh-oooooohhh...!"
+[14052] "Take this!"
+[14053] "Ooh-nghooooooh...!
+[14054] So... sharp... so heavy...!"
+[14055] "Ooooooooooooooohh!"
+[14056] "Nghooh-oooooooooooohhhhh!"
+[14057] "..."
+[14058] "..."
+[14059] "Hmph... heh, hehe... hahahahaha..."
+[14060] "Fwahahahahahahahahahahahahaaa!"
+[14061] "..."
+[14062] "...He fell? I guess it's over, then."
+[14063] "Yeah... Damn, that guy gave us some trouble."
+[14064] "We will be arriving shortly at Hanekawa.

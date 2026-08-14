@@ -1,0 +1,88 @@
+[3545] "They were... tighter a minute ago."
+[3546] "...I'll wrap them for you. Watch and learn."
+[3547] "The bullet went right through you.
+[3548] You were extremely lucky."
+[3549] "...Sorry."
+[3550] "Hmph. The Shinonome clan always pays its debts... no matter how foolish those we owe are for helping us."
+[3551] "And however impudent they may be."
+[3552] "...I didn't know your grudge was so strong that you'd feel compelled to repeat yourself."
+[3553] "Honestly, I didn't have any reason in particular.
+[3554] Maybe I thought you might help us out... That's the most logical thing that comes to mind."
+[3555] "You're a very 'maybe' sort of man, aren't you? Well, I am not your ally."
+[3556] "As long as you're Flattt's enemy, that's good enough for me right now...
+[3557] Owowow-ouch...!"
+[3558] "Hmph... That should hold."
+[3559] "Thanks. It's much easier to get around now."
+[3560] "...Though it might have been even easier if you hadn't pulled that last one so tight."
+[3561] "If you want to move, better too tight than too loose. Now we're even."
+[3562] "Ahh... Are you sure you should be taking off your mask out here?"
+[3563] "It's not like I'm forbidden from doing so.
+[3564] It was making it difficult for me to see my wound."
+[3565] "So you got wounded too?"
+[3566] "Yeah. I was hit by that sniper, as well...
+[3567] but it's only grazed me."
+[3568] (They really did get us both at once...)
+[3569] "...Hey."
+[3570] "Hmm?"
+[3571] "Stop staring at me like that.
+[3572] Keep your eyes ahead."
+[3573] "Well, that's not exactly fair. You didn't mind stripping me down a minute ago."
+[3574] "S-Silence, you! W-W-What do you mean I stripped you down, you vulgar man?!
+[3575] I was only trying to help!"
+[3576] "I'm kidding. Anyway, I'm gonna check around the container."
+[3577] "How dare you... The nerve."
+[3578] (So this sniper can injure two people with one shot... That's horribly efficient.)
+[3579] "Hmm? So twice now, they've shot two people.
+[3580] Not one and not three. Always two..."
+[3581] "...I wonder."
+[3582] "I'm done tending to my wounds.
+[3583] I'm going after them."
+[3584] "Careful, they're extremely precise.
+[3585] Next time, they might hit somewhere vital."
+[3586] "That doesn't frighten me. I'll get in close before they can, and simply strike them down."
+[3587] "..."
+[3588] "So... This is going to sound ridiculous."
+[3589] "What?"
+[3590] "If my assumptions are correct...
+[3591] then I might know a way to turn the tables.
+[3592] What do you say? Wanna gamble with me?"
+[3593] "You want me... to join forces with you?"
+[3594] "Yeah. Unless you can't bring yourself to team up with a half-hearted misfit."
+[3595] "..."
+[3596] "Huh, how'd one of our guys get taken out...?
+[3597] Whoa, it's the leader of the Shino―!"
+[3598] "Gahh...!"
+[3599] "...Interesting. Then I will take you up on this gamble, Nayuta."
+[3600] "All right, then..."
+[3601] "Ahh... Over here! It's that Shinonome bitch in the mask, she did a couple of our guys in!"
+[3602] "They're here. Let's slice them down first."
+[3603] "Okay!"
+[3604] "Gahh... G-Ghhh..."
+[3605] "Looks like we're in the clear."
+[3606] (Damn, this girl is dangerous...)
+[3607] "What's wrong? Do your wounds still hurt?"
+[3608] "No, it's just you took them down like it was nothing."
+[3609] "Hmm? Whatever. Let's go."
+[3610] "Hey, Nayuta, they're coming from up ahead.
+[3611] Should we charge, or dodge aside...?"
+[3612] "Stick to the left, Kikuchiyo.
+[3613] We'll use the containers as shields."
+[3614] "..."
+[3615] "Don't attack them head-on yet.
+[3616] We'll go around the side and...
+[3617] Is something wrong?"
+[3618] "...Don't call me by my first name.
+[3619] It's too familiar."
+[3620] "Huh? Since when? You always introduce yourself to us like that."
+[3621] "Look, just don't call me by my name."
+[3622] "Gimme a break here... What's your last name again? It wasn't Shinonome, was it?"
+[3623] "Mibu. I'm Kikuchiyo Mibu."
+[3624] "Mibu... Mibu... It doesn't really roll off the tongue, does it? What's so bad about Kikuchiyo? It's the most logical choice."
+[3625] "If you don't mind me giving you a nickname, Kiku's nice and snappy, don't you think?"
+[3626] "Ki...?! Cut that out, you imbecile!
+[3627] What are you thinking?!"
+[3628] "...It seriously pisses you off that much?"
+[3629] "It's just that nicknames... are too intimate.
+[3630] I would much rather you called me by my first name than that...!"
+[3631] (The nerve of him...! What on earth is going through his head...?!)
+[3632] "Okay, then we'll just stick to that.

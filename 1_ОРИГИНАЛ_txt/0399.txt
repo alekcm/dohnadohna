@@ -1,0 +1,101 @@
+[32711] "I've got no interest in that. Cash and crime are means to an end. They're not my hobbies."
+[32712] "Hmm. That ain't very logical of you, dude."
+[32713] "How about you?"
+[32714] "Me? Nothin'. But unlike you, I mostly just see what's right in front of my face."
+[32715] "Really? Well, I guess that's kinda similar in a way."
+[32716] "Yeah, I s'pose you're right."
+[32717] "...You wanna wrap this up?"
+[32718] "If we make it a good match... we can stop."
+[32719] "Really? Then I'm gonna go all-out for the finish..."
+[32720] "How naive."
+[32721] "Gwaaaaaaah! Not that cheap trick again!"
+[32722] "...I'm just attacking with what has the most likelihood of hitting."
+[32723] "Tch. One more round, one more round."
+[32724] "You win..."
+[32725] "I wonder where they are!
+[32726] Where could they be?"
+[32727] "Huh? Kanono? What are you doing here?"
+[32728] "Hiya! I'm looking for the Anti-Aso!
+[32729] Have you seen them?"
+[32730] "You idiot! Y-You can't say stuff like that out in public!"
+[32731] "Nnnnghh! How come?"
+[32732] "...Seriously? If people start thinking you're their ally, you'll be done for."
+[32733] "No I won't! They're so cool!
+[32734] They get to battle against true evil!"
+[32735] "As if! Ugh... And you really need to get changed out of those revealing clothes!"
+[32736] "But this is my battle form!
+[32737] Kyuu-kyu-kyuuuiiinn!"
+[32738] "You don't have to do that pose...
+[32739] Why don't you obsess over something normal like Patty & Milly?"
+[32740] "Hmph! But only kids watch that.
+[32741] I like more―"
+[32742] "Now, on to our next story..."
+[32743] "Huh...?"
+[32744] "Last night, there was a break-in at Shinonome Wharf."
+[32745] "The wharf is currently off-limits while the authorities carry out their investigation."
+[32746] "..."
+[32747] "...? What's wrong?"
+[32748] "That must've been the Anti-Aso!
+[32749] I bet they had a fight there!"
+[32750] "Huh? Listen, Kanono..."
+[32751] "Maybe if I go there, I can meet them!
+[32752] Kyuu-kyu-kyuuuiiinn!"
+[32753] "..."
+[32754] "Huh... Kanono's run off again...?
+[32755] Where could she have gone this time?"
+[32756] "I think she's gone to the wharf."
+[32757] "...The wharf?"
+[32758] "Yeah, there was something about it on the news. That's why."
+[32759] "Argh, are you kidding?! She's always running off suddenly!"
+[32760] "Chiharu is very caring, isn't she?"
+[32761] "Eheheh! I'm here♪" "I'll beat up the baddies!
+[32762] Eiyaah! Doooooooohh!"
+[32763] "Hmm...? Ahh!"
+[32764] "Looks like you're awake."
+[32765] "A-Are you... by any chance..."
+[32766] "You made a big mistake wandering around there at night."
+[32767] "Anti-Aso! You're Anti-Aso, aren't you?!"
+[32768] "...Yeah?"
+[32769] "Yesss! I found you! Yahooooo!"
+[32770] (Huh...?)
+[32771] "W-Wow, you're so cool...! But you're just wearing ordinary clothes. Why's that?"
+[32772] "Because we don't always wear our uniforms.
+[32773] Now..."
+[32774] "Ah-ahh, can I have your autograph?!
+[32775] Uhh, you can just sign my sleeve.
+[32776] I need a pen... A pen!"
+[32777] "I'm not signing anything."
+[32778] "Aww, that's a shame..."
+[32779] "...Who are you, anyway?"
+[32780] "Ahh, yes! I'm Kanono Takemi!"
+[32781] "...What were you doing there?
+[32782] You Asougi's dog?"
+[32783] "No! I'm a soldier! Please let me join you!"
+[32784] "No way. Go home."
+[32785] "I'm not going home!"
+[32786] "Are you capable of doing anything?"
+[32787] "Of course! I can beat up evil!
+[32788] Teiyaah-tooooohh!"
+[32789] "What do you think?"
+[32790] (She just looks like she's dancing...)
+[32791] "We can't afford to take care of a useless kid.
+[32792] Forget you ever met us, and go home."
+[32793] "Noooooooooooo!"
+[32794] (There's just no getting through to her.)
+[32795] "I'll do anything, Instructor!"
+[32796] "I'm not your instructor."
+[32797] "Then how about Teacher? Master?
+[32798] Director? Commander? Admiral?!"
+[32799] "None of them."
+[32800] "Uuuuuuuwahhh...!"
+[32801] "Well, if you really can do anything, the only job we have for you is dealing with the filthy guys that come here."
+[32802] "...Whaddaya mean deal with?"
+[32803] "I'm saying if you wanna act like a spoiled brat, that's the only job we have for you."
+[32804] "..."
+[32805] "Ahh! I get it! You want me to battle against the big baddies who attack here!"
+[32806] (Uhhhhhhh...)
+[32807] "I, Kanono Takemi, accept this mission!
+[32808] I shall do my best!"
+[32809] "Uhh, no, that's not actually what I meant..."
+[32810] "It's decided! I already agreed! This will be my battleground!"
+[32811] "..."

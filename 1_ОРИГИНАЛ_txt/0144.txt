@@ -1,0 +1,80 @@
+[12231] "Kikuchiyo was mad at him, wasn't she...?"
+[12232] "Women are scary when they're in love.
+[12233] Same with Porno."
+[12234] "Ahh... She hasn't left his side since he came back, has she...?"
+[12235] "Well... Can't say I blame them, especially now..."
+[12236] "...Huh? Is that you... Minako?"
+[12237] "Huh? Ahh...! M-Miss Kai?!
+[12238] W-What are you doing here...?!"
+[12239] "I was wondering the same thing, Minako...!"
+[12240] "Uhh, do you know this lady, Medico?"
+[12241] "Ahh, y-yes. She's an acquaintance of my father's. She's a reporter..."
+[12242] "...Medico?"
+[12243] "Oh, uhh, i-it's a nickname... Miss Kai, have you heard from my father...?"
+[12244] "...I suppose if you're asking me that, you haven't heard from him either..."
+[12245] "Ahh..."
+[12246] "I talked with Mr. Taisouji about Asougi City, but then he went to investigate on his own, and I haven't heard from him since..."
+[12247] "..."
+[12248] "I was invited here as part of the press corps reporting on the Founder's Birthday Ceremony.
+[12249] There are a lot of journalists here to cover it."
+[12250] "Is that right?"
+[12251] "I was wondering what Asougi City is like.
+[12252] The Asougi Group seem somewhat eccentric, but this city seems very clean and beautiful."
+[12253] "I-It certainly does."
+[12254] (That's what I thought... when I first came here... but now I know...)
+[12255] "So what are you doing here, Minako?
+[12256] Shouldn't you be in school?"
+[12257] "Huh? U-Umm, well..."
+[12258] "Ahh, that's my bad! Me and her are friends from online, and I roped her into coming here to hang out with me."
+[12259] "Medico seemed so stressed out lately, I told her it couldn't hurt to relax for a bit!"
+[12260] "Minako... Hmm... I know you must be worried, but..."
+[12261] "U-Umm! I'll be all right. I just need to relax a little, and then I'll be able to focus on school again."
+[12262] "I see... Sorry, I didn't mean to pry.
+[12263] I was just a little worried about you."
+[12264] "Not at all. I hope your reporting goes well, Miss Kai... and be careful."
+[12265] "Thank you... Oh, have you been shopping...?
+[12266] Bandages...? Are you hurt?"
+[12267] "Ahh! O-Oh, that reminds me!
+[12268] We have to get going now, I'm afraid!"
+[12269] "Oh, okay. Keep in touch, all right?"
+[12270] "I will! Bye!"
+[12271] "Hmm... That cutie Minako seems to have grown since I last saw her."
+[12272] "Heheh! Eheheheh! Eheheheheh...!
+[12273] Ahh, I'm delighted. Today's my lucky day."
+[12274] "Kouda has come to visit me again, and this time, all by herself!"
+[12275] "..."
+[12276] "Oh dear, I've forgotten to bring us some tea.
+[12277] I'll get it right away. Do you have a preference?"
+[12278] "...Anything's fine."
+[12279] "Ufufu! I see, I see. It's good that you aren't a picky little girl."
+[12280] "W-What are you doing...?!"
+[12281] "Nothiiing! Here's your tea."
+[12282] "..."
+[12283] "Ahh, you smell so good, Kouda...
+[12284] Like milk."
+[12285] "Ufufu!"
+[12286] "Ghh...!"
+[12287] (H-He's so gross... Everything from his eyes to his words is revolting...!)
+[12288] (...But Asougi's security is built on his GEBER encryption. If he would tell me how to crack it...)
+[12289] "Now then... if you came here for a reason, why don't you let me in on it? Of course, I'm more than happy just to chat over tea."
+[12290] (I will return... I will return to Nayuta...)
+[12291] "The new encryption system Asougi is using...
+[12292] It's that GEBER we got from you here, isn't it?"
+[12293] "Aaah, heheheh! Well, aren't you clever, Kouda? How did you guess?"
+[12294] "I want―"
+[12295] "Heheheheh! It's pretty impressive, isn't it?
+[12296] There's no way to crack it with current specs and algorithms."
+[12297] "...Great..."
+[12298] "What's this? Don't tell me, Kouda, that you want to know how to crack it?"
+[12299] "...Gh..."
+[12300] (Do I really have to bow my head to him...
+[12301] and ask him for the solution? Ahh, but that's the only way I can go back to Nayuta...)
+[12302] "All right, I'll tell you. But...
+[12303] You'll have to do me a... favor..."
+[12304] "...! S-Stop stroking me...!"
+[12305] "Kihfufufufu... You're so cute, Kouda..."
+[12306] "All defense systems on floor 2 have been destroyed. Intruders are proceeding to floor 3."
+[12307] "What? I just upgraded my defense systems to the max, yet these intruders still managed to break through? Who are they?!"
+[12308] "...Huh? Intruders...?"
+[12309] "Ahh, don't you worry, Kouda. Everything will be all right. I'll take care of them...
+[12310] Let's see here."

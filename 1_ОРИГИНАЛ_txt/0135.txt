@@ -1,0 +1,95 @@
+[11497] W-W-What was that?!"
+[11498] "...A beam?"
+[11499] "I-It's got a laser gun...?
+[11500] Since when are those practical?!"
+[11501] (Is Asougi testing a new prototype on us...?!)
+[11502] "Kaaaaaaaah! We gotta get out of here!"
+[11503] "W-Which way do we go?!"
+[11504] "Anywhere nobody's trying to get us!
+[11505] Let's go that way! Thatta way!"
+[11506] "Who are those Asougi assholes calling garbage...?!"
+[11507] "Tsuina, this way!"
+[11508] (Tsuina Mibu...! We can't catch her right now...)
+[11509] "Medico! Kirakira! Give Kikuchiyo a hand!"
+[11510] "Ahh, r-right!"
+[11511] "Grab her clothes, Porno! We'll put her top on while we carry her!"
+[11512] "Mmm."
+[11513] "Aaahh! What the hell was that?! Just when we thought the Shinonome were crazy, Asougi whips out something even crazier!"
+[11514] "I guess they wanted to brag about their latest invention...!"
+[11515] "Well, they're being goddamn pushy!
+[11516] Why couldn't they just brag to themselves?!"
+[11517] "Ah―Torataro! The gate! Up ahead!"
+[11518] "...?! This ain't a padlock!
+[11519] It's an electronic lock!"
+[11520] "Antenna! You're up!"
+[11521] "Call my name and I shall appear!
+[11522] Ru-ru-no-ru! I'll have this open in a jiffy..."
+[11523] "Ahh, I know! What if after we opened it, we locked the gate behind us?! Those guys probably couldn't get through!"
+[11524] "Yeah, but what do we do if it's a dead end?!
+[11525] I guess we could always come back the way we came once they're gone...
+[11526] Huh?"
+[11527] "...How much longer, Antenna?
+[11528] You usually have these open in a snap..."
+[11529] "...I-It won't open...?
+[11530] W-What's going on here...?!"
+[11531] "...Antenna?"
+[11532] "T-This doesn't make sense!
+[11533] I do this and this, then this, and...
+[11534] Huh?! W-What's this encryption...?!"
+[11535] "C'mon, you gotta be kidding...!
+[11536] Now's not the time to be joking around!"
+[11537] "I-I've got this...! I'll have this open right away! I have to... I have to...!"
+[11538] (I see some vague similarities here...
+[11539] to Asougi's oddly strict weapon protection...
+[11540] but also... also...!)
+[11541] "...?! The invincible... shield...?
+[11542] System... GEBER...?!"
+[11543] "...Huh? Did you just say...?"
+[11544] "Crap! Antenna!"
+[11545] "Huh?"
+[11546] "No! Kuma!"
+[11547] "Ghh... Ghah-kah-hah...!"
+[11548] "Let's make this city spotless, for a brighter Asougi, and a wonderful future..."
+[11549] "Big Brotheeeer! Big Brother Kuma fell!"
+[11550] "Khh... It won't open... It won't open...!
+[11551] Why? Why? Ngh...!"
+[11552] "Argh! Ngh... Everybody, jump!
+[11553] Out the window Kuma fell through!"
+[11554] "But... how far is the fall...?!"
+[11555] "We don't have time to worry about that!"
+[11556] "...Mgh!"
+[11557] "...Tch! Target Group Beta jumped the ship.
+[11558] Survival unknown. Over."
+[11559] "Targeting zero garbage."
+[11560] "Buhaaaaah!"
+[11561] "Ahh, haah... W-We made it...
+[11562] M-Maybe I should've bought that swimsuit after all... Achoo!"
+[11563] "Pppah, aaah!"
+[11564] "Ahh, Medico, you made it!
+[11565] I didn't know you could swim."
+[11566] "I suppose I'm... okay at swimming."
+[11567] "I bet those two big pool floats help!"
+[11568] "W-What do you mean...?
+[11569] Anyway, where's everybody else...?"
+[11570] "...I dunno. I haven't seen Kuma... either..."
+[11571] "Swimming in the sea at night without any light...
+[11572] It was even harder to see than I imagined."
+[11573] "...Ahh!"
+[11574] "Antenna...?"
+[11575] "..."
+[11576] "She's shivering... Are you all right, Antenna?"
+[11577] "...I-It's all my fault... I-I couldn't crack...
+[11578] the encryption... then Kuma...
+[11579] a-and everybody..."
+[11580] "Antenna..."
+[11581] "..."
+[11582] "I... I... couldn't help anybody..."
+[11583] Meanwhile, at Asougi Headquarters...
+[11584] "Is it over?"
+[11585] "It went without a hitch. I have confirmation that we've regained control of the Anepic."
+[11586] "Excellent work. What's the situation over there?"
+[11587] "Excluding the Anepic... little seems to have changed at the wharves."
+[11588] "Dammit... Those regulation-breaking Outsiders think they can do whatever they please... How tiresome."
+[11589] "Did they really think we couldn't muster countermeasures...? Incorrigible."
+[11590] "Well, at least we were able to test out the new prototype. How did it do?"
+[11591] "The Anti-Aso 'Shinonome clan' escaped, but took significant damage. We also managed to arrest and interrogate several individuals."

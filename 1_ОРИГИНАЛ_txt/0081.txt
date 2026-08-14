@@ -1,0 +1,84 @@
+[6965] "Dammit. Am I the only one who did any work today? I busted my ass getting us that lead..."
+[6966] "Guess your trick backfired on you, huh?"
+[6967] "I figured if we got lucky we might get ALyCE back. Look what it turned into..."
+[6968] "Ain't karma the worst."
+[6969] "Whatever. We can't use the info I've got on our own. I'll tell ya what I know, so help us out, will ya?"
+[6970] "Look who's all generous today.
+[6971] This better not be another trap!"
+[6972] "We can't afford one right now."
+[6973] "Okay, so what's the plan...?"
+[6974] "Ahh, you just wait'll you hear this.
+[6975] Listen up..."
+[6976] "Hah-hah...!"
+[6977] "..."
+[6978] (My pursuer... isn't closing the gap.
+[6979] What are they planning...?)
+[6980] "Tally-ho..."
+[6981] "They're attacking from above?!
+[6982] Oh n―!"
+[6983] "Ah... gah...!"
+[6984] "...Hgh...!"
+[6985] "It's only a stun grenade... but now you can't move, can you? You can't throw those knives like you do."
+[6986] "Now, carry her."
+[6987] "Okay."
+[6988] "Now, be a good girl and... Hgah!"
+[6989] "Agh-aaaaaaah!"
+[6990] "Ghh... Guaaaaah...!"
+[6991] "Oh dear."
+[6992] "She threw a knife... with her mouth...!
+[6993] Gahh... Gahaah...!"
+[6994] "Khh... Haah... Haah, haah...!"
+[6995] "Hmm... We lost her again, did we?
+[6996] She's giving us such an awful lot of trouble."
+[6997] "I knew someone sounded annoying..."
+[6998] "...Oh dear."
+[6999] "I return to one of my old haunts, and who should I come across but an old face I last saw on the Outside."
+[7000] "Well, if it isn't... Miss Tsuina."
+[7001] "Who just gave you the slip?
+[7002] Didn't look like an Asougi dog to me."
+[7003] "Oh, this is deeply embarrassing, but my pet cat has run away from me.
+[7004] She was a very expensive cat, indeed."
+[7005] "And a white-collar worker like you is running around chasing after her?"
+[7006] "I'm here on a business trip, mostly by myself, but with so few hands on deck things are proving difficult."
+[7007] "I could sic my hunting dog on her, but he's currently preoccupied with another matter."
+[7008] "Hmph... And so you're bumbling around my hometown, are you?"
+[7009] "Ooh... You mentioned this was an old haunt?"
+[7010] "Like you didn't do a background check on me.
+[7011] Anyway, it's just as well I bumped into ya."
+[7012] "Did you wish to discuss business?"
+[7013] "Yeah. Remember what you were trying to sell me last time? Gimme as much as you can, ASAP."
+[7014] "...You wish to start a war, do you?"
+[7015] "I wanna bring this silly game of house to an end!"
+[7016] "Hmm..."
+[7017] "Can't you do it?"
+[7018] "No, that will be no trouble.
+[7019] It's my pleasure to be of use to you."
+[7020] "Then do it. I'm buying in bulk, you hear me? I'll be in touch."
+[7021] "Ahh... What a way money has of falling into one's lap. Perhaps I should work late more often."
+[7022] "...Now, back to work."
+[7023] "All right, it's time for the meeting!
+[7024] What's our plan, people?"
+[7025] "Wow, Zappa actually asked!
+[7026] It's a special day."
+[7027] "Our fearless leader has to take charge today.
+[7028] It's about hunting at Asougi's weapons factory."
+[7029] "That asshole Murasaki's 'genius' idea was to raid the place for Asougi weapons, right?"
+[7030] "Mmm... But it's impressive that he found its location. I couldn't find anything when I tried searching for it."
+[7031] "Not even you could find it, Antenna?"
+[7032] "Nnmmmm... I get the feeling Asougi's ramping up their digital security, as well."
+[7033] "When I tried looking up their security equipment, it seemed they'd upgraded their encryption protocol..."
+[7034] "Maybe they're catchin' on that you hack them like crazy?"
+[7035] "Hmph. That's impossible.
+[7036] My network cloaking is perfect―"
+[7037] "I think I've seen you hacking right in front of the guards while we were out hunting."
+[7038] "Huh...! The analog hole?! I never even considered that blind spot...!"
+[7039] "...Okay, seriously, this girl's an idiot."
+[7040] "Putting that aside, what should we do?
+[7041] Should we go for it?"
+[7042] "'Course we should. It sounds like fun!"
+[7043] "I figured you'd say something like that."
+[7044] "Where is it again? Um, out at the shipyard?"
+[7045] "The Asougi Shipyard, huh...?
+[7046] I never knew that place was still running."
+[7047] "Only as a front for their weapons factory.
+[7048] So they make the parts there, and then assemble them at HQ, huh...?"

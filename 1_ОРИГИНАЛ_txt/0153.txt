@@ -1,0 +1,65 @@
+[12946] "...Like I said, Asougi's already made the first move. If we stand around doing nothing, we're going to get crushed."
+[12947] "So we're gonna hit 'em back first?"
+[12948] "Yeah. Our end goal...
+[12949] is to expose Asougi's dark side."
+[12950] "Huh? Really? Sounds interesting!"
+[12951] "...You mean all the shady shit they get up to? But how?"
+[12952] "We'll expose them during the Founder's Birthday Ceremony, the event that they're trying to use to connect with the Outside."
+[12953] "Ahh... They did invite a lot of reporters into the city..."
+[12954] "Won't they just disappear them all?"
+[12955] "Normally, yes. There's no benefit to them in letting info reach the Outside. They can make anyone vanish, anywhere in their influence."
+[12956] "But the Founder's Birthday is different.
+[12957] They're publicizing it as this huge event.
+[12958] And they're targeting it at people Outside."
+[12959] "...Asougi isn't as all-knowing or all-powerful as they think.
+[12960] Now's the time."
+[12961] "If we act now, all kinds of people will see it...
+[12962] People who have no prior knowledge of Asougi.
+[12963] Thanks to Asougi's very own publicity engine."
+[12964] "Oh right! Then we can show everybody how fucked up they are!"
+[12965] "And once we expose them there, everybody's going to freak out at once.
+[12966] If all goes well, it will be a fatal blow."
+[12967] "Nice, nice! Are people across the country gonna see us on the web?"
+[12968] "H-Huh? I don't know how I feel about that...
+[12969] I don't want my friends and family back home to find out about me..."
+[12970] "...I'm still thinking about the methodology."
+[12971] "The only problem is if all the people that Asougi invited here from the Outside are in cahoots with them..."
+[12972] "Ahh, I don't think so. Some of the press visiting from other prefectures don't know about the Asougi Group at all."
+[12973] "Really? That's good to know..."
+[12974] "Arright, now this's getting interesting!
+[12975] So what are we gonna expose about 'em?!"
+[12976] "Some dangerous information, as specific as possible. That's what we need right now."
+[12977] "It can't be anything shallow. We need an ace in the hole, something that'll send the general public into a frenzy when they see it."
+[12978] "And... that's why we're headed for the boat?"
+[12979] "Yeah, according to Kikuchiyo, there's something shady about that ship."
+[12980] "...Are you sure that's a good idea?"
+[12981] "There's no question that boat is important to them. If you want more certainty than that, our options look more like invading their HQ."
+[12982] "Ahaha... Hmmmm, if we've got the option not to then let's give that one a hard pass."
+[12983] "At least if we take the boat, we already know its layout, and if it's mostly just guards, then we have decent odds of success."
+[12984] "But... i-it's really dangerous...
+[12985] Are you sure... we'll be all right...?"
+[12986] "...Only one way to find out."
+[12987] "Yeah, guess so. Arright, let's head back and get our shit ready."
+[12988] "Yeah, there's so much I have to do first!
+[12989] If I fall in the water, my makeup's gonna run!"
+[12990] "I love swimming!"
+[12991] "Only one way... to find out. You're right..."
+[12992] "All right, it's showtime, people.
+[12993] Let's get fired up and move out!"
+[12994] "So, we're looking for any incriminating evidence on Asougi... right?"
+[12995] (If we happen to find something related to my father... maybe...)
+[12996] "Everything's probably hidden behind that locked gate from before."
+[12997] "We're counting on ya, Antenna. Hope you don't have butterflies in your tummy!"
+[12998] "Wahahahahahahaha! Just leave it to me!"
+[12999] "I feel some good waves wafting by through the air. Hmhmm, let's do this!"
+[13000] "Yeah, we're counting on you."
+[13001] "There might be more gates like the one we ran into before, so keep your eyes peeled and stay alert."
+[13002] "All right, it's showtime, people.
+[13003] Let's get fired up and move out!"
+[13004] "So, we're looking for any incriminating evidence on Asougi... right?"
+[13005] (If we happen to find something related to my father... maybe...)
+[13006] "Everything's probably hidden behind that locked gate from before."
+[13007] "We're counting on ya, Antenna. Hope you don't have butterflies in your tummy!"
+[13008] "Huh? Uhh... W-Wahahahahahahaha!
+[13009] Just leave it to me!"
+[13010] "Seeing as we're planning to hop aboard the cruise ship again, it's good to think about what we'll do once we're on!"

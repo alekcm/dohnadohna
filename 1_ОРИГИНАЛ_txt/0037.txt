@@ -1,0 +1,82 @@
+[3100] "Even when we try to use them, still they get in our way... We should just squash them right now...!"
+[3101] "Wait, Murasaki. You're planning on taking on not just Nayuta, but the Shinonome, as well?"
+[3102] "Tch... I know. Oh, I know, all right! The odds are stacked against us, both in terms of numbers and fighting ability."
+[3103] "But what else are we supposed to do?!
+[3104] You wanna just watch them cackle as they race off ahead of us?! Huh?!"
+[3105] "The gap between us might not be fatal now, but if we just stand around wringing our hands, it'll all be over before we know it!"
+[3106] "...If we're going to take action, we have to be quick... In fact, it's now or never!
+[3107] But what do we do...?"
+[3108] "The obvious idea is to hit their weaknesses.
+[3109] Perhaps we put the squeeze on the Shinonome's hustling, and attack Nayuta as they hunt?"
+[3110] "That was always the way before, but now Nayuta's coming up strong. If they start to mess with us, it could affect our hustling..."
+[3111] "Like clockwork, things are ticking their way..."
+[3112] "..."
+[3113] (The ideal thing would actually be the opposite.
+[3114] To somehow break them where they're strong.
+[3115] Throw some kind of wrench into their gears...)
+[3116] (But we're damn short on wrenches. We'll need something more than what we've got... but―)
+[3117] "Hmm? What is it?"
+[3118] "Murasaki, you have a visitor."
+[3119] "A visitor? From where? Shinonome or Nayuta?"
+[3120] "Err, no, they seem like some kinda salesperson...
+[3121] They specifically asked to speak to you by name."
+[3122] "A salesperson? At this hour...?"
+[3123] "Yeah. What should I do? Send him away...?"
+[3124] "Pardon the intrusion, Mister Murasaki."
+[3125] "Huh? Hey! You can't barge in here...!"
+[3126] "...I don't recognize you."
+[3127] "Indeed, for I have only just arrived in Asougi City."
+[3128] "Huh... So we have a guest from the Outside, do we? Well? What have you come to sell me, Outsider?"
+[3129] "Haha! Outsider? Yes, that will do."
+[3130] "I am a salesman who offers customers only what they need."
+[3131] "Hah! What I need? If you've got what I need, you're not a salesman. You're a magician!"
+[3132] "Well, what have you come all the way here to sell me?"
+[3133] "What do you think about this? Come in."
+[3134] "...Well, what do you say?"
+[3135] "...A girl...?"
+[3136] "Wow... What a beautiful room.
+[3137] Is this my new house?"
+[3138] "Joookeeer! Gimme a hand over here!"
+[3139] "Okay, I'll be right there!"
+[3140] "Sorry, Joker. Could you carry this box over there for me?"
+[3141] "Yep! This cardboard box, right? Hup... huff!"
+[3142] "Hey, Joker, read this magazine."
+[3143] "Sure thing, Porno... Let's see...
+[3144] Uaaah! W-What is this?!"
+[3145] "...Things seem pretty busy in here today."
+[3146] "Ah, Kuma! Good morning!"
+[3147] "Everybody's really putting you to work, huh?"
+[3148] "Not at all! I asked if there was anything I could do to help!"
+[3149] "I see. Well, don't push yourself too hard."
+[3150] "Is there anything I can do for you, Kuma?
+[3151] I wanna make myself useful to you, too!"
+[3152] "Uh, no, not particularly..."
+[3153] "Please, give me something!"
+[3154] "What, you want me to make up a task for you?
+[3155] I'm telling you, I've got nothing."
+[3156] "Oh... Sorry..."
+[3157] "Ahh, Kuma, would you like me to fix you a drink?"
+[3158] "Thanks... Maybe some barley tea or some soda water. Something that isn't sweet."
+[3159] "Ahh! I'll go get that for you!"
+[3160] "...Right."
+[3161] "The pipsqueak sure likes you, huh, Kuma?"
+[3162] "It's not like I did anything to deserve it..."
+[3163] "His eyes were sparkling! How does it feel to get looked up to like that?"
+[3164] "I don't feel anything in particular...
+[3165] Quit poking my side."
+[3166] "Here, I brought you your soda water!"
+[3167] "Thanks."
+[3168] "We've also got juice and black tea, too..."
+[3169] "Right... Uhh, they're not really my thing.
+[3170] I prefer no-fuss drinks that are easy to digest."
+[3171] "Woooow... You're so stoic."
+[3172] "I am?"
+[3173] "Hoooh, he even spun that one into a positive...
+[3174] Don't confuse stiff and boring for stoic."
+[3175] (...I wish there were a middle ground here.)
+[3176] "B-But I'm indebted to him!
+[3177] ...He saved me from Asougi."
+[3178] "..."
+[3179] "I wasn't born in this city... I lived in a super rural area. The only large building in sight was the giant Asougi factory."
+[3180] "Most of the adults worked at that factory.
+[3181] They lived by its rules..."

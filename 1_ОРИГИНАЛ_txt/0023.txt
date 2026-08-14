@@ -1,0 +1,93 @@
+[1889] "He's the disaster that strikes whenever there's a conflict!"
+[1890] "H-He's the disaster...?!"
+[1891] "Ghh! Stop him! Letting one lone warrior break our ranks would shame the proud Shinonome name...!"
+[1892] "Too weak!"
+[1893] "Nghh-ghh-ghaaaaaaaaaaaah...!"
+[1894] "Now... Show me...!"
+[1895] "Tch... What are you? A monster...?!"
+[1896] "Aaaaaaaah! Hang on, hang on!
+[1897] There's no way he's human!"
+[1898] "H-He's destroying every person and thing in his path...!"
+[1899] "Samurais at the front gate and a monster at the back."
+[1900] "Kuma! Kumaaaa! What do we do?!"
+[1901] "Hang on... I'm trying to think!"
+[1902] "Ghh. This is getting way out of hand...
+[1903] Retreat! Is that all right with you, Madam?"
+[1904] "Yes. Fall back! I'll go last!"
+[1905] "Ahh, but... Guess there's no time to argue.
+[1906] Yes, ma'am!"
+[1907] "Zappa, we're getting out of here too...!"
+[1908] "Wait, hang on! If we all try to squeeze outta here down one hallway, he's gonna catch us!"
+[1909] "...That'd be bad..."
+[1910] "When you wanna get away, it pays to scatter!
+[1911] We're going the front way, straight across!
+[1912] After you, Kuma!"
+[1913] "Okay, let's move! Leg it!"
+[1914] "O-Okaaaay!"
+[1915] "Haah, haah, haah...!"
+[1916] "Ugh! Haven't we run enough lately?!
+[1917] My legs are going to get all burly!"
+[1918] "Well, they say health is wealth! Maybe we'd better start doing morning jogs!"
+[1919] "Ugh! This battery's heavy, you know...!"
+[1920] "I-I'm... I'm, sorry... I can't run any farther...
+[1921] My... My stomach hurts..."
+[1922] "Zappa. There's no one chasing us anymore."
+[1923] "I think that's enough! Kumaaaa!"
+[1924] "...Did we lose them?"
+[1925] "I see no sign of any enemies."
+[1926] "Aahhh, I'm so tiiiiired... Where'd that guy even come from... Ugh...!"
+[1927] "Haah, haah... phew... Ahh, haah, hahh..."
+[1928] "You all right, Medico?
+[1929] That was pretty wild for a first hunt."
+[1930] "Y-Y-Yes... I think so... Who was that man who showed up at the end...?"
+[1931] "Lu Bu? Nobody knows who he is, but wherever there's fighting, he appears out of nowhere...
+[1932] and starts attacking indiscriminately."
+[1933] "R-R-Really...? Is he Chinese, like his name?"
+[1934] "Couldn't say. I think someone just started calling him that, and it stuck."
+[1935] "It was bad enough having to fight the yakuza devils. Ugggh, we're super unluckyyyy."
+[1936] "Hey, we can't be lucky all the time.
+[1937] What do you think of all this, Kuma?"
+[1938] "I'm not sure... but I'd say it's pretty unlikely that Murasaki could've predicted Lu Bu's movements in advance."
+[1939] "Yeah, for sure."
+[1940] (The Shinonome and Lu Bu back to back...
+[1941] That was bad. We've gotta be more careful with our decision-making...)
+[1942] "Hey... What are you guys doing chatting away on the street like this?"
+[1943] "Huh?!"
+[1944] "You'll get attacked again if you ain't careful...
+[1945] Heh, kidding. The star is back in action!"
+[1946] "Oh, Torataro. What're you doing here?
+[1947] You're already better?"
+[1948] "What kinda reaction was that?!
+[1949] Where're my smiles and pats on the back?!"
+[1950] "It's a bit late to show up now.
+[1951] We're aaaall done for tonight!"
+[1952] "Tch. Ahh man... Really?"
+[1953] "U-Umm... Are you feeling better now?"
+[1954] "Hyawuh?! Bwuh! Ooh! Who're you...?!"
+[1955] "She's the person who saved your life."
+[1956] "Ahh, no, I-I'm not... I wasn't able to do it properly..."
+[1957] "Wait, you're that girl with the glasses?!
+[1958] What the hell's with that outfit?
+[1959] You some kinda slut?!"
+[1960] "S-Seeeee?! I-Is that how I look dressed like this?!"
+[1961] "A-Actually... I-I think it looks good on you.
+[1962] It seems to, uhh... breathe really well."
+[1963] "S-Stop staring at me!"
+[1964] "...So has your wound healed up, Torataro?"
+[1965] "Yep, I'm ready to hit continue! I mean, when you're a tough guy like me―"
+[1966] "Rub-rub."
+[1967] "Ghyaaaaaaaaaah!"
+[1968] "Ahh...!"
+[1969] "...Well, he definitely hasn't recovered yet."
+[1970] "Carry him over to the curb."
+[1971] "Dammit... Why you gotta be... so rough...?
+[1972] Gbuuuuhhh!"
+[1973] "O-Of course he hasn't recovered yet.
+[1974] It only happened the other night..."
+[1975] "Why'd he come out here in his battle gear while he's still hurt...?"
+[1976] "U-Umm, maybe... he came to rescue us...?"
+[1977] "That sounds like him, all right."
+[1978] "..."
+[1979] "Hmm... Hmph... So that's all I get for my time and effort?"
+[1980] "What's wrong, Murasaki?
+[1981] Didn't it go well tonight?"

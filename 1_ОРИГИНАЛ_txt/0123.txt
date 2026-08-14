@@ -1,0 +1,88 @@
+[10562] "Marks...?"
+[10563] "My buddy Marcus from the class next door?
+[10564] ...Nah, that's probably not him."
+[10565] "Who?"
+[10566] "So, they're mercs... Wish they'd grow the fuck up.
+[10567] They got no business comin' after us amateurs."
+[10568] "Well, it's probably best to stay clear of 'em, but if we do just happen to bump into 'em, then I guess we got no choice but to fight!"
+[10569] "Goddammit. Don't act so excited, Zappa."
+[10570] "Life's so much easier when you look forward to whatever comes your way!"
+[10571] "Heh! Well, I'm gonna get to work on a new weapon!"
+[10572] "...Mm."
+[10573] (...? Kikuchiyo...)
+[10574] "Hmm? Where are you going? The bathroom?"
+[10575] "Work."
+[10576] "Ahh... T-Take care!"
+[10577] "Kikuchiyo!"
+[10578] "..."
+[10579] "You going to the Shinonome clan's...
+[10580] I mean, your sister's place?"
+[10581] "...You're a good guesser, aren't you?"
+[10582] "I don't know what you're planning, though."
+[10583] "..."
+[10584] "I got a message from Tsuina's henchmen.
+[10585] It said they're on the cruise ship Anepic, and that she wants to settle this one-on-one..."
+[10586] "The Mibu family has a long-standing law.
+[10587] When two members of the family disagree, they must resolve the matter with their blades."
+[10588] "You mean, you're going to..."
+[10589] "I know. It's a trap...
+[10590] but I have to stop Tsuina."
+[10591] "Then let us go with you.
+[10592] You don't have to go by yoursel―"
+[10593] "She's my―!"
+[10594] "...This is my problem, and I'll handle it my way.
+[10595] I don't want even you... to interfere."
+[10596] "Grk...!"
+[10597] "You have nothing to do with the Mibu family."
+[10598] "Yeah, but..."
+[10599] "I have... to follow my own path as a Mibu, and it is our tradition to face challenges alone."
+[10600] "...I understand that it's wrong of me to act on my own while I belong to the Nayuta, but if you do not permit that, then..."
+[10601] "...Nayuta doesn't have rules.
+[10602] We do what we want."
+[10603] "Really? In that case, I'll...
+[10604] I'll do just that."
+[10605] "...You will?"
+[10606] "...Yeah."
+[10607] "...K-Kikuchiyo... I..."
+[10608] "Kuma, don't... I..."
+[10609] (I had no intention of speaking like that...
+[10610] nor did I want to say that...)
+[10611] "...Never mind. I promise to return...
+[10612] I'm sorry."
+[10613] "...Kikuchiyo..."
+[10614] "So this is the place... If there's any trap, it's probably about time that they―"
+[10615] "Shinazu..."
+[10616] "Tch... The hell's that fool doing...?"
+[10617] "Did you come to greet me?"
+[10618] "Nope. 'Fraid it's the end of the road."
+[10619] "Some of the men ran into Kikuchiyo and chased her off. That's all I'll be tellin' Tsuina."
+[10620] "...Is that so?"
+[10621] "Sorry... but I can't accept that.
+[10622] I must fulfill my duty... as a Mibu."
+[10623] "...Well, guess there's only one thing ta do..."
+[10624] "Your aura's different... It's more..."
+[10625] "I will not falter. I can cut down anyone who stands in my way!"
+[10626] "...Then let's see how you stand!"
+[10627] "...And then Kikuchiyo went to where the Shinonome clan are, did she?"
+[10628] "...Yeah. I couldn't stop her."
+[10629] "Ahh, jeez. Ever since the Shinonome clan got a new leader, they've been giving us nothin' but trouble."
+[10630] "...Yeah. They see this city as an all-you-can-plunder buffet."
+[10631] "Asougi and Flattt have been quiet, too, lately.
+[10632] I hope they lie low for us a little longer."
+[10633] "..."
+[10634] "...Speaking of which, somebody mentioned before that there was a member of Asougi in one of the clans, didn't they?"
+[10635] "Was Murasaki making stuff up, or is there really a traitor somewhere in our midst...?"
+[10636] "...I reckon that was just a load of bullshit that Asougi spread to manipulate us."
+[10637] "Yeah, I was thinking the same thing."
+[10638] "...But if there really is a traitor, whadda we do? And what if they're in Nayuta?"
+[10639] "..."
+[10640] "I can't think of anybody in Nayuta who doesn't do whatever they feel like."
+[10641] "If you're a Nayuta and you do what you want...
+[10642] then you can't be an Asougi drone, right?"
+[10643] "Haha! I suppose so... You're probably right."
+[10644] "But in that case... what's your problem?"
+[10645] "...?"
+[10646] "As you said, we're free to do whatever we like. We don't impose rules on anyone, so you had no right to try stop Kikuchiyo."
+[10647] "..."
+[10648] "But you still ain't satisfied with that, are ya?"
+[10649] "...I don't know what I should've done."

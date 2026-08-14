@@ -1,0 +1,81 @@
+[14897] Anyway... we can argue about this another time."
+[14898] "Sigh... Fine then. Let's go."
+[14899] "Yeah, let's move... Thanks, Kikuchiyo.
+[14900] I appreciate it."
+[14901] "Kh... Good."
+[14902] "..."
+[14903] "Yo... You done abandoning your post?"
+[14904] "It wasn't so bad. First time I've ever taken a vacation."
+[14905] "Keh! You got some nerve."
+[14906] "...Sorry about before."
+[14907] "Well, if that's the way you're feelin', I guess we don't gotta do anythin' embarrassing like have a dramatic fistfight out on a dry riverbed."
+[14908] "Yeah, screw that. Way too embarrassing."
+[14909] "ALyCE..."
+[14910] "You're not... fighting anymore?"
+[14911] "...Well, we were never really fighting in the first pla―"
+[14912] "..."
+[14913] "Yeah, we've stopped. Everything's okay now."
+[14914] "...Mm-hm!"
+[14915] "...Arright! So whadda we do now?"
+[14916] "We go rescue Zappa, of course. Or else...
+[14917] find out what they've done with him. We can plan the rest once we've done that."
+[14918] "Got any leads?"
+[14919] "Nope."
+[14920] "...Oh, c'mon!"
+[14921] "That's why I'm thinking right now.
+[14922] I need you to think, too."
+[14923] "Way to be a reliable leader..."
+[14924] "Hey, I'm just filling in till we get Zappa back."
+[14925] "Guess you rely on Zappa as much as anybody else, huh?"
+[14926] "You got me there."
+[14927] "All right, enough flirting, you two.
+[14928] You're supposed to be thinking, aren't you?"
+[14929] "Right... Well, we have two goals. The first thing we have to do is find out where they've taken Zappa and what's happened to him."
+[14930] "The second thing is the same as before.
+[14931] We need to find some evidence we can use to expose Asougi."
+[14932] "Either way, we'll be ending up at their headquarters, so we need to sneak inside, but―"
+[14933] "―We need to find a way to get inside, right?
+[14934] A secure route, that will lead us into their headquarters..."
+[14935] "So we need to find somebody who might know a way to sneak into their HQ?"
+[14936] "Mmm... That's intel that likely wouldn't be transmitted through the waves."
+[14937] "None of the guards or other underlings would know, either. I bet it's gonna be tough to find somebody."
+[14938] "What if I hacked one of the cleaning robots, and searched through its data? They probably enter the building on their patrol route."
+[14939] "That's a good idea, but it's too dangerous.
+[14940] There's no guarantee that any one of them would have all the info we're after, either."
+[14941] "Mmm, then we'll leave that as a last resort!"
+[14943] "There can't be many people who'd know.
+[14944] The ones that do are probably high up..."
+[14945] "Huh? But... aren't the executives always really well-guarded...?"
+[14946] "Kidnappin' one... would be pretty damn risky.
+[14947] I mean, if we've gotta do it, fine, but yeah."
+[14948] "That would be a last resort.
+[14949] Not my first choice for our Plan A."
+[14950] "Ugggh! Isn't anyone here besties with an Asougi executive?!"
+[14951] "Why would any of us be 'besties' with them?"
+[14952] "Hmm, then how about a friend whose parent is an exec? It'd make things so much easier if they just let us in!"
+[14953] "Yeah, that would be the easiest way..."
+[14954] "But those assholes've got their own posses."
+[14955] "Ahh... I guess you're right..."
+[14956] "..."
+[14957] "I guess we're going to have to take drastic measures. We need an executive who's hard to track―"
+[14958] "...I've got it."
+[14959] "Hmm?"
+[14960] "That's it...! There's one route...
+[14961] which could get us there."
+[14962] "Huh? There is?"
+[14963] "Yeah... Mistress. She's got ties... to Asougi."
+[14964] "W―What?! Mistress?!"
+[14965] "Calm down. I don't know to what extent, but I just know that she does."
+[14966] "...Uh... seriously?! Then you think all our weapons are―"
+[14967] "Yeah, we've probably been dancing to their tune this whole time."
+[14968] "Khhhhhhh... Well, shit!
+[14969] So what about Mistress, then?"
+[14970] "All those matching VIPs she pushes on us...
+[14971] I think they're mostly Asougi executives."
+[14972] "T-They are?"
+[14973] "Considering how much cash they spend for a single partner, I'd say the odds are good.
+[14974] It's not like the meet-up locations are Outside."
+[14975] "A-Ahh, now that you mention it...
+[14976] you're right..."
+[14977] "I see. If you're a wealthy person in this city...
+[14978] you're very likely to be an Asougi executive, aren't you?"

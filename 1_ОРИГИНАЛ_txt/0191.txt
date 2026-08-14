@@ -1,0 +1,94 @@
+[16154] "Y-Yes... It's been badly damaged, but it could probably operate for another thirty minutes... to an hour..."
+[16155] "That'll do."
+[16156] "Hey...! Hey, Kazutaka.
+[16157] You're not going to―!"
+[16158] "All right! That settles it, then!
+[16159] Everybody on board!"
+[16160] "Onto the big robo?"
+[16161] "W-We're going to ride this thing?!"
+[16162] "Aaaaaah! In that case, I wanna pilot it!"
+[16163] "As if! Piloting a robot is a man's dream!
+[16164] Lemme drive!"
+[16165] "A-Ahh, I wish I could..."
+[16166] "There's... wow, so many cords inside here."
+[16167] "You can be my seat cover."
+[16168] "Hey, don't squish there...!
+[16169] This is really uncomfortable!"
+[16170] "...See ya."
+[16171] "...Mm... Take... care. Kuma..."
+[16172] "All right! Everybody's in, right?
+[16173] Then let's roooooll out!"
+[16174] "Engage!"
+[16175] "Siiiiigh... So it came to this, did it?
+[16176] I'm going to be getting a pay cut...
+[16177] In fact, it's not going to end there, is it?"
+[16178] "..."
+[16179] "Izumi... Why didn't you attack?
+[16180] I gave you an order."
+[16181] "I'm sorry."
+[16182] "..."
+[16183] "..."
+[16184] "...I see."
+[16185] "Well, you don't have any more obligations today... or for the foreseeable future, for that matter. Feel free to do as you please."
+[16186] "If you wish for severance pay, I can pay you out of pocket."
+[16187] "..."
+[16188] "Then... I have one request."
+[16189] "What's that?"
+[16190] "Would you mind if I use all my paid vacations?"
+[16191] "Paid va―... I see... Hah-haha... Haha!"
+[16192] "―medicine, automobiles, and more. These are but some of the numerous fields that Asougi has contributed to, benefiting the entire world."
+[16193] "Asougi shall continue venturing into new fields, setting the standard, and bringing a brighter future to all."
+[16194] "Those are the founding principles of Asougi, our everlasting policy."
+[16195] "In recent years, we've seen increasing demand in the field of robotics. The Asougi Group shall answer that demand with our latest innovation."
+[16196] "Now, behold..."
+[16197] "Kyaaaaaaahhh!"
+[16198] "Hey! Something's coming this way!"
+[16199] "...What's all that racket?"
+[16200] "S-Something has breached the premises...!
+[16201] It's not safe, Mrs. Mirei. You must evacuate―"
+[16202] "Crap! Run away!"
+[16203] "..."
+[16204] "..."
+[16205] "W-What is that...?"
+[16206] "A r-robot...?"
+[16207] "Arright! Right on target!"
+[16208] "W-Wawawa! E-Everybody's looking this way!"
+[16209] "They're totally shocked! Ahaha!
+[16210] Of course they would be!"
+[16211] "Ahahahahaha! That old man's yelling!"
+[16212] "I hope this spreads like crazy!
+[16213] It has great meme potential!"
+[16214] "Hmm... Yeah, that's more like it. This statue is a far more appropriate symbol of Asougi."
+[16215] "I bear no grudge towards Yorozu, but the father must pay for the sins of his children."
+[16216] "Mmm. This is good. This is just like us."
+[16217] "Yo, Kuma! How's this for what you wanted to see? Looking better?"
+[16218] "..."
+[16219] "...Who knows! But... it's been fun.
+[16220] I've felt a lot worse."
+[16221] "Heh, you're a rebel, all right!
+[16222] Okay, Antenna! Finish it off!"
+[16223] "Target locked! ALyCE, push that button!"
+[16224] "You want me to press this one? Okay!"
+[16225] "U-Uwaaaaaahhh! It's firing!"
+[16226] "I-It destroyed that building... I-Is this supposed to be a performance...?!"
+[16227] "Ahahaha! This is fun!"
+[16228] "...R-Run awaaaaaaaay!"
+[16229] "...! W-Wait! Don't move! S-Suppress them...!"
+[16230] "U-Understood. We'll dispense summary discipline...!"
+[16231] "You idiot! Don't pull your gun out here...!"
+[16232] "Uwaaaaahhhh! He's got a gun!
+[16233] Run! Run! Ruuuuuuuunn!"
+[16234] "Asougi's gonna kill us!"
+[16235] "Heheh, we've really stirred some chaos up in here! Serves them right!"
+[16236] "Later, Granny! Everybody, split up!"
+[16237] "Yeah. Mission accomplished!"
+[16238] "C-Chairwoman Mirei!
+[16239] W-What is that thing...?!"
+[16240] "Is this one of the Asougi robots were talking about? Why is it so heavily armed...?!"
+[16241] "What is this...?! What on earth...
+[16242] am I looking at...?"
+[16243] "Asougi's cornerstone...
+[16244] the symbol of a century...
+[16245] has been..."
+[16246] "It's time for the news! First, a follow-up report on the incident that took place on the day of the Asougi Group's Founder's Birthday Ceremony."
+[16247] "The special investigations department is finally investigating the armed robot rampage."

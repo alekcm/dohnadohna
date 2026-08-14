@@ -1,0 +1,107 @@
+[7311] "Tch! You think we're gonna play along, meathead?!"
+[7312] "Time for round two, huh...?
+[7313] That's one hell of an encore!"
+[7314] "Shit! Are we still fighting him?!
+[7315] I think we oughta pull the plug here!"
+[7316] "I hear something coming from here..."
+[7317] "Hey! There they are! I found the intruders!"
+[7318] "I-I-It's the guards!"
+[7319] "They sniffed us out, did they...?"
+[7320] "Hmph. What a lively arrangement of chaos.
+[7321] Now...!"
+[7322] "H-Hey... Hey, this is crazy...!"
+[7323] "Khh... We can't take any more of this...!"
+[7324] "For starters, let's move! Everybody run!"
+[7325] "Whoa..."
+[7326] "Wahwahwahwahwah!"
+[7327] "W-What is that thing?
+[7328] It suddenly started moving...!"
+[7329] "Waaaaaaaaaaaaaaaaahh!"
+[7330] "N-N-No, I can't keep running...!
+[7331] I've gotta be helpful..."
+[7332] "Capture target: mobile.
+[7333] Changing gear mode.
+[7334] Increasing output by 20%."
+[7335] "Hih...!"
+[7336] "Waaaaaaaaaaaaaaaaaaaaah!
+[7337] No way, no way, no way, no waaay!"
+[7338] "Chasing target."
+[7339] "Sigh... Finally, I can catch my breath.
+[7340] Ugh, these guys are relentless."
+[7341] "They've begun to thin out here... but where is Murasaki? I wonder if he's gotten lost..."
+[7342] "...aaaaaaaaAAAAHH!"
+[7343] "Huh?"
+[7344] "Ah! Joker!"
+[7345] "Huh! Wai―!"
+[7346] "You came all the way here just to see me?!
+[7347] I'm so―
+[7348] Wait, huh?"
+[7349] "Move-move-move, outta the waaaaaaay!
+[7350] Ruuuuuuun!"
+[7351] "Myyyy, ooooh myyyy! What is that thing?!"
+[7352] "I dunnoooooooooo! Run! Ruuun...!"
+[7353] "Hiiiiiiiiiiiiiiiiiiiiiih!"
+[7354] "Awwwww... Your crying face is so ugly,
+[7355] yet sexy... How precious..."
+[7356] "W-What are you talking about...?
+[7357] Wah-wawawawawaaah!"
+[7358] "...Mind you, it doesn't seem to be attacking at random... Is it aiming for you instead of me?"
+[7359] "Hah, haah―I-If it is... t-then you should run...!"
+[7360] "Nooo♪ I'm not leaving you behind, Joker.
+[7361] There's nowhere else I wanna go!"
+[7362] "Waah... S-Shion..."
+[7363] "Ahh, but I'll just enjoy the up-close view.
+[7364] There's nothing I can do about that thing♪" "Waaaaaaaaaaaaaahhh!"
+[7365] "Ngh-ooh-oooooooooohhhhhhh!"
+[7366] "Chhh!"
+[7367] "Oww...!"
+[7368] "Sharp... but shallow! Weak!"
+[7369] "...!"
+[7370] "Fire! Fire! Fire!"
+[7371] "Mmmgh! Heeeey! There's too many!"
+[7372] "W-We've reached a dead end!"
+[7373] "T-This way's no good, either?!
+[7374] What are we supposed to do...?!"
+[7375] (The guards are coming... O-Oh crap...!
+[7376] T-They're gonna shoot us...! A-Aahh...)
+[7377] (Khh... This is bad...! Isn't there anything we can do...?!)
+[7378] "Huh? Uaaah! W-What the―?!"
+[7379] "...?!"
+[7380] "...Huh? What's that noise...?"
+[7381] "Tch! What the hell is thaaaaat?!"
+[7382] (Is that the robot from the lab where we found Joker?! Or another robot of the same kind...?!)
+[7383] "Hey! What're you doing, Shion?!"
+[7384] "Ahh, Murasaki! Joker and I were just enjoying a little passionate nighttime exercise...!"
+[7385] "R-Run...! I dunno why, but this thing's after me...!"
+[7386] "Another interference... This seems like a good source of chaos...!"
+[7387] "Detecting hostile threat. Changing target."
+[7388] "...Huh...?!"
+[7389] "Changing gear mode.
+[7390] Entering Extermination Mode."
+[7391] "Ngh...?!"
+[7392] "Ooh...khg...hhnngghoooohhhhhhh...!"
+[7393] "The tyrant's blasting off!"
+[7394] "Wheew! There was no blocking that...
+[7395] Think he survived?"
+[7396] "I-It was chasing after me the entire time...
+[7397] s-so why did it...?"
+[7398] (Maybe it was following some priority order?
+[7399] I guess it figured he was the bigger threat...?)
+[7400] "Now's our chance...! Let's make a break for it!"
+[7401] "M-Mmm! Yokay!"
+[7402] "Ahh, K-Kuma! We could escape through the hole that thing made in the wall...!"
+[7403] "Good thinking!"
+[7404] "Nice! Looks like this is our chance to get outta here!"
+[7405] "Tch! We still haven't got what we came for...!"
+[7406] "I'm out of here. If you're planning on dying, I'm running off with Joker."
+[7407] "I never said I'm not retreating!"
+[7408] "ALyCE and I will cover you from behind.
+[7409] Hurry!"
+[7410] "We're going last? I can handle it by myself."
+[7411] "...I'm going to tell the others about the escape route... just in case.
+[7412] I'll be right back. I promise."
+[7413] "Okaaaay!"
+[7414] "Wheew... We should be safe around here, right?"
+[7415] "...Mmm. There doesn't seem to be anybody after us."
+[7416] "That... was... clooooooose!
+[7417] We were almost screwed!"

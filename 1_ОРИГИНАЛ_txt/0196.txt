@@ -1,0 +1,87 @@
+[16539] "Hmm... This street brings back a lot of memories."
+[16540] "You wanna go to the hideout?"
+[16541] "There might be something left of it.
+[16542] Though we can't be sure it's safe..."
+[16543] "We might find somebody's returned."
+[16544] "Yeah, like Zappa. That seems like something he'd do."
+[16545] "What would you do if we opened the door, and everybody was waiting for us inside?"
+[16546] "What would I do...?"
+[16547] "Would you go back to what we used to do?"
+[16548] "...What for? Asougi's been destroyed.
+[16549] There's nothing left for us to do."
+[16550] "But we haven't found anything to do next."
+[16552] "And if that's making you suffer..."
+[16553] "Not really. To be honest, I haven't really given it much thought, lately..."
+[16554] "As long as I'm with you, well..."
+[16555] "..."
+[16556] "Ahh, excuse me? Do you have a moment?
+[16557] I'm from BAA TV."
+[16558] "..."
+[16559] "You're residents of this city, aren't you?
+[16560] We're interested in hearing the voices of the people."
+[16561] (...We've just got to ignore them.)
+[16562] "We've heard that the name of this city may be changed back from Asougi City to its former name, Shinonome City."
+[16563] "Sorry, but we're in a hurry."
+[16564] "Ahh-ahh! A brief comment is fine!
+[16565] Wait, you two! Are you brother and sister?"
+[16566] "No."
+[16567] "Por―!"
+[16568] "As you can see, we're an ordinary couple."
+[16569] "Huh... Ahh, I-I see..."
+[16570] "We do all sorts of things together.
+[16571] And at night... yaaaay."
+[16572] "W-W-W-W-What are you saying, you idiot?!"
+[16573] "Y-You two seem to get along, awfully well..."
+[16574] "Victory."
+[16575] "We can't stand out like this!
+[16576] Aaargh, g-gotta go!"
+[16577] "Ahh, I-I'm sorry, for interrupting you two..."
+[16578] "Back to you at the studio!"
+[16579] "Ooooi! You're good to go, kiddo!"
+[16580] "Got it!"
+[16581] "All right, I'm changed... Time to head home..."
+[16582] "Heeeey, Kuma♪" "Ahh... Have you been waiting for me?"
+[16583] "Well, of course! Anything for my sweet darling♪ Just kidding! I just happened to be nearby."
+[16584] "...Okay, but I'm not your darling.
+[16585] You out doing the shopping?"
+[16586] "Yeah. It's a cheap recipe, but you should totally get excited for it! Eheheh!"
+[16587] "But you've got a lotta groceries there.
+[16588] Let me carry some for you."
+[16589] "Ahh, don't worry about it.
+[16590] You must be tired."
+[16591] "Yeah, my body's really not cut out for this kind of work. I didn't want to have to do manual labor, but..."
+[16592] "But you've got no other choice, huh?
+[16593] You've gotta put that body to work."
+[16594] "Outside Asougi City, I'm just a regular guy.
+[16595] Life is tough in the real world."
+[16596] "But I've still got enough energy in me to try and look good in front of you. C'mon."
+[16597] "Okay, then I'll give half of these to you, Darling."
+[16598] "You know, I don't mind this lifestyle at all."
+[16600] "Living together in our tiny apartment, going to public bath houses, walking along...
+[16601] what's it called? Yoshino River?"
+[16602] "No... You have to remember this is life on the run. We're trying to lie low here."
+[16603] "That just depends on how you look at it.
+[16604] Can't you see?"
+[16605] "You're always complaining about being so exhausted, but you still bang me like crazy every night."
+[16606] "Well... That's, uhh..."
+[16607] "I mean, at some point we're probably gonna want to do something more solid, but until then..."
+[16608] "...Have you heard from the others?"
+[16609] "Every once in a while."
+[16610] "Medico's back in her hometown, and so's Joker, I think?"
+[16611] "Antenna seems totally fine. She's renting an apartment somewhere and doing what she usually does."
+[16612] "I don't know about ALyCE, though.
+[16613] I wonder if she's with anybody."
+[16614] "Antenna told me that that Porno, Zappa, and Torataro are still a team. They're still going around, getting up to mischief."
+[16615] "And as for Kikuchiyo...
+[16616] I don't know about her, either."
+[16617] "It seems she joined back up with the Shinonome clan.
+[16618] Well, it makes sense."
+[16619] "Oh? Have you heard from her lately?"
+[16620] "Just once. She sent a messenger...
+[16621] inviting me to join her, but I turned her down."
+[16622] "Really? I see. How come?"
+[16623] "I'm not sure I'd fit in with her and her crew."
+[16624] "...And I figured you've probably had enough of gunfire."
+[16625] "Huh?!"
+[16626] "Y-Yeah, you're right..."
+[16627] (Right. Even if he did go, he wouldn't go alone...)

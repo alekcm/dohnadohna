@@ -1,0 +1,84 @@
+[823] "Aren't you jumping the gun a little, saying that?
+[824] You're still pretty young yourself... Huh?"
+[825] "What's the matter?"
+[826] "There was a hustling item on this shelf that I was going to buy... Is it sold out?"
+[827] "Ahh, that's right. Sorry about that.
+[828] I'll get some more in for you."
+[829] "Thanks... Who could have bought it? Hmm..."
+[830] "..."
+[831] "Presuming it wasn't for private purposes...
+[832] the Shinonome clan? Hmm... Or Nayuta?
+[833] They have been... active lately, haven't they?"
+[834] "Sorry, I can't divulge any information about my customers. Now, how would you like to have some tea with me?"
+[835] "Mhm! Okay, I'll take you up on that...
+[836] I do enjoy when things get interesting."
+[837] "Huh...? Ugh, I can hear the mornin' delivery guy on his bike... It's already morning...?"
+[838] "You can't make me play games with you after work... especially if you're gonna be at it until this hour..."
+[839] "What else was I supposed to do?!
+[840] I needed four players to beat that dungeon!"
+[841] "Then you could've roped Porno into it or something... Ugh, I-I can barely keep my eyes open..."
+[842] "She went off to an internet cafe to watch late-night anime."
+[843] "Oh right, 'cause we were using the TV..."
+[844] "You could've just controlled one character with each of your hands and feet, then you'd be yokay to clear the dungeon solo!"
+[845] "Sure, if I wanted the characters to stumble around like chickens with their heads cut off!"
+[846] "Staying up all night ain't good for your skin.
+[847] Yaaaaawn... I think I'd better get some sleep."
+[848] "Guess I'm going straight to school...
+[849] Oh well."
+[850] "Ah! You're already changed, Kuma?"
+[851] "Yep. You ready to go?"
+[852] "Mm, I just had a shower. C'mere, give me a whiff! I smell so floral!"
+[853] "Sorry, I don't have a soap fetish.
+[854] Let's go."
+[855] "Hot damn, you two are tough!
+[856] You're still gonna go to school today?"
+[857] "Hmm... If it's too much, I'll nap in class."
+[858] "Why do you two even bother with school?
+[859] What's the point of it?"
+[860] "It has its benefits. We take away the word on the street from people our age, and other things too.
+[861] It's almost a more logical move than hunting."
+[862] "Hmm. Well, now you mention it, I guess the nurse's office has gotta be loaded with meds."
+[863] "Oh, hey, yeah! I doubt anybody'd notice if a couple bottles went missing."
+[864] "Hmm... maybe I shoulda stuck with it, at least enough to stay in the game."
+[865] "Well, it's not like they have everything we might want. I wish they had the pill..."
+[866] "Hahaha! I'd be pretty worried if they did!"
+[867] "Why would they have birth control at school?
+[868] Is that your idea of a dirty joke, Kuma?"
+[869] "No, I wasn't trying to be funny.
+[870] We're just running low on them."
+[871] "Ahh, then how about we go on a hunt?
+[872] If we need medical supplies, there's always that hospital, right?"
+[873] "Shiyama Hospital?
+[874] They do have weak security..."
+[875] "Sounds good! We can go there, no sweat!"
+[876] "Ahh, that bonus stage, huh? Well, it beats doing nothing around here!"
+[877] "All right. Let's prep to go there tonight."
+[878] "How about you, Kirakira?"
+[879] "What about me?"
+[880] "Why you go to school."
+[881] "Hmm... Well, Kuma goes, so―
+[882] Eek! I can't believe I said that!"
+[883] "Does she even have a real reason?"
+[884] "What kinda reaction is that?!
+[885] That's really hurtful!"
+[886] "Ahahah! All righty, then! Well, I'll leave the plans to you lot. Good luck, kiddos."
+[887] "Yaaaawn... Ah, jeez... I think I'm gonna go hit the hay, too."
+[888] "And off they go to their rooms."
+[889] "Those two are practically nocturnal."
+[890] "C'mon, let's get going! Wanna hold hands?
+[891] It feels like we're waking up together, doesn't it?
+[892] Eheheh!"
+[893] "Wow, you completely ignored me!"
+[894] "Honestly, school is mostly just a drag.
+[895] It feels like such a waste of time."
+[896] "It's so much more fun when we're all doing Nayuta stuff together!"
+[897] "You think it's fun? Well, I guess it's fine if you enjoy yourself, but don't forget that we're on a mission."
+[898] "I know that, but we're not all running around with frowns on our faces, are we?"
+[899] "Well... I mean, you're right, but..."
+[900] "Ru-ru-ru-ru-ru-rururu!"
+[901] "I'm picking up an interesting signal around here, loud and clear!"
+[902] "...?"
+[903] "What's wrong, Kuma?"
+[904] "...What's that weird girl doing over there...?"
+[905] "Hmm?"
+[906] "Oh!"

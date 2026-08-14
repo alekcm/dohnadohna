@@ -1,0 +1,89 @@
+[10387] will return... to that quiet place."
+[10388] "Mm-hm... Okay."
+[10389] "..."
+[10390] "..."
+[10391] "Tch... They had to wait through that..."
+[10392] "I don't even know... what to say at a time like this..."
+[10393] "...Dammit..."
+[10394] "Don't dwell on it. We aren't gods.
+[10395] There's limits to what we can do."
+[10396] "I know that... rationally, anyway..."
+[10397] "Wish we could take it out on those assholes, but they all got away except the one we took down..."
+[10398] (These aren't any ordinary street punks...
+[10399] They seem like trouble...)
+[10400] "Umm... I've managed to do some minimal first aid."
+[10401] "Ahh, thanks."
+[10402] "...Big Brother..."
+[10403] "I'm sorry... that we took so long..."
+[10404] "...!"
+[10405] "Ah-aaaaahh... Aaaaaaaaaahhh!"
+[10406] "Those bullies aren't here anymore...
+[10407] You held out really well."
+[10408] "Hghh... sniff... It really hurt...
+[10409] It was so scary... It felt so bad...
+[10410] I hated it..."
+[10411] "...It's okay now. It's okay... We'll go home... and you can rest until morning."
+[10412] "No... I don't... wanna be by myself...
+[10413] I want to be together..."
+[10414] "But..."
+[10415] "Kuma. That'd be best."
+[10416] "Right... Okay."
+[10417] "Fghh-sniff-eghh..."
+[10418] "...Thanks. It was due to my carelessness...
+[10419] that we ended up needing rescuing."
+[10420] "No... What they did to you was wrong."
+[10421] "I've dealt... with this much before.
+[10422] But this is the first time I've ever been rescued by someone."
+[10423] "So... you don't have to make that face."
+[10424] "...Ah... Thanks..."
+[10425] "As for ALyCE... do you think you could take care of her for a bit longer for me?"
+[10426] "...Don't tell me you're going, are you?
+[10427] You need to rest and recover..."
+[10428] "...I'm fine, I can still move.
+[10429] You've already patched me up, so thanks."
+[10430] "...I have to prepare quick.
+[10431] It'll just be a little longer."
+[10432] "...YAMMy. You're going again?"
+[10433] "Yeah."
+[10434] "You should stay here with everybody.
+[10435] It's really fun, and they're really nice."
+[10436] "...Sorry. This kind of trouble follows me.
+[10437] And next time, it might go worse than this."
+[10438] "...Really?"
+[10439] "We've got no intention of letting the Shinonome get away with this. We'll make sure this doesn't happen again..."
+[10440] "The Shinonome clan are nothing... compared to the people who used to own us. If they set their eyes on you, you'll be in real danger."
+[10441] "...But..."
+[10442] "Don't try... to persuade me. You'll make my head spin. I'm... not at my strongest."
+[10443] "...Right."
+[10444] "ALyCE, trust me, okay...? You and I...
+[10445] will return... to that quiet place."
+[10446] "Mm-hm... Okay."
+[10447] "..."
+[10448] "...Hgghkhh-ahh... Gahah..."
+[10449] "I-I should be safe here... ngh-ghah...
+[10450] Who were those kids...?!"
+[10451] "Heh... I thought this would be a nice vacation for us, but it's just as much of a warzone in here as it is out there..."
+[10452] "Tch! And my comms are totally busted...
+[10453] Guess I can't expect anybody to rescue me..."
+[10454] "Ahh... whatever. I'll take care of myself..."
+[10455] "...Huh?"
+[10456] "Targeting zero garbage for a cleaner city.
+[10457] Let's look forward to the Founder's Birthday Ceremony in a brighter Asougi..."
+[10458] "Huh? A garbage robot...? This goddamn squeaky-clean city... Tch! Piss off, piss off!"
+[10459] "Targeting... a cleaner city..."
+[10460] "...Luminol detected. Bloodstains, weapon...
+[10461] and gunpowder detected..."
+[10462] "Huh?"
+[10463] "Anti-Aso identified. Anti-Aso identified..."
+[10464] "W-Wait, what?! S-Stay back..."
+[10465] "Gyaaaaaaaaaaaaaahhh...!"
+[10466] "Targeting zero garbage..."
+[10467] "Tsuina, I've brought you your meal."
+[10468] "Oooh... Should've known they'd have good food here."
+[10469] "This is nothing like the shitty rations we used to have, huh? Kihihih!"
+[10470] "...Indeed."
+[10471] "Kari managed to convince the crew who had barricaded themselves up in the cabin to come out."
+[10472] "Mph, mm... Huh. That guy knows how to talk, don't he? If Uguisu was here, that would've been his job."
+[10473] "It would seem that your instruction to make use of the women, the money... and anything else of worth on this boat was effective."
+[10474] "Heh! Then I bet those sleazebags are having fun right about now, aren't they? They're so easy to predict... Ahmm."
+[10475] "We can now expect to be able to lift anchor.

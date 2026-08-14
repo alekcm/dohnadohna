@@ -1,0 +1,106 @@
+[14161] "Ooooooahhh!"
+[14162] "Tch...!"
+[14163] "Not so fast!"
+[14164] "Zappa...!"
+[14165] "Things have really taken a turn for the worst, huh?!"
+[14166] "Yeah, worse than anything ever before!
+[14167] Trust headquarters to really get in our business..."
+[14168] "If we don't deal with this, things are gonna turn out bad for everyone involved, huh?
+[14169] Try to break your way through and scram!"
+[14170] "Yeah, we'll just have to try our luck next time, huh...? ALyCE, run!"
+[14171] "O-Okay... Come back soon, Big Brothers!"
+[14172] "They're coming!"
+[14173] "Blast 'em with your pistol, then dash back to the train! We'll go on three!"
+[14174] "Okay!"
+[14175] "One, two―!"
+[14176] "Khh... Why, you Anti-Aso...!"
+[14177] "Ngh?!"
+[14178] "Zappa! Your leg...!"
+[14179] "Damn...!"
+[14180] "Got you! Don't move, you punks...!"
+[14181] "Ghh!"
+[14182] (Ugh―Crap...! This is bad...!)
+[14183] "Nghoohraaaaaaaaaaaaaaaah!"
+[14184] "Zappa...!"
+[14185] "Khh! You think you can get away...?!"
+[14186] "Run! Go...!"
+[14187] "...Crap!"
+[14188] "Close the doors, Antenna!"
+[14189] "Roger!"
+[14190] "Ghh...!"
+[14191] "Huh? Where's Zappa?!"
+[14192] "He's still out there...!"
+[14193] "What?! Ahh, I'll have to open up the doors again...!"
+[14194] "Don't worry about me, Antenna...!
+[14195] Just go! Kuma... You're in charge...!"
+[14196] "Zappa...!"
+[14197] "Wait! W-What about Zappa?!"
+[14198] "―Antenna...! Go!"
+[14199] "...O-O-Okay!"
+[14200] "Kuma...!"
+[14201] "You can't escape! Get these doors open!"
+[14202] "Kyaah-wawawah! They're firing at us!"
+[14203] "Everybody duck! Antenna!"
+[14204] "W-We're off!"
+[14205] (Come on. Think logically!
+[14206] Do what you have to do...!)
+[14207] "We apologize for the delay! The trains are currently facing severe delays due to an accident on the tracks!"
+[14208] "Are you kidding me? Yaaaaaaawn...
+[14209] Who would jump onto the tracks this early in the morning...?"
+[14210] "...Aghhaah... Haah..."
+[14211] "Hiiuwaaaah?!"
+[14212] "Heh. Ha. Hahahaha...! Wonderful...
+[14213] I feel... so satisfied..."
+[14214] "Hey... Hey! Station attendaaant!
+[14215] Help! Station attendaaaaaaant?!"
+[14216] (Defeated... without a single hint of foul play...
+[14217] To think that exhaustion could be such bliss...)
+[14218] "Dear, oh dear... So this is the sorry state you end up in..."
+[14219] "..."
+[14220] "This was our chance to weaken Asougi.
+[14221] I thought I ordered you to leave those Anti-Aso to their own devices..."
+[14222] "This is the worst possible outcome.
+[14223] The Anti-Aso screwed up due to your intrusion, and you yourself were defeated, as well."
+[14224] "...And you're at your limit, aren't you?"
+[14225] "What are you―?!"
+[14226] "...!"
+[14227] "I'm afraid this is goodbye. But we can't have your body collected by Asougi."
+[14228] "So here's a present for you.
+[14229] That way you won't leave any trace."
+[14230] "Why... you...!"
+[14231] "Farewell."
+[14232] "H-Hey, you! W-Was that a gun...?!"
+[14233] "Excuse me. I'm just doing my job."
+[14234] "H-Hey...!"
+[14235] "...!"
+[14236] "There has been an explosion within the train station! I repeat, an explosion in the train station! Immediately―"
+[14237] "..."
+[14238] "..."
+[14239] "I guess this mission... was a failure, huh...?"
+[14240] "...We didn't even manage to break in."
+[14241] "Big Brother Zappa... isn't coming back, is he?"
+[14242] "..."
+[14243] "What the hell do we do now?"
+[14244] "..."
+[14245] "We gotta go save Zappa, right?
+[14246] What're we doing just standing around?"
+[14247] "But we don't have a plan.
+[14248] We can't try the same trick again...
+[14249] and we're outgunned by too big a margin."
+[14250] "Then what are we supposed to do?
+[14251] If our leader won't give the order, we can't do anything."
+[14252] "...Leader? Who are you talking about?"
+[14253] "If it ain't you, then who?! Zappa ain't here!"
+[14254] "I'm not cut out for it...
+[14255] and it's not my cup of tea."
+[14256] "You say that, but you're the one who's been leading Nayuta around this whole time!"
+[14257] "And I thought you were the one who didn't like me deciding things on my own."
+[14258] "You always made your calls stick anyway!"
+[14259] "We've gone with your ideas plenty too.
+[14260] Like that last mission."
+[14261] "You wanna say it's my fault we failed?!"
+[14262] "That's not what I'm trying to say.
+[14263] You thought that all by yourself, don't put it on me."
+[14264] "...What'd you say?!"
+[14265] "Our first failure was mine, miscalculating.
+[14266] Our second was Zappa's... saving me."

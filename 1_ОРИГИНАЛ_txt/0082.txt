@@ -1,0 +1,81 @@
+[7049] "We may not be able to nab finished weapons, but hey, if we can get our hands on the parts, Mistress can whip up some nice mods for us!"
+[7050] "...Yeah, she could, couldn't she?"
+[7051] "So this is gonna be a pretty major hunt?
+[7052] Kuma, I'm leaving all the planning to you."
+[7053] "Way to pass the buck... Well, whatever."
+[7054] "Those Flattt guys seem like they wanna coordinate their hunt with ours. I'll let you hash it out with them."
+[7055] "Okay."
+[7056] "All right, we haven't had a big, flashy shootout like this in a while! Let's go all out!"
+[7057] "Is this the place...? I've never seen a shipyard before..."
+[7058] "Ahh, it looks like the Flattt group is gathered over there."
+[7059] "Medico, try to stand back for the time being.
+[7060] Porno, Kikuchiyo, you two stand at the ready."
+[7061] "Mmm."
+[7062] "Leave it to me."
+[7063] "C'mon, don't you trust us?"
+[7064] "Of course we don't! You guys have a shitty track record! I've still got stitch marks on my stomach!"
+[7065] "It wasn't that deep, was it?
+[7066] Anyway, blame Shion for that."
+[7067] "Mmgh... Well... I guess it'll heal eventually..."
+[7068] "When are you gonna be cured of your addiction for older girls?"
+[7069] "S-S-Shuddup! I've always been like this!"
+[7070] "Huh?"
+[7071] "What're all those Shinonome samurai doing here? You didn't tell us about this!"
+[7072] "Too bad. You were the ones who turned down my offer before. That's when I brought 'em in."
+[7073] "What's this? I didn't hear nothin' about them coming, either. You oughta keep us in the loop."
+[7074] "It doesn't change what we're here to do, does it? The more people we have on our side, the better."
+[7075] "Yeah, well, we thought we knew what we were gettin' inta. Don't go actin' like a planner if you can't stick ta plans."
+[7076] "Easy there. You still got a problem with us?
+[7077] This is our chance to make nice and put the past behind us! Start by backin' me up..."
+[7078] "Hmph. Who wants to back up your clown ass?
+[7079] Whaddaya want me ta do? How about I skin ya like a clownfish?"
+[7080] "Listen here..."
+[7081] "What's this? You two about to fight?
+[7082] If you guys are gonna duke it out, lemme in on the action! I hate feeling left out!"
+[7083] "Now's not the time! Ahh, for goodness' sake!"
+[7085] "What did we all come here for?
+[7086] What are we here to do right now?
+[7087] Lieutenant, talk some sense into your boss!"
+[7088] "Don't throw the ball to me... Look, it isn't a logical move for us to start infighting on Asougi turf. Give it a rest."
+[7089] "Yeah, yeah, I know."
+[7090] "Heh. It was just a little joke. Fine by me."
+[7091] (...Huh? Shinazu calmed down pretty quick.
+[7092] I thought these guys were fighting...)
+[7093] "...Hmph..."
+[7094] "...
+[7095] Hey, you've already taken care of everything for our breakin' in and out, right?"
+[7096] "...Yes. This way, Shinazu..."
+[7097] "Ah..."
+[7098] "Aaaaah! My ribbon came off...
+[7099] Tie it for me, Antenna! Tie it for me!"
+[7100] "Uhh, let's see. You do this, then you do that...
+[7101] Nyah! This is so tough! Earth-Moon-Earth radio communication in daytime is easier than this!"
+[7102] "Kikuchiyooooo!"
+[7103] "My ribboooon!"
+[7104] "Kgh... You two... Ugh, fine."
+[7105] "...There, it's tied up for you. Honestly...
+[7106] We're in enemy territory. Try to be a little more cautious."
+[7107] "Eheheh!"
+[7108] "..."
+[7109] "Huh? Are you smiling, Shinazu?
+[7110] That's creepy. It doesn't suit you at all."
+[7111] "Shut up."
+[7112] "Dammit... We're all in the same boat here, so if we could try to stop rocking it..."
+[7113] "..."
+[7114] "Joker? What's the matter?"
+[7115] "Ahh, Kuma... Oh, I was just wondering...
+[7116] if there was anything I could do to help..."
+[7117] "...You're not still worried, are you?"
+[7118] "Ahh, not exactly... I won't do anything drastic like last time, but I just..."
+[7119] "Don't let it bother you. Every situation needs a different solution. When you're the solution, you bet I'll count on you."
+[7120] "O-Okay..."
+[7121] "Huh? What was that sound?"
+[7122] "The main gate locked! We'd heard they don't lock this place at night..."
+[7123] "Oh dear..."
+[7124] "The guards are on the move!"
+[7125] "Hey, what've you set us up for this time?
+[7126] You finally defected to Asougi, did ya?"
+[7127] "Want us to loosen your jaw for ya?"
+[7128] "I've got nothing to do with this!"
+[7129] "Well, we're here now. Let's go make the most of it and have some fun!"
+[7130] "Yokay! Let's gooo!"

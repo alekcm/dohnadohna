@@ -1,0 +1,82 @@
+[15893] "Heh! There's no getting you guys down.
+[15894] Then let's head over to the central area..."
+[15895] "...Huh?"
+[15896] "Big Brother Zappa...
+[15897] The elevator won't open..."
+[15898] "That's odd... This's the elevator I took to get here..."
+[15899] "There's no power."
+[15900] "C'mon, Zappa... Get it together, man..."
+[15901] "Well, anyway, we gotta go up, up, up!
+[15902] If we take another path, we're bound to find a working one."
+[15903] "...He's back in full Zappa mode..."
+[15904] "Ah-ahaha... He really is back to his usual self, isn't he?"
+[15905] "Well, whatever. Leadership never suited me anyway."
+[15906] "Familiar is best, right?"
+[15907] "...Yeah, I guess."
+[15908] "All righty, let's go this way!
+[15909] Here we go, chaaaarge!"
+[15910] "How do you know to go this way?"
+[15911] "Just goin' with my gut, of course!"
+[15912] "...Better get going. We'll search as we go."
+[15913] "Okay!"
+[15914] "That concludes the unveiling ceremony. And now, a few words from the chairwoman of the Founder's Birthday Ceremony Committee, Mrs. Mirei..."
+[15915] "Asougi has inherited the spirit of the founder, Mr. Yorozu, and served as a bulwark to guard this land since the days of samurai."
+[15916] "Both the Asougi Group and Asougi City have made great strides throughout past, present, and future, contributing to the world at large―"
+[15917] "...The company must use this monitor for announcements. They've got a live broadcast of the ceremony on at the moment..."
+[15918] "Keh! She can talk all the shit she likes.
+[15919] We're gonna give her one hell of a shock..."
+[15920] "A bulwark to protect this land...?
+[15921] How dare she say such a thing."
+[15922] "The old lady likes to ramble on.
+[15923] We've still got time."
+[15924] (But why isn't Hisamitsu out there...?
+[15925] If the vice chairman ain't at the ceremony, then―)
+[15926] "Hey, c'mon, Zappa!"
+[15927] "Hmm? All right!"
+[15928] "Ahh, I see an elevator."
+[15929] "Ahh, there it is! I knew it was around here somewhere!"
+[15930] "Then, let's―"
+[15931] "Stop. That one isn't running, either.
+[15932] It's not powered."
+[15933] "Huh?"
+[15934] "Isn't there any other route up?"
+[15935] "Let's see... Well, let's just keep going this way.
+[15936] We're bound to find something!"
+[15937] "...Zappa, you don't know this place at all, do you...?"
+[15938] "Well, whaddaya expect? I saw as little of the place as I could!"
+[15939] "Like you got any right to get defensive!
+[15940] Jeez..."
+[15941] "There's no use in arguing about that right now.
+[15942] If you don't know where one is, we'll just have to go looking."
+[15943] "Yep, yep! Couldn't have said it better myself!
+[15944] Let's keep moving!"
+[15945] "...Now it's really starting to sink in that the Nayuta are your clan."
+[15946] "What's that supposed to mean?
+[15947] We've all got the same ideals in our hearts."
+[15948] "Those ideals better not be 'carelessness' and 'random irresponsibility'..."
+[15949] (...But there sure are a lot of inactive elevators around here...)
+[15950] "Anyway, let's keep charging forward!
+[15951] If we keep going through, we're bound to end up somewhere."
+[15952] "That's the last thing I wanna hear in the final boss's dungeon..."
+[15953] "Mr. Yorozu once said, 'Let us all become one, and grow together with our village, as though it were a living thing itself.' It was his will that―"
+[15954] "Mommy... I'm getting tired...
+[15955] How much longer is she gonna take?"
+[15956] "Shh!"
+[15957] "But... we've been standing here with our hands up the whole time..."
+[15958] "That's just what we have to do...!
+[15959] Now be quiet and... ahh...!"
+[15960] "Mmgh!"
+[15961] "..."
+[15962] "..."
+[15963] "...Haah..."
+[15964] "Pfah... Mommy, are they scary men...?"
+[15965] "No, they're good people, but they take bad children away. Now, be a good girl, all right?"
+[15966] "Okaaay, I'll be a good girl..."
+[15967] "Thanks for doing the rounds."
+[15968] "No prob. How have things been around here?"
+[15969] "We've restrained thirteen people, including five Outsiders, and dispensed thirty-three instances of summary discipline."
+[15970] "Hmm... That's less than expected.
+[15971] Things seem to be going well."
+[15972] "Right... At this rate, the Founder's Birthday Ceremony should end without incident."
+[15973] "What are the Anti-Aso up to?"
+[15974] "I've only heard what the other squads have divulged. Apparently they've been causing trouble around parts of the city, but nothing too serious."

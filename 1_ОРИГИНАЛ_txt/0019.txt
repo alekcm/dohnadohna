@@ -1,0 +1,83 @@
+[1554] "Kirakira, how's the search coming?"
+[1555] "I'm still looking... Ahh, I found a video!"
+[1556] "Okay, we're going to help. Let's do this."
+[1557] "Mmm. We'll do what we can."
+[1558] "O-Okay!"
+[1559] "Huh? Did something happen?
+[1560] What's everyone crowding around for?"
+[1561] "Apparently somebody got stabbed.
+[1562] It was over in that alleyway."
+[1563] "Yeah, there's a huge puddle of blood.
+[1564] It's real grotesque."
+[1565] "Ahh, that's so scary... Ahh!"
+[1566] "...Well? Which one of you made the call?"
+[1567] "Ahh, y-yes, that was me! Koutaro Tanukijima, Citizen No. D23782BF!"
+[1568] "Hmm? Your ID starts with a D, huh...?"
+[1569] "It's a citizen's duty to report incidents!
+[1570] I was putting out trash so I couldn't intervene, but I had to make the call for Asougi's sake...!"
+[1571] "Well, what happened? It doesn't seem like anyone called for an ambulance."
+[1572] "Yeah, I think it was those Anti-Aso punks!
+[1573] They were having a fight in the alleyway―"
+[1574] "Huh? Anti-Aso?"
+[1575] "Yep! I heard some people yelling, so I went to go check, and saw a group of people standing over there..."
+[1576] "Ugh... Could you be a little more specific?"
+[1577] "Sorry, I saw one of them get stabbed, but then they all ran off. That guy might be dead by now..."
+[1578] "Yeah, I'm not worried about that. Who got stabbed? Where did they run off to?
+[1579] Do you know where their hideout is?"
+[1580] "Huh? Uhh, sorry, I don't know..."
+[1581] "You don't know? It would be nice to know if one of their ringleaders had died, but you can't give me anything?!"
+[1582] "Uhh, well... I think it was a youngish guy?"
+[1583] "Damn! You've gotta be kidding me.
+[1584] This was a total waste of time..."
+[1585] "U-Umm... So where do I stand for reporting the crime...?"
+[1586] "Huh? Oh, I'll pass the report on. They'll probably tell you your punishment later."
+[1587] "P-Punishment?! B-But why?!"
+[1588] "Are you an idiot? You reported a worthless incident and caused a big commotion.
+[1589] All for nothing."
+[1590] "And people who cause needless disturbances are likely to be lawbreakers."
+[1591] "B-But there was an incident..."
+[1592] "Incident? So some Anti-Aso punk got stabbed.
+[1593] How is that an incident? If the guy did die, you needed to call a cleaning crew, not us."
+[1594] "Uhh... umm... uhh..."
+[1595] "Look, if you keep your head down, you'll probably get off with just a pay cut for a few months."
+[1596] "What? But I only had our city's safety in mind...! Y-Y'know, i-it might not've been Anti-Aso! I might've misremembered..."
+[1597] "Save it! Are you seriously going to try and waste even more of my time?!"
+[1598] "Yeek!"
+[1599] "Someone who tried to cause even more commotion might get... Temp Work."
+[1600] "A-Aaaaaaaah! F-Forget I said anything!
+[1601] Please forgive me!"
+[1602] "All right, move along, move along, people!
+[1603] Go straight home, and work hard to serve Asougi tomorrow!"
+[1604] "A-Ahh, yikes!"
+[1605] "Y-Yeah, I'm going straight home!"
+[1606] "Dammit... Let's see here...
+[1607] 'False report... Nothing of concern...'"
+[1608] "..."
+[1609] "...Ngh-ahh... It's morning?"
+[1610] "...Zzz..."
+[1611] "Ahh... Yawn... Haah..."
+[1612] "Arghh! I'm back! Is Torataro all right?!"
+[1613] "Y-Yes, he... seems to be through the worst of it."
+[1614] "Haaaaah-haha... Really?
+[1615] You managed to save him, did ya?"
+[1616] "Well, we didn't have any anesthetic, and we were mostly just going off the video, so... it was kind of touch and go, but Torataro hung in there."
+[1617] "Great job, gang. And you, too."
+[1618] "N-Not at all. I had to help... But he really should be looked at by a doctor..."
+[1619] "Don't worry. I had to run all over the city, but I managed to track Mistress down.
+[1620] She's gonna nail down an appointment too."
+[1621] "Really? That's a relief."
+[1622] "Well, it's not all good. We're not just gonna let this one slide, are we?"
+[1623] "No way. Those Flattt bastards...
+[1624] are gonna pay for this."
+[1625] "It's payback time! Let's go get 'em!"
+[1626] "Yeah...!"
+[1627] "Whoa, now. That won't be necessary."
+[1628] "Sorry for imposing."
+[1629] "...Murasaki."
+[1630] "He's here! Where's my chainsaw?
+[1631] Where's my chainsaw?!"
+[1632] "Porno!"
+[1633] "I'm awake."
+[1634] "Haha! What a warm welcome!"
+[1635] "So now the Flattt boss himself is trying to get a piece of us?"
+[1636] "Your brain cell's been working hard today, huh, Zappa? Relax, I'm just here to say hi."

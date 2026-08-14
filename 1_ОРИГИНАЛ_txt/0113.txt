@@ -1,0 +1,89 @@
+[9737] "Ahh, I've seen these around from time to time.
+[9738] They go around the city and collect any trash they detect."
+[9739] "...So they've got robots doing the rounds in prep for the big ceremony, huh?"
+[9740] "Huh... Here! You hungry?"
+[9741] "Collecting trash... Collecting trash..."
+[9742] "Ahh, it ate it! That's so cool!"
+[9743] "Uhh... then here, take this trash, too."
+[9744] "Collecting trash..."
+[9745] "Wow, that's really convenient!"
+[9746] "You should round up those Asougi scumbags for us while you're at it!"
+[9747] "Yeah, if only!"
+[9748] "Are we done here? Let's go."
+[9749] "Arriiight."
+[9750] "See ya!"
+[9751] "A cleaner city, a brighter Asougi..."
+[9752] "Ahh, welcome, Kuma! How can I help you?"
+[9753] "Nothing in particular. Just picking up some essentials."
+[9754] "Reaaally? What a pity. I thought maybe you had to see me so bad you couldn't stand it!
+[9755] ...But something else was standing just fine!"
+[9756] "...If that's the kinda reaction you're hoping for, start hitting on Torataro."
+[9757] "Aww, but I want the stoic Kuma to reveal his wild side to me."
+[9758] "...I don't get it."
+[9759] "Ahh, you're here, too, Antenna?
+[9760] Oooh, is this a date?"
+[9761] "O-Of course this isn't a date!"
+[9762] "Mmm... You always happen to be with a different girl every time I see you, Kuma."
+[9763] "Oh-ho!"
+[9764] "It's just the other Nayuta members...
+[9765] Anyway, you two know each other?"
+[9766] "Yeah, since I joined Nayuta! I've been coming here to buy the various parts I've needed from her!"
+[9767] "If they're essentials, we can cover them."
+[9768] "They're half for my own entertainment."
+[9769] "Antenna's requests can be demanding!
+[9770] It's been tough going for me!"
+[9771] "I understand if you don't have what I'm after... but if I can procure the perfect parts...
+[9772] hmm..."
+[9773] "You know, this store is pretty weird. There are mega-specific parts from the latest devices sitting right next to worthless junk."
+[9774] "For example, I don't think this chip is even in regular distribution yet!
+[9775] How did you get ahold of it?"
+[9776] "Ahh, that's my store's specialty.
+[9777] I want to provide my customers with the thrill of uncovering a bargain♪" "I knew I didn't get it..."
+[9778] "..."
+[9779] "Anyway, you said you had some essentials to buy, didn't you? Feel free to browse the list!"
+[9780] "Okay, I think that's everything for me for now.
+[9781] You ready to go, Antenna?"
+[9782] "Hmmm, should I get this one or this one...?
+[9783] Ahh, this'll do. Ring it up!"
+[9784] "Pleasure doing business with you!
+[9785] You going, already?"
+[9786] "Yeah, we're kinda busy at the moment...
+[9787] Speaking of which, you wouldn't have seen ALyCE around, by any chance?"
+[9788] "ALyCE? What's wrong? Is she lost?"
+[9789] "Yeah, something like that."
+[9790] "...She's being chased by the guards, is she?"
+[9791] "Chased by different trouble, actually.
+[9792] If you do happen to see her, let me know.
+[9793] I'll even pay you for the info."
+[9794] "Are you worried about her?"
+[9795] "...Honestly? Yeah, we're really worried."
+[9796] "Ooh, well, maybe now's my chance to earn some Kuma points!"
+[9797] "I don't give out Kuma points, but if you know something..."
+[9798] "Let's see. ALyCE..."
+[9799] "Hmm?"
+[9800] "...might possibly be on Higashi-dori, over at Megumi Street..."
+[9801] "...Huh?"
+[9802] "Wait, what did you just say?"
+[9803] "When I fixed her watch for her, I might've slipped a cheeky GPS in."
+[9804] "...You snuck a GPS inside her watch?!"
+[9805] "W-What?! Seriously?! Dammit!
+[9806] I'm such a failure for not noticing!"
+[9807] "It takes a lot of battery power, so it only sends out a signal a few times per day."
+[9808] "Why did you do that...?"
+[9809] "Well, simple repairs are boring, and I thought, 'Hey! There's enough space for a GPS in here!'
+[9810] and my creative spirit... got away from me?"
+[9811] "...
+[9812] I don't have time to press you right now.
+[9813] I'm borrowing that!"
+[9814] "Ahhh-ahh! Don't be so rough...♪" "Let's regroup with the others, Antenna!"
+[9815] "Aye, aye!"
+[9816] "Ahh! Don't break it, okay?!"
+[9817] "No promises!"
+[9818] "Zappa!"
+[9819] "Ahh, there you are, Kuma!"
+[9820] "So Mistress tipped you off where she is?!
+[9821] Man, what a dream babe!"
+[9822] "What a nightmare, I'd say...
+[9823] But it's a really good lead."
+[9824] "A-Anyway, we should hurry! We have to rescue them as fast as we can...!"
+[9825] "Ahh, you're right! We'll save the chitchat for later! Let's move!"

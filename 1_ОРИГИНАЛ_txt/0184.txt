@@ -1,0 +1,86 @@
+[15560] "Hmm? Is that...?"
+[15561] "Oh shoot! They saw us!"
+[15562] "...! No stopping now.
+[15563] We've gotta get through by force!"
+[15564] "Nyaah! Kuma, look out!"
+[15565] "...?!"
+[15566] "Waaah! It's a big car!"
+[15567] "A trailer house?! I-Is that an Asougi vehicle...?"
+[15568] "Get in!"
+[15569] "Huh? Flattt?! Murasaki, you―!"
+[15570] "You're headed to Asougi HQ, aren't ya?
+[15571] Well, your taxi's here!"
+[15572] "Goootcha, Joker♪" "Wa-wawawawawaaah!"
+[15573] "Joker, you asshole! You traitor!"
+[15574] "I-I don't know what she's talking about!"
+[15575] "Khh! What's going on here...?!"
+[15576] "W-What the―?! That vehicle―?!"
+[15577] "Kuma. I think our only option is to get in."
+[15578] "...Crap...!"
+[15579] "Fine. Get us outta here...!"
+[15580] "All right, everybody strapped in?
+[15581] Then let's drive!"
+[15582] "Wheeeew! I've never seen Kyusen-suji so empty! This is goin' great!"
+[15583] "Murasaki...? Hey, Murasaki!"
+[15584] "Huh? Shut up, Lieutenant.
+[15585] Quit yellin' at me while I'm drivin'."
+[15586] "This all feels way too convenient...
+[15587] You're not about to try and sell us to Asougi, are you?"
+[15588] "...Kheh, kihihihahahahaha! C'mon, what makes you think I'd do a low thing like that?! You pissed off about something?"
+[15589] "...Huh?"
+[15590] "Is it 'cause Zappa's gone? You think you're tasty enough to Asougi right now they'd cut a deal with us to hand you over?!"
+[15591] "..."
+[15592] "I mean, today of all days?! Even if I were their lackey, why would they use the Anti-Aso when they're out in full force?! They got no need to!"
+[15593] "Right, it's the day of the ceremony, and people from the Outside are here. They wouldn't want Anti-Aso roaming around, would they?"
+[15594] "See, it makes sense once you give it a little thought, don't it? It's only logical!"
+[15595] "...You're just hard to trust for some reason."
+[15597] "Keheh, well, let's just leave it there.
+[15598] I got to see yer tears of joy, after all!"
+[15599] "I'd be real glad if you guys managed to bust some Asougi heads in!"
+[15600] "And if you guys end up gettin' yerselves killed, that's one less annoying business rival.
+[15601] Whatever the outcome, it's no loss to me!"
+[15602] "That definitely sounds like your kind of logic.
+[15603] So I don't get why you're intervening at all...?"
+[15604] "Well, if we don't offer ya some support, we can't place our bets on ya, can we?"
+[15605] "Come on―ngh―Hey―aha-ngh...!
+[15606] Stop squirming... Mwah-nnh, mlln..."
+[15607] "U-Uwaaaaaaaahhhhhh!
+[15608] S-Save meeeeeeee, Kumaaaaaaaaaa!"
+[15609] "Shit... Go do that in the corner!
+[15610] That's the last thing I wanna see!"
+[15611] "...Just think of it as paying the taxi fare."
+[15612] "By all means... Ngh, hey!"
+[15613] "Aah."
+[15614] "Big Brother! I hear a buzzzzz coming closer!"
+[15616] "Ahh, Asougi drones...!"
+[15617] "So, they've arrived, huh...?
+[15618] I'm cutting through!"
+[15619] "We'll intercept them. ALyCE, open fire!"
+[15620] "Okaaaay!"
+[15621] "Hey, help 'em out, Shion! You can't just sit there flirting with the li'l guy!"
+[15622] "Tch!"
+[15623] "Hiih! I-I'm saved..."
+[15624] "Tch! I still haven't finished bulletproofing the damn thing, and they're shooting at it...!"
+[15625] "Is this new? Where'd you even get this trailer house from, anyway?"
+[15626] "Huh? We held up an interesting shipment that was comin' in. Threatened the guy in charge, and it was ours for the takin'!"
+[15627] "You should be thankin' us! If this birthday party weren't such a banger, it'd be real―"
+[15628] "Shh... Do you hear something?"
+[15629] "Huh? No..."
+[15630] "Something's coming... from over there."
+[15631] "Wait, is that... an a-attack helicopter?!"
+[15632] "They're really pullin' all the stops, huh?!
+[15633] Are they outta their minds?!"
+[15634] "These guys have insanity to spare.
+[15635] We're taking it down!"
+[15636] "Pffaaaaaaaaah! W-We actually did it!"
+[15637] "Yeah, but I've just about had it with these reinforcements. Floor it, Murasaki."
+[15638] "Tch! You've got some nerve... I'm not goin' back for you if get shaken out!"
+[15639] "Wahahaah! It's like a rollercoaster!"
+[15640] "We're almost there... Are you guys ready?"
+[15641] "Yeah, we're good to go... but..."
+[15642] (Now's our final chance to prepare.
+[15643] I'd better double-check to make sure we're as ready as we can be.)
+[15644] "Ahh, we've arrived! Asougi Headquarters!"
+[15645] "Okay, let's go!"
+[15646] "Arriiiiiight! Let's do this!"
+[15647] "Let's race in!"

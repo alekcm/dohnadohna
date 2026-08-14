@@ -1,0 +1,87 @@
+[9228] "...No. There was no point in attacking her... That's all. That's all."
+[9229] "That's right. I'm..."
+[9230] "Hey, you... You're... not a student in costume, are you?! You're Anti―"
+[9231] "Hah-yaaaaaaaaaaaah!"
+[9232] "Aaaah... Busy, busy. Time to reload!
+[9233] Let's see..."
+[9234] "Ahh! E-Excuse me! You there!"
+[9235] "Huh, are you talking to me?"
+[9236] "Yes! My daughter got caught in all the havoc, and she's been hurt...!"
+[9237] "Oh dear."
+[9238] "I want to carry her, but I can't do it on my own... I'm really sorry, but I need your help!"
+[9239] "But I'm in the middle of helping my sister."
+[9240] "I'm begging you! If you could at least help me carry her over there..."
+[9241] "Hmm... I guess so! That should be fine!"
+[9242] "Thank you... I really mean that..."
+[9243] "...Huh?"
+[9244] "...Gh...! Hey, where's ALyCE?!"
+[9245] "Huh? I thought she was covering our back...
+[9246] Gyaaah! Aaaah! There's too many of these devil-men!"
+[9247] "I haven't heard any gunfire in a while...
+[9248] Is she in the middle of reloading?
+[9249] No, I don't think so..."
+[9250] "What's the matter?"
+[9251] "I've got a bad feeling... I'm stepping back.
+[9252] I have to regroup with ALyCE."
+[9253] "Ahh...!"
+[9254] "What's wrong?!"
+[9255] "We haven't seen ALyCE for a while...
+[9256] and YAMMy ran off to look for her!"
+[9257] "Darn. Could we have lost her? No, YAMMy said that the Shinonome clan were looking for ALyCE..."
+[9258] "...We should help look."
+[9259] "You're... right. Okay, follow after YAMMy...!"
+[9260] "...Kihihih...! What's the rush... Sis?"
+[9261] "It's you...!"
+[9262] "Tsuina...!"
+[9263] "So you've returned? Of course...
+[9264] You're the new leader of the Shinonome clan...!"
+[9265] "Don't you dare talk like you know me, you traitor. We dump your sorry ass, and you make nice with the enemy?"
+[9266] "..."
+[9267] "If you want to come back to us, I guess I could forgive you? Just get down on your hands and knees and beg!"
+[9268] "You won't get to act like some bigshot again!
+[9269] But I guess I could use a new footrest?"
+[9270] "...Is it true that you're targeting us in order to capture ALyCE?"
+[9271] "She's the only one of you who's any threat, since she's got us beat for firepower. If she won't join us, she goes in the crosshairs!"
+[9272] "In that case... There is nothing for us to discuss. Back off!"
+[9273] "..."
+[9274] "...Shinazu!"
+[9275] "Oooh, that was a close one! I don't use swords! I'm going to leave this to my faithful assistant, sis!"
+[9276] "...Buy us some time, Shinazu. The other team pulled off the kidnapping, and now they're on the move."
+[9277] "...Understood."
+[9278] "Shinazu... Shinazu, out of my way!"
+[9279] "You've gotten much more ladylike since I last saw you... Your mouth moves before your hand, and you squawk like a noisy bird."
+[9280] "What...?"
+[9281] "You seriously think that I'm going to move just because you tell me to? Hurry up and come at me with your fists!"
+[9282] "...!"
+[9283] (Come at me, or I'll lose my nerve... Tch...)
+[9284] "Yiiikes, we have to fight off this Frankenstein by ourselves?! Guess we've gotta try!"
+[9285] "And we have to hurry."
+[9286] "T-That's right! We have to find ALyCE quickly...!"
+[9287] "Whether he's a Frankenstein or a vampire, we're taking him down!"
+[9288] "...Very well.
+[9289] If you stand in our path, I will cut you down!
+[9290] What Mibu would hesitate to fell a foe?!"
+[9291] "I'd like to see you try, little ladies...
+[9292] Come at me, Kikuchiyo...!"
+[9293] "Kikiki... That's right, destroy each other!
+[9294] See if you can look even sadder about it!
+[9295] Hyahahahahaha!"
+[9296] "Ghh...! Unbelievable..."
+[9297] "Haah, haah...! Tsuina is... already gone."
+[9298] "S-Shinazu...!"
+[9299] "...He won't be able to move for a while. Take him away."
+[9300] "Agh...! Ahh, b-but..."
+[9301] "Do you want to make his wound even worse?
+[9302] Are you just going to leave him here?"
+[9303] "Ahh..."
+[9304] "Now go."
+[9305] "O-Okay...! ...T-Take care of yourself, Miss Kikuchiyo...!"
+[9306] "..."
+[9307] "Aaaaah, ughhh, I can't take this anymore!
+[9308] Where are ALyCE and YAMMy?!"
+[9309] "I-I don't know...! I haven't seen either of them return..."
+[9310] "...Gunfire! That way!"
+[9311] "But there's gunfire all over the place right now."
+[9312] "No. It's the same sound we heard at the wharf.
+[9313] There's no mistaking that's YAMMy's rifle."
+[9314] "So that means, the two ALyCEs are that way...?"

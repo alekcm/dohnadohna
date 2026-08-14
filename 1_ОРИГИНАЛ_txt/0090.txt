@@ -1,0 +1,108 @@
+[7763] "I'll think about it. Right now―"
+[7764] "Yeah. It's time for you and me to do some two-player co-op!"
+[7765] "Okay, next. Open your bag.
+[7766] We'll be checking inside."
+[7767] "Outta the way!"
+[7768] "Gahh..."
+[7769] "Who was that...? Suspicious individual spotted...! Khh! I can't believe this...!"
+[7770] "Coming through!"
+[7771] "Ghh...!"
+[7772] "Heh, piece of cake! We're in!"
+[7773] "It was the broadcast room, right?"
+[7774] "Yeah! Let's hurry!"
+[7775] "...Haah...!"
+[7776] "Tch! It's swarming with Asougi assholes...!"
+[7777] "Yeah... but...!"
+[7778] "Damn! They must've gone this way!"
+[7779] "Where did they disappear off to...?!"
+[7780] "Eeeeeeek! Oh, no! You found us!"
+[7781] "It's them! Hey, freeze!
+[7782] You're under arres―"
+[7783] "Guaaaah?!"
+[7784] (Ghh, they got behind us through that grate...?!)
+[7785] "...!"
+[7786] "Heh, easy."
+[7787] "We've got the home advantage here...
+[7788] Let's hurry."
+[7789] "Hghk..."
+[7790] "Now, what should we do?"
+[7791] "H-Hurry up and drop that thing...! Why're you waving a gun around when I'm surrounded anyway? Are you out of your mind?"
+[7792] "Shut up, you bitch!"
+[7793] "Kyaaaah!"
+[7794] "Heheh... What a beautiful scream.
+[7795] You know, there's nothing stopping me from shooting a lowly peasant like you."
+[7796] "...Agh..."
+[7797] "You ought to know your place...!
+[7798] Use that useless brain of yours before you take that tone with me!"
+[7799] (...I... can't do this...)
+[7800] (I can... tolerate pain... but... but...!)
+[7801] (If I get shot... I'm gonna die...!
+[7802] And if I die, then that's that...)
+[7803] (No, no... I'm scared... I don't wanna die...!)
+[7804] "What happened to all your spunk, huh?!"
+[7805] "Nghh-hih..."
+[7806] "Aww, look! She's crying!"
+[7807] "Women! The moment you start getting serious with them, they start blubbering like babies.
+[7808] Ain't that right, Moriyama?"
+[7809] "Heh-heheh! So you're finally starting to understand, are ya, Shinomiya?!"
+[7810] "Now... Hey, Shinomiya! First, I demand an apology. I want you to say sorry for all the times you've ever been rude to me!"
+[7811] "...Ngh..."
+[7812] "Say something, will ya?!"
+[7813] "...rry..."
+[7814] "Heh-heheh! W-What'd you say?"
+[7815] "...I'm... I'm sorry..."
+[7816] "Oooooohh! S-Stuck-up Shinomiya actually apologized!"
+[7817] "Shinomiya! Tell us what you're sorry for!
+[7818] Be specific in your apology to Moriyama!"
+[7819] "...I'm sorry for being rude to you.
+[7820] And I'm sorry for punching you, as well."
+[7821] "Yeah, you better be! You were lucky that Moriyama even spoke to you...!"
+[7822] "Heh-heheheh... Hey, Kaneko.
+[7823] Why don't you teach her a lesson?"
+[7824] "Huh...? You want me to teach her a lesson?"
+[7825] "Yeah, we've gotta teach this violent delinquent not to lash out at us...
+[7826] in a language she understands."
+[7827] "...Okay, I understand... Hey, Tsuji!
+[7828] Grab ahold of her for me!"
+[7829] "O-Okay...!"
+[7830] "Gphh...!"
+[7831] "Uhoooooohhh! You really gave it to her!"
+[7832] "D-Don't...!"
+[7833] "You haven't forgotten what you've done to us, have you?! Huh?!"
+[7834] "...Igh..."
+[7835] "Hiyaah!"
+[7836] "Gbhheeeeh...!"
+[7837] "Whoo! Hey, did you see that?!
+[7838] Her spew went airborne!
+[7839] That's fucking disgusting!"
+[7840] "Gbhh! Gbhh... Stop... Save me..."
+[7841] "Argh, don't you fucking move...!"
+[7842] "...You need some more teaching, do ya?
+[7843] Or is this what you want? Huh?!"
+[7844] "Gihhih... Ahh-aaaaaaaaah...!"
+[7845] "Wow, it's working, it's working.
+[7846] She shut that trap of hers."
+[7847] (Ah-ahahaha... I-It's all over...
+[7848] M-My body... isn't moving anymore...)
+[7849] "Kh-khiheheheh... This is incredible...
+[7850] This... This is my power..."
+[7851] "I-I bet... we can do whatever we like to her now..."
+[7852] "...Anything we like, huh?"
+[7853] "..."
+[7854] "Gulp..."
+[7855] "M-Moriyama! W-What should we do next...?!"
+[7856] "N-Next...? Y-Yeah..."
+[7857] "...Hmm?"
+[7858] "...Things have been, like, totally crazy today.
+[7859] Are those... guards over there?"
+[7860] "Yeah. Actually, I think I heard something like gunfire before too..."
+[7861] "Oh, that? I saw Moriyama a moment ago―
+[7862] you know, the second year?"
+[7863] "That guy? Isn't his dad a big logistics executive?
+[7864] He kinda gives me the creeps."
+[7865] "Yeah, him. I saw him carrying a gun."
+[7866] "...What? That's gotta be an air gun, right?
+[7867] How old is he, five?!"
+[7868] "Ahaha! I know, right?"
+[7869] "..."
+[7870] "C'mon, let's keep moving. Is it this way?"

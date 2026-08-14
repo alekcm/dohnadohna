@@ -1,0 +1,96 @@
+[999] "You, there! Were you creating a diversion for these punks?! You think you can fool us...?!"
+[1000] "Anti-Aso?! They're always breaking in here!"
+[1001] "...Huh? Huh? Huh?"
+[1002] "Arrest her! Don't let her get away!"
+[1003] "Got it!"
+[1004] "Huh?! H-Handcuffs...?!"
+[1005] "Aaah!"
+[1006] "I don't know what's happening...
+[1007] but here they come."
+[1008] "Thanks for making it nice and simple for me!
+[1009] Let's do this!"
+[1010] "You won't get away with this, you little punks!"
+[1011] "Phew! 'Least that's over.
+[1012] They sure put up a fight, huh?"
+[1013] (W-Who are these people...? They attacked the guards... or the guards attacked them...?
+[1014] a-and then they beat them...)
+[1015] (But... there was something strange about those guards. If they hadn't been stopped, I might have been...)
+[1016] "..."
+[1017] "Aah...!"
+[1018] "..."
+[1019] (W-Who is this guy...?
+[1020] Why's he staring at me like that...?)
+[1021] "Umm... Err... Uhh... T-Thank you...
+[1022] for rescuing me..."
+[1023] "...She's kinda plain, but she ain't half bad."
+[1024] "Huh?"
+[1025] "Yeah, she's arright. Kinda plain, but."
+[1026] "Mm, she's not bad... albeit plain."
+[1027] "Huh? Huh? Huh?"
+[1028] "All right! Dona-dona it is!"
+[1029] "Ahh..."
+[1030] "Kyaaaaaaaaaaah!"
+[1031] "Okay, let's get out of here."
+[1032] "Ahh! Way to go, guys."
+[1033] "Hey... P-Put me down...! Wah!
+[1034] Aaaaaaaaaaaahhh!"
+[1035] Meanwhile, at Asougi Headquarters...
+[1036] "..."
+[1037] "Forgive my interruption."
+[1038] "Ahh. What is it?"
+[1039] "I have an update for you regarding the Taisouji situation..."
+[1040] "Taisouji? Taisouji... Taisouji...
+[1041] Who was that again?"
+[1042] "That non-fiction writer from outside the city who had been snooping around here.
+[1043] I mentioned him in a previous report..."
+[1044] "Oh... Ohh, that's right. Now I remember.
+[1045] I'd forgotten all about him. Haha, I must be losing my memory."
+[1046] "Uh... Err... Well, erm... Ahaha..."
+[1047] "But that was quite a while ago, wasn't it?
+[1048] Hasn't he already been dealt with?"
+[1049] "Yes, it was resolved. However, we've received word that a girl claiming to be his daughter has been going around looking for him."
+[1050] "Hmm..."
+[1051] "How should we proceed? It seems she's been kidnapped by one of the Anti-Aso groups..."
+[1052] "Hmm... I don't really care."
+[1053] "Ahh... Then what should we―"
+[1054] "Didn't you hear me? I said I don't care.
+[1055] I don't need updates, just take care of it."
+[1056] "Ahh! Y-You have my sincerest apologies!"
+[1057] "Anti-Asougi, eh... What children.
+[1058] For all our efforts to keep them from feeling the yoke..."
+[1059] "Whatever are the rabble thinking...?
+[1060] I wish I had any idea."
+[1061] "..."
+[1062] "...U-Umm...?"
+[1063] "..."
+[1064] (I-I'm so scared... Who are these people...?
+[1065] That guy was holding a pistol earlier...)
+[1066] "...So lemme get this straight, girl.
+[1067] You're here from the Outside, looking for your father who's gone missing?"
+[1068] "O-Outside...? Yes, I came here from Nara...
+[1069] My father's a non-fiction writer, and he said he was going to investigate the Asougi Group..."
+[1070] (This guy... doesn't seem so scary...
+[1071] He may be big and tall, but...)
+[1072] "Wow, what an idiot. He came in all by himself?
+[1073] Has he got some kinda death wish?"
+[1074] "Huh? A-A death wish...?
+[1075] N-No, he just came here to get info..."
+[1076] "Yeah, about Asougi? He's dead for sure."
+[1077] "W-What are you talking about?!
+[1078] Why would they hurt my father?"
+[1079] "Whaddya mean, why? There's no way Asougi's just gonna let troublemakers go around digging up dirt on them."
+[1080] "W-What?! You're saying the Asougi Group...
+[1081] k-kills people? No way...!"
+[1082] "But Asougi do all sorts of charity work, and they have a reputation as a clean company..."
+[1083] "Haaaah... She's bought into their bullshit too."
+[1084] "Easy now, Torataro. This girl seems like she's really from the Outside."
+[1085] "Tch... Yeah, you got that right."
+[1086] "U-U-Umm... Who are you guys...?"
+[1087] "Passing this one to you, Kuma."
+[1088] "...Dammit."
+[1089] "We're Nayuta. We're a clan...
+[1090] That's a group of rebels who defy Asougi's domination over the city."
+[1091] "Huh? Asougi's... d-domination...?
+[1092] Rebels? What do you mean?"
+[1093] "Everything in this city is controlled by Asougi, right down to how people think and feel.
+[1094] That's why we wanna take them down."

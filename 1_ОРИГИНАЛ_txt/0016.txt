@@ -1,0 +1,86 @@
+[1285] "But if they're gonna start attacking you outta the blue, you're gonna need a bodyguard, aren't ya?"
+[1286] "That's right. When they jump you, we'll jump them back!"
+[1287] "I don't need you to be my bodyguards.
+[1288] I can take care of myself."
+[1289] "Don't be like that. This is our chance to beat the shit outta them!"
+[1290] "Didn't somebody just say that the clans are supposed to be fighting Asougi?"
+[1291] "Ahh! Kuma!"
+[1292] "There you are! I heard you got jumped last night."
+[1293] "Mistress!"
+[1294] "...Where'd you hear that?"
+[1295] "You gotta have your ear to the ground in my line of work. Well, are you all right?
+[1296] You weren't hurt, were you?"
+[1297] "It wasn't that serious."
+[1298] "But you never know about next time...
+[1299] So how about you upgrade your weapons to keep yourselves safe?"
+[1300] "Upgrade?"
+[1301] "Yeah, that's right. If you bring me materials, I can power up your weapons."
+[1302] "...But there's only a select few places where you'll find the necessary materials, and you might have to fight the other clans for them."
+[1303] "Oh, now I get it... You came here to give us a sales pitch."
+[1304] "I was worried about you, too, you know?
+[1305] I mean it."
+[1306] "Yeah, worried that you might have lost a customer."
+[1307] "Hey, don't twist my words...
+[1308] Anyhoo, see you at the shop sometime."
+[1309] "Wait, Mistress! You're already leaving?"
+[1310] "Sorry, I'm working.
+[1311] See you later, Turtle-taro."
+[1312] "It's Tora!
+[1313] Sigh... She looks good... from behind, too..."
+[1314] "You don't know when to give up, do you?"
+[1315] "He just keeps trying to ice skate uphill."
+[1316] "...So we can upgrade our weapons, huh?
+[1317] We should look into that."
+[1318] "Are we going on a hunt? We found a place before where we could snag materials, right?"
+[1319] "Yeah, but we haven't been there in a while.
+[1320] Let's go talk to Zappa about it."
+[1321] "...Speaking of Zappa, what'd he end up doing with that girl?"
+[1322] "Uh..."
+[1323] "When you stop by the base, it should be obvious."
+[1324] "Ahh... W-Welcome back..."
+[1325] "Well, I don't see anything differe―Huh!?"
+[1326] "She's done the washing, the cleaning, and she's almost done with the cooking."
+[1327] "S-Sorry... I didn't have anything to do, so..."
+[1328] "No, it's not you I have a problem with...
+[1329] Zappa? Zappaaaaaaa?!"
+[1330] "Oh, she's, um... y'know! Backup.
+[1331] She's a backup buddy! In case Torataro gets stabbed to death or something..."
+[1332] "Don't say that, you'll jinx me!"
+[1333] "Hmph. So you got sick of taking care of her and just left her to her own devices?
+[1334] Typical Zappa..."
+[1335] "So, what are you going to do?
+[1336] Shouldn't you be heading home?"
+[1337] "Uh... B-But... then I'd never find my father..."
+[1338] "Hmm, well... Sorry for your loss, I guess."
+[1339] "Hey!"
+[1340] "There's one thing you should know.
+[1341] The way those guards at the hospital treated you, that's normal in our city."
+[1342] "What...? But we live in Japan.
+[1343] Why would they be so...?"
+[1344] "We're in Japan, but this is a provincial city.
+[1345] No one has any interest in interfering."
+[1346] "..."
+[1347] "Yeah... We might have abducted you from the hospital, but we won't try to stop you.
+[1348] You're free to do whatever you like."
+[1349] "O-Okay..."
+[1350] "But we can't have you carelessly wandering in and out of here. We don't want to attract attention from the guards."
+[1351] "O-Okay, I'll be careful..."
+[1352] "Anyway, Zappa, I wanted to talk to you about our next hunt..."
+[1353] "Ooh, where to?"
+[1354] (What... What should I do? Father...)
+[1355] "This is going really smoothly!
+[1356] It's a breeze when security is so loose!"
+[1357] "Yeah, but we're still short on materials...
+[1358] I wanna grab a few more."
+[1359] "Then let's keep charging forwards! Whoosh."
+[1360] "...Hmm?"
+[1361] "Aaah, a devil-man! You scared the crap outta me!"
+[1362] "The Shinonome clan... Mistress said we'd probably run into the other clans while looking for materials. Guess she was right."
+[1363] "Troublemakers...?"
+[1364] "There's more-more-more of them!"
+[1365] "You wanna mess with us...?
+[1366] Well, you are our rivals. I guess you do."
+[1367] "We're not gonna sit back and get messed with, though!"
+[1368] "Whew, my fists're going numb.
+[1369] These guys are as tough as always."
+[1370] "Yeah, they're known for being trained in the ways of combat. Not to mention there's a ton of them. They're a real pain."

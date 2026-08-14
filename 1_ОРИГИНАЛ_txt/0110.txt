@@ -1,0 +1,90 @@
+[9483] "Whoooa... You two aren't alike at all.
+[9484] Your personalities are, like, totally different..."
+[9485] "We do not share the same mother. More than that, she had a different upbringing...
+[9486] since she was not the eldest child."
+[9487] "Were you raised apart from each other?"
+[9488] "Perhaps we should have been."
+[9489] "...My sister may have been treated harshly compared to me. Certainly, she felt that way."
+[9490] "You mean, like, she was abused?
+[9491] Just for being younger than you?"
+[9492] "She was being raised to take down Asougi.
+[9493] The training involved had to be rigorous."
+[9494] "Ahh right... Your whole family is Anti-Aso."
+[9495] "Perhaps... My family has known the Asougi since the days of their founder, Yorozu. It seems our relationship was good back then."
+[9496] "The Mibus were trained in the ways of the sword, and made a living in the business of medicine.
+[9497] We even collaborated with Asougi in that field."
+[9498] "But when the founder's successor took over, Asougi changed, and we became their prey.
+[9499] They betrayed us to get ahead."
+[9500] "We will bring the vile Asougi low. With that oath, my grandfather took his subordinates and pupils, who had lost it all, into the criminal underworld."
+[9501] "As the eldest child, I was the Mibu's successor.
+[9502] My sister was to support me, and devote herself to the family. Both of us had strict upbringings."
+[9503] "Wow, you guys really are samurai..."
+[9504] "But... it must have been difficult for my sister.
+[9505] She fled to the Outside several years ago."
+[9506] "And now she's back, huh?"
+[9507] "That would seem to be the case. I don't know what she has planned... but those firearms give some indication."
+[9508] "Those miniguns are even scarier than Asougi's weapons..."
+[9509] "All right, let's move out!"
+[9510] "Move out...? Where to?"
+[9511] "Somewhere!"
+[9512] "...Oh, c'mon!"
+[9513] "Well, they damn sure aren't here.
+[9514] Let's go someplace they might be!"
+[9515] "It beats standing around, I guess.
+[9516] You might be right."
+[9517] "Do we have any clues?"
+[9518] "Any clues, Kuma?"
+[9519] "Nope."
+[9520] "Yep, that's what I thought."
+[9521] "Searching for a needle in a haystack...?
+[9522] Hmm... It doesn't seem very logical."
+[9523] "We don't have much other choice."
+[9524] "Should we split up and search in groups?"
+[9525] "Bad idea. We can't afford to get outnumbered against the kind of firepower they're carrying."
+[9526] "All right! Let's all go out together, it doesn't matter where! Let the search begin!"
+[9527] "Tch! Did we lose her?"
+[9528] "Nnngh-nnngh... I-I don'd see her around.
+[9529] I don'd see duh dark doll around..."
+[9530] "Don't look so disappointed, Yatsuhashi!
+[9531] She's a real dangerous gal. I don't know who taught her, but she knows how to kill."
+[9532] "Nnmmmmmmh... nhh!"
+[9533] "Heheh! Don't glare at me like that, little lady.
+[9534] I tend to lose my cool when young ladies gimme that look."
+[9535] "Nnnh...!"
+[9536] "Aah-aaah! D-D-Dhad's no fair, Uguisu!
+[9537] You dryin' duh gedda head sdard on me?!"
+[9538] "Shut it! Keep watching up ahea―"
+[9539] "Cra―whoa-whoa!"
+[9540] "W-W-W-W-W-W-Whad's going on?!"
+[9541] "Shit. Sniper...?!"
+[9542] "This is just a theory... but I imagine it would be difficult for them to see me from above."
+[9543] "Shid! Shid! Shiiiid...! If duh wheels weren'd bulledproof, dey'd be busded..."
+[9544] "I'm impressed that they're still able to drive...
+[9545] but they won't be able to maintain that speed for long...!"
+[9546] "She's above us...?! She's on top of the roof!"
+[9547] "S-S-S-She can move like Tsubame!"
+[9548] "ALyCE!"
+[9549] "Nmmmh!"
+[9550] "Aah-aah-aaaaaaaaaaahhh!
+[9551] D-D-Duh doooooolls!"
+[9552] "Shut up, Yatsuhashi! Be quiet! Turn around!"
+[9553] "Aghkhh... Phew... Are you all right, princess?"
+[9554] "Pwaaah! YAMMy! Thank youuu!"
+[9555] "We'll talk afterwards. We have to escape.
+[9556] They'll be coming after us immediately."
+[9557] "Mm-hm!"
+[9558] "Your rifle... is still in their car, isn't it?
+[9559] That's okay, use mine."
+[9560] "Okay! I'm gonna go bang!"
+[9561] "Here they come. Run!"
+[9562] (Then, if we can reunite with Nayuta...
+[9563] No, we can't trouble them any further...)
+[9564] "There, I found the license plate...!"
+[9565] "I can't miss...!"
+[9566] "Ahh..."
+[9567] (I missed... but now they're spinning because they had to avoid my shot...!)
+[9568] "ALyCE!"
+[9569] "Khh-oooh...!"
+[9570] "ALyCE!"
+[9571] "Nnhhhhhhm!"
+[9572] "Hey, get back here!"

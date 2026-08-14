@@ -1,0 +1,84 @@
+[5417] "Sure seems that way. I guess I'll have to arrange my secret trysts with Mistress face-to-face."
+[5418] "Hey! You better not pull anything like that, or you're dealin' with me!"
+[5419] "Yooo!"
+[5420] "Ahh, hellooo there, Kuma!
+[5421] Hi, uhh... Tortilla-taro?"
+[5422] "Great, now I'm being treated like food!"
+[5423] "Sorry, I had a tortilla this morning!"
+[5424] "Your logic is just as heartless..."
+[5425] "So what did you want?"
+[5426] "Hmm, another ice-cool day in Kumaland.
+[5427] Are you eating properly? You wanna get dinner with me sometime?"
+[5428] "Food is the last thing I want to think about right now... Does my nutrition have anything to do with what you called me here for?"
+[5429] "Tch. So much for that... I have a favor to ask.
+[5430] Or rather, a request."
+[5431] "A request?"
+[5432] "Yes, a hunting request. You know the Asougi College of Engineering? I was wondering if you could go there for me."
+[5433] "...What for?"
+[5434] "GEBER's design documents.
+[5435] I want you to go grab them for me."
+[5436] "GEBER...? Is that some kind of program or something?"
+[5437] "Exactly. The computer science professor Aoyagi, has them. Just do what you usually do."
+[5438] "...What do you need them for?"
+[5439] "I need them for a few things I'll be working on soon. What do you say?
+[5440] I'll make it worth your while♪" "Hunting, huh? Well―"
+[5441] "Arriiiiiiiiight! You bet we're in!"
+[5442] "Hey, Torataro...!"
+[5443] "Ahhh♪ How reliable! I'm counting on you!"
+[5444] "Just leave it to me, Torataro...
+[5445] TORA-taro. And the rest of Nayuta!"
+[5446] "Ahh, jeez..."
+[5447] "Hey, you always make decisions for us on your own!"
+[5448] "That's because... Ahh, whatever.
+[5449] You've already agreed to it..."
+[5450] "It'll be fine! We got this in the bag!
+[5451] The college has barely got guards anyway!"
+[5452] "...So are these documents something we'll recognize as soon as we lay eyes on them, or are they digital files, or what?"
+[5453] "How am I supposed to know?
+[5454] That obviously depends on how the professor stored them, right?"
+[5455] "...Yeah, I suppose so. Guess we'll just have to go rummaging through his office, then..."
+[5456] "Thanks for that♪ Now, seeing as you need to prepare, how would you like to browse my wares while you're here?"
+[5457] (...Wow, she really has no shame.)
+[5458] "So... this is the college's research building, huh?"
+[5459] "I checked the floor map, and apparently Aoyagi's office is on the third floor."
+[5460] "There's nobody around...
+[5461] Is it okay for us to be in here?"
+[5462] "The walls are so smoooooth!"
+[5463] "Colleges have such a serious atmosphere.
+[5464] It's kind of weird being in here, you know...?"
+[5465] "Is it?"
+[5466] (It should be, since we broke in...)
+[5467] "So, you sense anything that seems like a design document around?"
+[5468] "Mm... Mmmm. I've been searching, but I can't parse the signal from all of this noise."
+[5469] "Huh. That's unusual."
+[5470] "Well, I should be able to detect it if we get closer... probably!"
+[5471] "Aaaaarright! Let's get moving!
+[5472] Big Tora'll take care of―"
+[5473] "...Huh?"
+[5474] "Warning. You are now entering Professor Aoyagi's laboratory.
+[5475] Please state your student number."
+[5476] "...What's it talking about?"
+[5477] "Unable to verify response.
+[5478] Please repeat your student number."
+[5479] "You have thirteen seconds until the security system is activated."
+[5480] "Uhh, this seems bad...
+[5481] Should we maybe do something?"
+[5482] "How'm I s'posed to have a student number?!
+[5483] What kinda game is this?!"
+[5484] "Is there any way to switch off the security alarm, Antenna?"
+[5485] "Hm-mh-mmghmm... Mmg-g-gyaaah!
+[5486] Gack, there's not enough time!"
+[5487] "...Intruders detected."
+[5488] "...Looks like we've triggered some kind of security system. It doesn't seem like there's anybody coming, but..."
+[5489] "Well, if anything tries to get in our way, it's gonna get a taste of my fists!
+[5490] Let's go!"
+[5491] "Hah... Take this!"
+[5492] "These robots are easy-peasy♪ I can bang-bang all day long♪" "We've hit the third floor...!"
+[5493] "Aah, this is the worst! It's nothing but robots in here, and my gas doesn't work on them!"
+[5494] "Ah, haah, hahh, haah..."
+[5495] "S-Sorry! I'll... catch up...
+[5496] in just a sec... Hang on..."
+[5497] "Kikuchiyo, ALyCE, hold up.
+[5498] Let's regroup."
+[5499] "Phew! What the hell's with all these pieces of junk?!"
+[5500] "On the plus side, they're fun to punch.

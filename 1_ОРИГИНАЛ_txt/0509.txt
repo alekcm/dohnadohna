@@ -1,0 +1,48 @@
+[41269] You're here to play with characters you like, so we made the game easy enough that you could afford to focus on your favorites.
+[41270] That's the same this time around as well, so I hope that you got to play with your favorite characters, and in your preferred playstyle!
+[41271] For the battle animations, we initially planned to make them simple with little movement, and let the style do the heavy lifting.
+[41272] It turned out to be too heavy for the style.
+[41273] We had to amp them up hard, killing both the artist (animations) and the programmer (editors).
+[41274] The file size of the editor alone ended up being half the size of the game, so I hope that Mie Sakuranosaki is resting in peace.
+[41275] "Scenario" When a game setting gets too complex, you have to divert character-building conversations into world-building.
+[41276] We wanted to minimize it to a modern-day setting where hustling and hunting existed, but that made it difficult to cheat.
+[41277] So we decided on the backstory we needed and then focused on the tempo, dishing out fragments where we could.
+[41278] Speaking of the tempo, all the character portrait scenes in the game consist of almost exclusively dialogue, not narration.
+[41279] That makes it a challenge to convey action and atmosphere! And tough to keep the volume up.
+[41280] That design choice wasn't easy on the writer.
+[41281] But Dice Korogashi took the bullet; struggled, strove, fought, and died to avoid writing overly long, redundant, pleonastic sentences like this.
+[41282] Also, there are many facets of the characters and so on that we only ever hinted at.
+[41283] It would be silly to explain every single thing (I'd like to leave some room for imagination) but maybe I can elaborate some other time.
+[41284] "Characters" His name remained unchanged since the planning phase. Our quiet, logical protagonist.
+[41285] Some people wonder: "isn't he a bit too popular?"
+[41286] One reason why his attacks are close range even though he has a gun is to keep the main protagonist from sitting pretty in the back.
+[41287] This guy's name was decided from the get-go, too. Everything about him and his character is easy-going, but his design is hard-looking.
+[41288] Name during planning phase: Loli.
+[41289] Other candidates included Muji and Naru.
+[41290] It was always decided that she would be albino.
+[41291] When I suggested Porno, the response was, "Are you seriously going with that name?"
+[41292] So it stuck.
+[41293] Out of all the heroines, her hair style and design went through the most changes, and were the last to be completed.
+[41294] Now here's the type of girl whose name was decided from the planning phase. Dohna Dohna may not have a main girl, but Kirakira is closest?
+[41295] When I looked back at our initial designs, there was a note saying her hair is dyed.
+[41296] Huh. I wonder what color it is underneath.
+[41297] Name during planning phase: Yuuta.
+[41298] He's a guy who loves older girls.
+[41299] Also, uh... he's the guy who gets picked on.
+[41300] I specified for his full name (not Yuuta) to be revealed at some point in the main scenario, but Dice Korogashi left me hanging. I'm sad.
+[41301] Name during planning phase: Glasses.
+[41302] Really? She was supposed to be the sensible one who looked at things with common sense.
+[41303] But seeing as she's a serious character, and also the one with the most latent lewdness, we veered away from the common sense angle.
+[41304] Name during planning phase: Shota.
+[41305] A boy loved by older girls. Acclaimed at the recording studio and elsewhere.
+[41306] During the initial planning stage, he was going to save the others with his superior hacking ability, but then...
+[41307] Name during planning phase: Baka.
+[41308] ...She took over as the genius.
+[41309] It's a very fine line.
+[41310] The awful treatment she faces in her bad end caused tears of pity during voice recording.
+[41311] I'm sorry.
+[41312] Name during planning phase: Kaminari.
+[41313] I have a feeling he looks ordinary without his makeup on. He has a short temper.
+[41314] During the initial planning phase, she was going to be Murasaki's lover. I feel like her principles would make her a good fit at Nayuta, as well.
+[41315] As one of the few sexy-type characters, she's treasured by the dev team. Age-wise she's younger than Mistress, about Murasaki's age.
+[41316] She's precisely as she was originally conceived.

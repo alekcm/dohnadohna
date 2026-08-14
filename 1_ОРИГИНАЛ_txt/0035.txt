@@ -1,0 +1,95 @@
+[2925] "But why is this kid their treasure?
+[2926] Could he be the child of an Asougi official?"
+[2927] "I doubt it. If he was, they wouldn't've just left him in there. This looks to me like..."
+[2928] "...A body donor?"
+[2929] "...Kuma?"
+[2930] "Ngh... W-Who is that...? I hear people...
+[2931] talking..."
+[2932] "Oop. Rise 'n' shine, Sleeping Beauty."
+[2933] "Aah! W-What's going on? So many people!"
+[2934] "Yo, mornin'. Whatcha doin' in a place like this?"
+[2935] "U-Uhh...? I-I've been hospitalized..."
+[2936] "I can barely hear him through the glass...
+[2937] Hey, can't you come outta there?"
+[2938] "U-Uhh, I-I dunno how..."
+[2939] "It's probably this. Boop."
+[2940] "Do you have any clothes?"
+[2941] "Y-Yes, just a moment..."
+[2942] "Phew. I'm glad my clothes are still here..."
+[2943] "You mentioned you were hospitalized...
+[2944] Are you sick?"
+[2945] "Y-Yeah... I don't really know the details, but I was told I've got a serious illness..."
+[2946] "I've been taken to various hospitals...
+[2947] to be examined."
+[2948] "Huuuh? You look fine to me."
+[2949] "I thought so, too... but..."
+[2950] "Medico, any ideas?"
+[2951] "I'm not a doctor, but... but you don't seem unwell... What kind of examinations do they do?"
+[2952] "I'm not... really sure...
+[2953] but they take blood a lot..."
+[2954] "Well, blood tests are quite common...
+[2955] Did they give you any medicine?"
+[2956] "Not really... but they're always checking something about my body with a machine..."
+[2957] "...Really? I suppose that is a little unusual..."
+[2959] "I mean, this place ain't exactly a hospital.
+[2960] Kinda hard to miss that it's a research lab."
+[2961] "...Y-Yeah... You're right..."
+[2962] "Sometimes I'd hear the researchers talking...
+[2963] They called me a body donor..."
+[2964] "..."
+[2965] "What is that? You mentioned that before..."
+[2966] "Normally... it's when somebody's... um, corpse... is donated... for research..."
+[2967] "Asougi's definition is a little bit different.
+[2968] They don't just use corpses."
+[2969] "Not just corpses...? Huh? Y-You don't mean...
+[2970] they use living people, do you...?!"
+[2971] "So the pipsqueak's some kinda lab rat?
+[2972] And we're not sure what for."
+[2973] "Exactly."
+[2974] "..."
+[2975] "Hmm... This is heavy on the science fiction."
+[2976] "H-H-How could they...?!
+[2977] T-They can't get away with this!"
+[2978] "You're tellin' me? But nobody gets to tell Asougi what to do."
+[2979] "That's awful..."
+[2980] "..."
+[2981] "So, uhh... Whadda we do now...?"
+[2982] "He don't look like much of a treasure to me."
+[2983] "You're right... What a letdown... You don't think there's some other actual treasure around here, do you?"
+[2984] "U-Uhh, you can't say that in front of him..."
+[2985] "..."
+[2986] "Kuma?"
+[2987] "I doubt Asougi is ever going to let you leave this place..."
+[2988] "...Huh?!"
+[2989] "I don't know what Asougi's planning to do with your body... but once they've done it, they're done with you. You'll get discarded."
+[2990] "Wha... What?!"
+[2991] "That's the way Asougi operates."
+[2992] "No! But I haven't done anything wrong...!
+[2993] Why would... Why would Asougi do that to me...?!"
+[2994] "There's nothing to suggest that they won't...
+[2995] Think about it. Were you treated kindly by any of the researchers here?"
+[2996] "Well... I did think that... they were, uhh...
+[2997] a little strange..."
+[2998] "They always said that I'd be able to leave when I got better... that I shouldn't worry...
+[2999] that I'd be able to see my friends again..."
+[3000] "So I waited and waited...
+[3001] I couldn't even go to school..."
+[3002] "But it had to be that way. Those were the company's orders... The doctors, my parents, they all told me to listen..."
+[3003] "But... but..."
+[3004] "..."
+[3005] "If you try to go home, they'll just bring you back here, so... Why don't you come with us?"
+[3006] "Huh...?!"
+[3007] "Huh?! Hold up, Kuma! Watch your mouth!
+[3008] You can't call shots like that by yourself!"
+[3009] "...How about it? Or would you rather trust Asougi and stay here as an obedient little body donor?"
+[3010] "...Uh...!"
+[3011] "...I-I'll go! I'll go with you!
+[3012] I... I hate this miserable place!"
+[3013] "...There, that's my suggestion."
+[3014] "Your suggestion? C'mon, dude..."
+[3015] "You don't usually do this kinda thing, Kuma."
+[3016] "Well, we're short-handed."
+[3017] "Hmm... Whaddaya think, all?"
+[3018] "I don't mind."
+[3019] "Hmm... It's fine by me!
+[3020] Kuma'll take care of him, right?"

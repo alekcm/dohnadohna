@@ -1,0 +1,98 @@
+[1455] "Hey, Flattt lady, you can't just go around doin' whatever you want. Attacking another clan after hustling's against the rules."
+[1456] "Oh, is it just?"
+[1457] "What'd you say?!"
+[1458] "You can scold me all you like, but in the end, unwritten rules aren't really enforceable."
+[1459] "So that's how it's gonna be, huh...? Well, you better watch your back next time you're hustling! Ya never know what'll happen..."
+[1460] "Ooh, I'm so scared."
+[1461] "Kgh!"
+[1462] "Torataro, get ba―!"
+[1463] "Oh... Ahh-gh-gahhh...!"
+[1464] "I wouldn't sleep on the road if I were you.
+[1465] It's dangerous... Mhmm!"
+[1466] "Torataroooo!"
+[1467] "Shit!"
+[1468] "Uh-oh!"
+[1469] "Ooh, how scary."
+[1470] (Sometimes I wish I could aim...!)
+[1471] "Should we deal with the rest of 'em?"
+[1472] "No, that's quite enough. Let's get out of here."
+[1473] "Hey! Get back heeeere!"
+[1474] "Stop, Kirakira! Help carry Torataro."
+[1475] "But―!"
+[1476] "Chasing them down now gets us nothing.
+[1477] It's illogical. Help Torataro!"
+[1478] "Torataro! Oh no, is it really bad?!"
+[1479] "This stab wound's pretty deep...
+[1480] We need to carry him back to base!"
+[1481] "O-Okay! D-Don't you die on us, Torataro!"
+[1482] "U-Umm... I've finished with the cleaning."
+[1483] "Ahh, sorry to make you do all the chores."
+[1484] "But you're letting me stay here...
+[1485] It wouldn't be right for me to do nothing..."
+[1486] "You're a serious girl, aren't ya?"
+[1487] (They seem like... good, ordinary people while they're here, but...)
+[1488] "Yaaaawn... But where is everybody tonight?
+[1489] I guess Kuma's out hustling, but..."
+[1490] (By hustling... t-they mean...
+[1491] p-prostitution... don't they?)
+[1492] "Tora and Kira said they'd go protect Kuma."
+[1493] "Hmm... Those two must have a lotta time on their hands. Well, no time to waste.
+[1494] Let's go on a hunt!"
+[1495] (Hunting is... when they break into places, steal things, and kidnap people...?)
+[1496] (It doesn't take a genius to know they're up to no good... I should probably report them to the authorities...)
+[1497] (But―)
+[1498] "Zappa?! You here?!"
+[1499] "Huh?!"
+[1500] "Hey, what's up, Kuma?
+[1501] ...Crap! T-Torataro!"
+[1502] "...!"
+[1503] "Ahh... Khh... Zappa..."
+[1504] "Torataro got stabbed! It was that Flattt lady!"
+[1506] "The wound's deep. I don't think she hit any vital organs, but there's a lot of blood...!"
+[1507] "We need a doctor! Call Mistress...!"
+[1508] "We've tried, but we can't get through.
+[1509] However many times we try..."
+[1510] "Argh! Why'd she pick right now to be busy?!"
+[1511] "U-Umm, we have to take him to a hospital immediately...!"
+[1512] "We can't. There's not a single hospital in this city that isn't affiliated with Asougi."
+[1513] "N-Now's not the time to worry about that!
+[1514] He's losing so much blood!"
+[1515] "When they find out we're Anti-Aso, they're not just going to lock us up.
+[1516] They might eliminate us outright."
+[1517] "N-No...!"
+[1518] "Does anybody know how to treat his wound?!"
+[1519] "N-No way! Not with a cut that deep!"
+[1520] "...I don't know how, either."
+[1521] "I can try. I'll need something to refer to."
+[1522] "Guess we're gonna have to risk it...!"
+[1523] "...U-Umm..."
+[1524] "I'll rush over to Mistress's shop! If anything goes down while I'm gone, Kuma's in charge!"
+[1525] "Got it. Kirakira, look up how to stitch up a wound."
+[1526] "Huh? Ahh, o-okay!
+[1527] I'll try and find a video...!"
+[1528] "...Excuse me!"
+[1529] "..."
+[1530] "..."
+[1531] "What is it, lady? Sorry, but make it quick."
+[1532] "I-I go... t-to a nursing school..."
+[1533] "Huh?! Can you do stitches?!"
+[1534] "W-Well... I haven't been formally trained on how to suture yet... b-but I do know the basics..."
+[1535] "A-And I... c-can't just stand around...
+[1536] when there's someone in need..."
+[1537] "..."
+[1538] "...S-So please l-let me treat him!"
+[1539] "Okay, we're countin' on ya!
+[1540] Kuma, you've got this!"
+[1541] "Okay."
+[1542] "Umm..."
+[1543] "What do we do first?"
+[1544] "Ahh, r-right... I-I didn't think you'd be so quick to trust me..."
+[1545] "We don't have time for questions, and Zappa trusts you. Besides, you get flustered too easily to lie."
+[1546] "Ngh... I-I guess... you're right..."
+[1547] "We just want to save our friend.
+[1548] Please... Help us."
+[1549] "...O-Okay!"
+[1550] "U-Umm, first... we need to sterilize the needle...
+[1551] I need thread that's as clean as possible...
+[1552] and boiling water! Please get me some!"
+[1553] "And then we need to... umm..."

@@ -1,0 +1,91 @@
+[4501] "Ahhhh. That attack actually hit?
+[4502] Man, ya got it bad."
+[4503] "Shinazu! What on earth are you doing?!"
+[4504] "What am I doing...?
+[4505] Overthrowing my ex-Boss."
+[4506] "...?!"
+[4507] "Knock-knock. Anybody home?
+[4508] I don't see any devil-men around... yet."
+[4509] "This place doesn't seem to be operating... Is it abandoned?"
+[4510] "Yeah, the factory was shut down years ago.
+[4511] They were apparently doing fine financially..."
+[4512] "Rumor is, they got shut down when they tried to go independent."
+[4513] "That's... kind of fishy, isn't it?"
+[4514] "Well, it's definitely not unheard of around here.
+[4515] When something rubs Asougi the wrong way, they just shut it down."
+[4516] "..."
+[4517] "Argh! We've hit a dead end, the damn gate's locked. Antenna?"
+[4518] "Bzzzzt! Antenna can't save you.
+[4519] This gate has no power."
+[4520] "No can do, huh?"
+[4521] "If it's not connected to the internet, or isn't electronic in the first place, then it isn't in my wheelhouse."
+[4522] "I see... Ahh, well. Guess we'll just have to resort to brute force!"
+[4523] "Think there's something beyond there?"
+[4524] "Hell if I know!"
+[4525] "...We're better off taking another way around.
+[4526] How would the Shinonome have gotten in there?"
+[4527] "Haah, haah... Our enemies...
+[4528] are really tough..."
+[4529] "That's 'cause these guys are some serious samurai... Don't go at 'em head-on.
+[4530] You're just gonna get yourself killed."
+[4531] "Ughhh... There's way too many of these devil-guys! And they keep on attacking us!"
+[4532] "Kuma... You all right?"
+[4533] "Yeah... My wounds have been tended to.
+[4534] I'm fine... khh..."
+[4535] "...They've been really gunning for you since we got here, huh?"
+[4536] "Ahh... You made it, didya?"
+[4537] "I was hoping you'd mix things up for us, man, but this is the same trick Murasaki pulled on us before."
+[4538] "Actually, I wasn't lying about this being a goodbye party... in a way."
+[4539] "Huh?"
+[4540] "...Ngh-ghh..."
+[4541] "Kikuchiyo...?"
+[4542] "If you'd showed up just a little later, we would've had time ta rough her up right."
+[4543] "You did this to her?"
+[4544] "Yep. Man, she's turned into a pushover.
+[4545] What, ya don't like ta see it?"
+[4546] "...Isn't she your precious princess?
+[4547] What's with this sudden change of heart?"
+[4548] "Nah, she's hopeless at this point.
+[4549] She broke on us and we can't fix her."
+[4550] "Gah-hah..."
+[4551] "That's why I'm taking over.
+[4552] Today, the Shinonome clan is reborn!"
+[4553] "...Ghh...!"
+[4554] "So, this was a genuine invitation, was it?"
+[4555] "Yeah, so make yourself comfy. We've got these complimentary daggers shined up nice for ya."
+[4556] "You wanna fight?"
+[4557] "Flattt don't seem ta be breathin' no more, so once we've wiped your crew out, the new Shinonome can make a fresh start, yeah?"
+[4558] "Whatcha gonna do? Turn tail 'n' run?
+[4559] That's probably the 'logical' answer, don't ya think?"
+[4560] "...You bastard!"
+[4561] "Aaaarghhh..."
+[4562] "Aaaah! Look, my sniper hole's even bigger now.
+[4563] You guys make a lousy buncha guests."
+[4564] (This guy just doesn't stay down...!)
+[4565] "Well, I think that's enough fun for one night.
+[4566] But next time, I'm really comin' for ya."
+[4567] "Keh! You're a sore loser! Want us to keep beating the shit outta you till you're dead?"
+[4568] "...Wait. Reinforcements are coming."
+[4569] "What?"
+[4570] "Hmph. I thought we'd be able to fire you up a little, but I see ya managed to keep your cool."
+[4571] "...What do you want?"
+[4572] "I wanna do what I feel like. I'm sick of ya tryin' ta logic everything, ya big-brained brat."
+[4573] "..."
+[4574] "Later."
+[4575] "Hold up a sec, man! Aren't you forgetting something? You gonna leave the lady here?"
+[4576] "Huh? We got no need for her anymore.
+[4577] Do what you want with her. Spoils of war."
+[4578] "Huh?! Are you outta your mind?!"
+[4579] "Agh... hk, ghh... S-Shinazu..."
+[4580] "...See ya, Madam."
+[4581] "...Can you stand, Kikuchiyo?"
+[4582] "Ghha... Don't... touch me..."
+[4583] (She's taken a real beating...)
+[4584] "No need to push yourself. Why don't you let us take a look at your woun―"
+[4585] "S-Shut up...
+[4586] Shut up! Shut up!"
+[4587] "..."
+[4588] "This is your fault! It's all your fault!"
+[4589] "I was meant to lead the Shinonome clan, take up the legacy of my grandfather, and take down Asougi!"
+[4590] "But now... it's all over! I...
+[4591] can't think straight anymore...!"
