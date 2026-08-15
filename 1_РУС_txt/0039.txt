@@ -1,20 +1,20 @@
-[3274] "Kyaaaaaaaaah!"
-[3275] "Mmmmmm! Cutie, cutie, cutie
-[3276] I could just eat you up...
-[3277] In fact, I think I will"
-[3278] "C-Cutie...?"
-[3279] "Mmhm?! Umm! P-Please get off me!"
-[3280] "How about you and I go somewhere together?
-[3281] Like a bar... mmm, or straight to a hotel♪" "H-Huh?!"
-[3282] "Ahh, this is my email address. You can send me a message, give me a call, or ask me where I am whenever you like, as much as you like!"
-[3283] "Huh? Huh? No, I can't do that...
-[3284] Who are you, anyway?!"
-[3285] "My name is Shion. Go on, repeat after me.
-[3286] Shiiiion..."
-[3287] "U-Uhh, I can't... Waaaahh!
-[3288] D-Don't lick inside my ear...!"
-[3289] "Then I'll just nibble on your earlobe, instead...
-[3290] Mmm"
+[3274] "Кьяаааааааа!"
+[3275] "Мммммм! Милашка, милашка, милашка
+[3276] Так бы и съела тебя...
+[3277] А знаешь, пожалуй, и съем"
+[3278] "М-милашка...?"
+[3279] "Мм-хм?! Ммм! П-пожалуйста, слезьте с меня!"
+[3280] "А не отправиться ли нам куда-нибудь вдвоём?
+[3281] В бар, например... ммм, или сразу в отель♪" "А-а?!"
+[3282] "Ах да, вот мой адрес. Пиши, звони, спрашивай, где я, — когда захочешь и сколько захочешь!"
+[3283] "А? А? Нет, я не могу...
+[3284] Да кто вы вообще такая?!"
+[3285] "Меня зовут Шион. Ну же, повтори за мной.
+[3286] Ши-о-о-он..."
+[3287] "Э-э, я не могу... Ваааа!
+[3288] Н-не лижите мне в ухо...!"
+[3289] "Тогда просто прикушу мочку...
+[3290] Ммм"
 [3291] "...Не знал, что у тебя такой характер."
 [3292] "Ой-ой."
 [3293] "А-а! Заппа! Э-э, у нас гостья..."

@@ -62,33 +62,33 @@
 [6513] но всё равно идём дальше!"
 [6514] "Да... Я тоже так думаю."
 [6515] "..."
-[6516] "Hmm-hm-hmmm♪ Hmm-hm-hm-hmm-hmmmm♪" "Oh, is oolong tea okay?"
-[6517] "Y-You don't have to get me anything..."
-[6518] "I was just thinking of having a drink myself, mhmhm. I'm so happy that you actually got in touch with me...♪" "T-That's fine..."
-[6519] "B-B-B-B-But why do I have to wear this?!"
-[6521] "Wah!"
-[6522] "Mhmhmhmhmhm! I knew it would suit you!
-[6523] You look adorable...♪" "Huh? Uhh, w-w-why are you touching me...?"
-[6524] "Now, let's toast. C'mon!"
-[6525] "O-Okay..."
-[6526] "Nuh-uh-uh! Drink. It. From. My. Mouth"
-[6527] "Wah-waaaaaahhh...!"
-[6528] "Okaaaaay, that's enough!
-[6529] No touching the dancers."
-[6530] "Aaaah! Aaaaaaahh?!"
-[6531] "Wow, this place has pretty girls."
-[6532] "What? Ughhh, you're already here?"
-[6533] "Bahahahaha! THAT's what the ladies see in you?!"
-[6534] "This moment will live forever on my hard drive!"
-[6535] "Waaaaahh! Nooo!
-[6536] D-Don't look at meeee!"
-[6537] "Uhhh... Kikuchiyo?"
-[6538] "D-Don't talk to me right now...
-[6539] Pff... pfffhahaha...!"
-[6540] (What kind of face is she making under that mask...?)
-[6541] "Great... I love uninvited guests..."
-[6542] "I see you've been taking good care of our buddy for us... but I'm afraid the deal's off."
-[6543] "Sorry, I don't do take-backs.
-[6544] Joker is mine."
-[6545] "Hey, c'mon... Don't be stubborn, now."
-[6546] "Joker..."
+[6516] "Хмм-хм-хммм♪ Хмм-хм-хм-хмм-хмммм♪" "Ой, улун подойдёт?"
+[6517] "В-вам не нужно ничего для меня доставать..."
+[6518] "Я и себе как раз собиралась налить, мхмхм. Так рада, что ты всё-таки со мной связался...♪" "Э-это... ничего..."
+[6519] "Н-н-н-н-но почему я должен это надевать?!"
+[6521] "Вах!"
+[6522] "Мхмхмхмхмхм! Так и знала, что тебе пойдёт!
+[6523] Просто прелесть...♪" "А? Э-э, з-з-зачем вы меня трогаете...?"
+[6524] "А теперь чокнемся. Ну же!"
+[6525] "Л-ладно..."
+[6526] "Не-не-не! Пить. Будешь. Из. Моего. Рта"
+[6527] "Ва-ваааааааа...!"
+[6528] "Та-а-ак, ну хватит!
+[6529] Танцовщиц руками не трогать."
+[6530] "Аааа! Ааааааа?!"
+[6531] "Ого, а тут красивые девочки."
+[6532] "Что? Фу-у, ты уже здесь?"
+[6533] "Бахахахаха! Так вот чем ты дам покоряешь?!"
+[6534] "Этот момент навеки останется на моём жёстком диске!"
+[6535] "Вааааа! Не-е-ет!
+[6536] Н-не смотрите на меня-я-я!"
+[6537] "Э-э... Кикучиё?"
+[6538] "Н-не говори со мной сейчас...
+[6539] Пфф... пфффхахаха...!"
+[6540] (Интересно, какое у неё лицо под этой маской...?)
+[6541] "Отлично... Обожаю незваных гостей..."
+[6542] "Смотрю, ты хорошо заботишься о нашем приятеле... но, боюсь, сделка отменяется."
+[6543] "Извини, обратно не отдаю.
+[6544] Джокер мой."
+[6545] "Эй, ну брось... Не упрямься."
+[6546] "Джокер..."

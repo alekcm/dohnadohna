@@ -7,65 +7,65 @@
 [5685] "Я подожду, если ты ненадолго.
 [5686] Я пока только подготовкой занимаюсь."
 [5687] "Обещаешь, да?! Я мигом! Чёрт..."
-[5688] "Now then, little lady... Where were we?"
-[5689] "Agh..."
-[5690] "I told you to go home last time you were here.
-[5691] You brought this on yourself... Heheh..."
-[5692] (I should've known... that there was nothing I could do by myself... ahh, but I... I...!)
-[5693] "Did somebody ask you to come here?
-[5694] Who sent you here?"
-[5695] "...N-Nobody sent me...!
-[5696] I came here to find my father...!"
-[5697] "Oh, but breaking and entering is a crime.
-[5698] When you get caught, you have to pay the price."
-[5699] "B-B-But this... is wrong! You should be sending me to the police...!"
-[5700] "The police? Ahahahaha! That's our job.
-[5701] And we've gotta do a thorough investigation."
-[5702] "...Ahh-ngh..."
-[5703] "So you're not in with those Anti-Aso punks from last time? You're not scouting the area...
-[5704] or buying time for them, are ya?"
-[5705] "N-N-No...! I don't know what you're talking about...!"
-[5706] "The only reason I came here is to find my father! Why won't you listen to me?!"
-[5707] "Hmm... Well, we can't just take your word for it.
-[5708] Our job is to maintain the peace in this city.
-[5709] We'll have to give you a thorough... searching."
-[5710] "Hih...!"
-[5711] "Aaaah!"
-[5712] "Uh-oh. You ain't gettin' away from us now.
-[5713] You're awfully suspicious..."
-[5714] "A-gh-ahh... D-Don't..."
-[5715] "Okay? Let's take a nice, exhaustive look at you.
-[5716] Seeing as we're in a hospital, there's all sorts of things we can make use of."
-[5717] "At last, it's my turn. You only had one job to do, and yet you blabbered on for ages."
-[5718] "C'mon, Director, what's the harm?
-[5719] It's important to set the mood, y'know?"
-[5720] "Well, I can't say I don't understand.
-[5721] I, too, let my feelings get the better of me sometimes. It's important."
-[5722] (Nobody... Nobody's listening to me...
-[5723] They won't even hear what I have to say...!)
-[5724] (I resisted for so long... and did some terrible things... but I was sure... so sure... that there had to be some good people in this city...)
-[5725] "But are you sure we can get away with this?"
-[5726] "Yep. I checked her belongings, and she's got no citizen ID number... There's no doubt she's from the Outside."
-[5727] "Hmm. Well, now. That means..."
-[5728] "Yep. No matter what we do to her...
-[5729] none of the bosses is gonna say a thing.
-[5730] We found ourselves a perfect toy."
-[5731] "So it seems. In that case, how about we have some fun?"
-[5732] (I still didn't fully understand... how...
-[5733] how deranged the people of this city are...!)
-[5734] "Hmm... This should do to start with."
-[5735] "Ahh...! M-Medication...?"
-[5736] "Yeah, we're in a hospital. They got truth serums, hallucinogens, stimulants... Hmm?
-[5737] What's this? It's got no label on it."
-[5738] "This is a drug that makes your body mistake pain for pleasure, so even if we get a little rough with her, she's going to love it."
-[5739] "Wow, what the hell? You really came prepared. Bet you can't get this over the counter, huh? Heheheh!"
-[5740] "There's a lot of demand for this stuff.
-[5741] It's still in the experimental phase, so what better time to test it out?"
-[5742] "It was sent to us from the ACSL.
-[5743] It should make things interesting."
-[5744] "Huh. Well, how about we get started, lost lady?
-[5745] We'll see what that sexy body has to say."
-[5746] "...Ack...! Ahh, stop...! Stop it...!"
+[5688] "Ну что ж, барышня... На чём мы остановились?"
+[5689] "Агх..."
+[5690] "В прошлый раз я велел тебе идти домой.
+[5691] Ты сама на это напросилась... Хе-хе..."
+[5692] (Надо было понимать... что одна я ничего не смогу... ах, но я... я...!)
+[5693] "Тебя кто-то просил сюда прийти?
+[5694] Кто тебя послал?"
+[5695] "...Н-никто меня не посылал...!
+[5696] Я пришла искать отца...!"
+[5697] "О, но проникновение со взломом — это преступление.
+[5698] Попалась — плати по счетам."
+[5699] "Н-н-но это же... неправильно! Вы должны сдать меня в полицию...!"
+[5700] "В полицию? Ахахахаха! Мы и есть полиция.
+[5701] И расследование мы обязаны провести тщательно."
+[5702] "...Ах-нгх..."
+[5703] "Так ты не из тех анти-асогийских щенков, что были в прошлый раз? Не разведываешь тут...
+[5704] не тянешь для них время, а?"
+[5705] "Н-н-нет...! Я не понимаю, о чём вы...!"
+[5706] "Я пришла сюда только затем, чтобы найти отца! Почему вы меня не слушаете?!"
+[5707] "Хм... Ну, на слово мы поверить не можем.
+[5708] Наша работа — поддерживать в этом городе порядок.
+[5709] Придётся тебя тщательно... обыскать."
+[5710] "Хих...!"
+[5711] "Аааах!"
+[5712] "Ой-ой. Теперь ты от нас никуда не денешься.
+[5713] Уж больно ты подозрительная..."
+[5714] "А-гх-ах... Н-не надо..."
+[5715] "Хорошо? Давай-ка осмотрим тебя как следует, ничего не упуская.
+[5716] Мы всё-таки в больнице — тут найдётся масса полезных штук."
+[5717] "Наконец-то моя очередь. У тебя была всего одна задача, а ты трепался целую вечность."
+[5718] "Да ладно вам, директор, что тут такого?
+[5719] Важно ведь создать настроение, а?"
+[5720] "Что ж, не могу сказать, что не понимаю.
+[5721] Я тоже порой поддаюсь чувствам. Это важно."
+[5722] (Никто... Никто меня не слушает...
+[5723] Они даже не желают выслушать...!)
+[5724] (Я так долго сопротивлялась... и совершила ужасные вещи... но я была уверена... так уверена... что в этом городе должны быть хорошие люди...)
+[5725] "Но вы уверены, что нам это сойдёт с рук?"
+[5726] "Ага. Я проверил её вещи — гражданского номера нет... Никаких сомнений, она Извне."
+[5727] "Хм. Ну надо же. Значит..."
+[5728] "Ага. Что бы мы с ней ни сделали...
+[5729] ни один из начальников слова не скажет.
+[5730] Нам досталась идеальная игрушка."
+[5731] "Похоже на то. В таком случае — не позабавиться ли нам?"
+[5732] (Я всё ещё не до конца понимала... насколько...
+[5733] насколько безумны люди этого города...!)
+[5734] "Хм... Для начала сойдёт вот это."
+[5735] "Ах...! Л-лекарство...?"
+[5736] "Ну да, мы же в больнице. Тут и сыворотки правды, и галлюциногены, и стимуляторы... Хм?
+[5737] А это что? Без этикетки."
+[5738] "Это препарат, от которого тело принимает боль за наслаждение. Так что можно обходиться с ней и погрубее — ей понравится."
+[5739] "Ого, ничего себе! Вы и правда подготовились. Такое ведь в аптеке не купишь, а? Хе-хе-хе!"
+[5740] "На это средство большой спрос.
+[5741] Оно пока на стадии испытаний — так почему бы не проверить его прямо сейчас?"
+[5742] "Его прислали нам из ACSL.
+[5743] Должно получиться любопытно."
+[5744] "Хех. Ну что, начнём, заблудшая барышня?
+[5745] Посмотрим, что скажет это соблазнительное тельце."
+[5746] "...Ак...! Ах, прекратите...! Прекратите...!"
 [5747] "Ладно, мы внутри! Не теряем времени!"
 [5748] "...Нарушители обнаружены!"
 [5749] (...А? У этих ребят другое оружие, не как обычно...!)
